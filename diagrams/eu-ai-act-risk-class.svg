@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="804" viewBox="0 0 1600 804" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>EU AI Act risk class: four questions</title><desc>Does it use AI; does it do a prohibited practice; does it take part in a high-risk use and influence the decisions there; does it interact with people or generate content that could mislead them. The results: not an AI system, prohibited, high, limited or minimal risk.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4B5563"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B45309"/></marker><marker id="arrr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B91C1C"/></marker><marker id="arrp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6D28D9"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803D"/></marker></defs>
+<rect width="1600" height="804" fill="#FFFFFF"/>
+<text x="40" y="52" font-size="28" font-weight="700" fill="#111827" text-anchor="start">EU AI Act risk class: four questions</text>
+<text x="40" y="80" font-size="15" font-weight="400" fill="#4B5563" text-anchor="start">The form stops as soon as an answer decides and explains each option in plain words. The result is the owner&#x27;s statement, reviewed at approval.</text>
+<rect x="40" y="150" width="284" height="150" rx="12" fill="#FFFFFF" stroke="#111827" stroke-width="1.6" />
+<polygon points="66,168 78,180 66,192 54,180" fill="#111827"/>
+<text x="66" y="185" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="90" y="185" font-size="14" font-weight="700" fill="#111827" text-anchor="start">Does it use AI to do its</text>
+<text x="90" y="204" font-size="14" font-weight="700" fill="#111827" text-anchor="start">work?</text>
+<text x="90" y="231" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">an AI system as Article 3(1) defines</text>
+<text x="90" y="246" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">it</text>
+<rect x="349" y="150" width="284" height="150" rx="12" fill="#FFFFFF" stroke="#111827" stroke-width="1.6" />
+<polygon points="375,168 387,180 375,192 363,180" fill="#111827"/>
+<text x="375" y="185" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="399" y="185" font-size="14" font-weight="700" fill="#111827" text-anchor="start">Does it do a practice that</text>
+<text x="399" y="204" font-size="14" font-weight="700" fill="#111827" text-anchor="start">Article 5 prohibits?</text>
+<text x="399" y="231" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">see the list below</text>
+<rect x="658" y="150" width="284" height="150" rx="12" fill="#FFFFFF" stroke="#111827" stroke-width="1.6" />
+<polygon points="684,168 696,180 684,192 672,180" fill="#111827"/>
+<text x="684" y="185" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="708" y="185" font-size="14" font-weight="700" fill="#111827" text-anchor="start">Does it take part in a</text>
+<text x="708" y="204" font-size="14" font-weight="700" fill="#111827" text-anchor="start">high-risk use of Annex III,</text>
+<text x="708" y="223" font-size="14" font-weight="700" fill="#111827" text-anchor="start">and influence or automate</text>
+<text x="708" y="242" font-size="14" font-weight="700" fill="#111827" text-anchor="start">the decisions there?</text>
+<text x="708" y="269" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">an assistive tool there is not high</text>
+<text x="708" y="284" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">risk</text>
+<rect x="967" y="150" width="284" height="150" rx="12" fill="#FFFFFF" stroke="#111827" stroke-width="1.6" />
+<polygon points="993,168 1005,180 993,192 981,180" fill="#111827"/>
+<text x="993" y="185" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="1017" y="185" font-size="14" font-weight="700" fill="#111827" text-anchor="start">Does it interact directly</text>
+<text x="1017" y="204" font-size="14" font-weight="700" fill="#111827" text-anchor="start">with people, or generate</text>
+<text x="1017" y="223" font-size="14" font-weight="700" fill="#111827" text-anchor="start">content that could mislead</text>
+<text x="1017" y="242" font-size="14" font-weight="700" fill="#111827" text-anchor="start">them?</text>
+<text x="1017" y="269" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">customers, employees, anyone</text>
+<line x1="324" y1="225.0" x2="345" y2="225.0" stroke="#4B5563" stroke-width="2" marker-end="url(#arr)"/>
+<text x="336.5" y="217.0" font-size="11.5" font-weight="700" fill="#4B5563" text-anchor="middle">yes</text>
+<line x1="633" y1="225.0" x2="654" y2="225.0" stroke="#4B5563" stroke-width="2" marker-end="url(#arr)"/>
+<text x="645.5" y="217.0" font-size="11.5" font-weight="700" fill="#4B5563" text-anchor="middle">no</text>
+<line x1="942" y1="225.0" x2="963" y2="225.0" stroke="#4B5563" stroke-width="2" marker-end="url(#arr)"/>
+<text x="954.5" y="217.0" font-size="11.5" font-weight="700" fill="#4B5563" text-anchor="middle">no</text>
+<line x1="1251" y1="225.0" x2="1272" y2="225.0" stroke="#4B5563" stroke-width="2" marker-end="url(#arr)"/>
+<text x="1263.5" y="217.0" font-size="11.5" font-weight="700" fill="#4B5563" text-anchor="middle">no</text>
+<line x1="182.0" y1="300" x2="182.0" y2="366" stroke="#4B5563" stroke-width="2" marker-end="url(#arr)"/>
+<text x="192.0" y="338" font-size="11.5" font-weight="700" fill="#4B5563" text-anchor="start">no</text>
+<rect x="40" y="370" width="284" height="118" rx="12" fill="#E5E7EB" />
+<text x="60" y="404" font-size="18" font-weight="700" fill="#111827" text-anchor="start">Not an AI system</text>
+<text x="60" y="430" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">The process ends; whoever registered it</text>
+<text x="60" y="447" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">can withdraw it</text>
+<line x1="491.0" y1="300" x2="491.0" y2="366" stroke="#4B5563" stroke-width="2" marker-end="url(#arr)"/>
+<text x="501.0" y="338" font-size="11.5" font-weight="700" fill="#4B5563" text-anchor="start">yes</text>
+<rect x="349" y="370" width="284" height="118" rx="12" fill="#111827" />
+<text x="369" y="404" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="start">Prohibited</text>
+<text x="369" y="430" font-size="12.5" font-weight="400" fill="#FFFFFF" text-anchor="start">Must not be deployed: the Stop path</text>
+<line x1="800.0" y1="300" x2="800.0" y2="366" stroke="#4B5563" stroke-width="2" marker-end="url(#arr)"/>
+<text x="810.0" y="338" font-size="11.5" font-weight="700" fill="#4B5563" text-anchor="start">yes</text>
+<rect x="658" y="370" width="284" height="118" rx="12" fill="#FEE2E2" />
+<text x="678" y="404" font-size="18" font-weight="700" fill="#991B1B" text-anchor="start">High risk</text>
+<text x="678" y="430" font-size="12.5" font-weight="400" fill="#991B1B" text-anchor="start">The requirements for high-risk AI</text>
+<text x="678" y="447" font-size="12.5" font-weight="400" fill="#991B1B" text-anchor="start">systems apply, whatever the path</text>
+<line x1="1109.0" y1="300" x2="1109.0" y2="366" stroke="#4B5563" stroke-width="2" marker-end="url(#arr)"/>
+<text x="1119.0" y="338" font-size="11.5" font-weight="700" fill="#4B5563" text-anchor="start">yes</text>
+<rect x="967" y="370" width="284" height="118" rx="12" fill="#FEF3C7" />
+<text x="987" y="404" font-size="18" font-weight="700" fill="#92400E" text-anchor="start">Limited risk</text>
+<text x="987" y="430" font-size="12.5" font-weight="400" fill="#92400E" text-anchor="start">The transparency obligations of Article</text>
+<text x="987" y="447" font-size="12.5" font-weight="400" fill="#92400E" text-anchor="start">50 apply</text>
+<rect x="1276" y="150" width="284" height="150" rx="12" fill="#DCFCE7" />
+<text x="1296" y="190" font-size="18" font-weight="700" fill="#166534" text-anchor="start">Minimal risk</text>
+<text x="1296" y="216" font-size="12.5" font-weight="400" fill="#166534" text-anchor="start">No obligations specific to its risk</text>
+<text x="1296" y="233" font-size="12.5" font-weight="400" fill="#166534" text-anchor="start">class; the lifecycle still applies</text>
+<text x="349" y="538" font-size="13" font-weight="700" fill="#4B5563" text-anchor="start" letter-spacing="1.2">PROHIBITED PRACTICES (ARTICLE 5)</text>
+<circle cx="354" cy="559.5" r="2.6" fill="#4B5563"/>
+<text x="365" y="564" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">manipulation or deception</text>
+<circle cx="354" cy="579.5" r="2.6" fill="#4B5563"/>
+<text x="365" y="584" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">exploiting vulnerabilities</text>
+<circle cx="354" cy="599.5" r="2.6" fill="#4B5563"/>
+<text x="365" y="604" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">social scoring</text>
+<circle cx="354" cy="619.5" r="2.6" fill="#4B5563"/>
+<text x="365" y="624" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">predicting crime from profiling</text>
+<circle cx="354" cy="639.5" r="2.6" fill="#4B5563"/>
+<text x="365" y="644" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">scraping facial images</text>
+<circle cx="354" cy="659.5" r="2.6" fill="#4B5563"/>
+<text x="365" y="664" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">emotion recognition at work or in</text>
+<text x="365" y="680" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">education</text>
+<circle cx="354" cy="695.5" r="2.6" fill="#4B5563"/>
+<text x="365" y="700" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">categorising people by sensitive traits</text>
+<text x="365" y="716" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">from biometric data</text>
+<circle cx="354" cy="731.5" r="2.6" fill="#4B5563"/>
+<text x="365" y="736" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">real-time remote biometric identification</text>
+<text x="365" y="752" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">for law enforcement</text>
+<text x="658" y="538" font-size="13" font-weight="700" fill="#4B5563" text-anchor="start" letter-spacing="1.2">HIGH-RISK USES (ANNEX III)</text>
+<circle cx="663" cy="559.5" r="2.6" fill="#4B5563"/>
+<text x="674" y="564" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">biometrics</text>
+<circle cx="663" cy="579.5" r="2.6" fill="#4B5563"/>
+<text x="674" y="584" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">critical infrastructure</text>
+<circle cx="663" cy="599.5" r="2.6" fill="#4B5563"/>
+<text x="674" y="604" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">education</text>
+<circle cx="663" cy="619.5" r="2.6" fill="#4B5563"/>
+<text x="674" y="624" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">recruitment; decisions about workers</text>
+<circle cx="663" cy="639.5" r="2.6" fill="#4B5563"/>
+<text x="674" y="644" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">public benefits</text>
+<circle cx="663" cy="659.5" r="2.6" fill="#4B5563"/>
+<text x="674" y="664" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">creditworthiness and credit scoring</text>
+<circle cx="663" cy="679.5" r="2.6" fill="#4B5563"/>
+<text x="674" y="684" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">life and health insurance pricing</text>
+<circle cx="663" cy="699.5" r="2.6" fill="#4B5563"/>
+<text x="674" y="704" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">emergency calls</text>
+<circle cx="663" cy="719.5" r="2.6" fill="#4B5563"/>
+<text x="674" y="724" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">law enforcement; migration and border</text>
+<text x="674" y="740" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">control</text>
+<circle cx="663" cy="755.5" r="2.6" fill="#4B5563"/>
+<text x="674" y="760" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">justice and democratic processes</text>
+<text x="967" y="538" font-size="13" font-weight="700" fill="#4B5563" text-anchor="start" letter-spacing="1.2">RULES OF THE FORM</text>
+<circle cx="972" cy="559.5" r="2.6" fill="#4B5563"/>
+<text x="983" y="564" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">A fact not known gives “cannot classify: fact unknown”, never a default low class</text>
+<circle cx="972" cy="581.5" r="2.6" fill="#4B5563"/>
+<text x="983" y="586" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Where an exception may apply, the person chooses the practice all the same and explains it</text>
+<text x="983" y="602" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">to the AI Governance Officer</text>
+<circle cx="972" cy="619.5" r="2.6" fill="#4B5563"/>
+<text x="983" y="624" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">The risk class, with the process impact and criticality, gives the change materiality (6.2)</text>
+<rect x="40" y="520" width="284" height="118" rx="12" fill="#F9FAFB" stroke="#D1D5DB" stroke-width="1" />
+<text x="58" y="548" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">The lists are the Act&#x27;s, in short. Every</text>
+<text x="58" y="565" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">option in the form carries a</text>
+<text x="58" y="582" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">plain-language explanation; Compliance</text>
+<text x="58" y="599" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">and Legal validate the logic.</text>
+</svg>

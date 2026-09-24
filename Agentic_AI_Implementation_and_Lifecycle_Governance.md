@@ -5,15 +5,18 @@
 | | |
 |---|---|
 | Document | Governance framework for agentic AI |
-| Version | 1.0 · September 2026 |
+| Version | 1.1 · September 2026 |
 | Author | Andres Gavriljuk |
 | Intended readers | CISO and information security · Risk (operational and model risk) · Data Protection Officer · Compliance and Legal · Technology and architecture · Internal Audit · business owners and builders of AI |
 | How to use it | A template to adapt. Once an organisation has adapted and agreed it, it becomes the basis for [its AI standard] and for the requirements on the technology that supports it (section 12) |
 | Licence | [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0) |
 
-**Reading guide.** **Three figures introduce the whole model**, for readers who want the picture before the detail:
-Figure 1, one lifecycle with its two tracks (section 1); Figure 2, how much governance an asset gets (section 6);
-Figure 3, who does what at each stage (section 7). Section 1 is the summary on one page. Sections 2 to 4 say why and on
+**Reading guide.** **Fourteen figures carry the model**, for readers who want the picture before the detail.
+Three introduce the whole of it: Figure 1, one lifecycle with its two tracks (section 1); Figure 5, how much
+governance an asset gets (section 6); Figure 7, who does what at each stage (section 7). The others open up one topic
+each: what an agent is made of (Figure 2), the operating model (3), who does what by activity (4), the change
+materiality (6), the initial approval (8), testing (9), change after go-live (10), automation (11), the supporting
+technology (12), the roadmap (13) and the EU AI Act risk class (14). Section 1 is the summary on one page. Sections 2 to 4 say why and on
 which principles. Section 5 says who builds, who tests and who approves; section 6 how much governance an asset gets.
 Sections 7 to 9 are the core: the lifecycle, what happens at each stage, and what happens when something goes wrong.
 Section 10 says what each function gets, section 11 how automation keeps all this fast and affordable, section 12 what
@@ -78,6 +81,10 @@ model and the lifecycle (sections 4 to 9) with the functions they involve; name 
 ---
 
 ## 2. Why agentic AI needs its own lifecycle
+
+![Figure 2. An agent is assembled, and its parts keep changing](diagrams/agent-anatomy.svg)
+
+*Figure 2. An agent is assembled: its platform, model, tools, skills and knowledge sources are assets of their own, each with an owner. A solid border marks the full track, a dashed one the component track (7.1). Change comes from vendors, component owners and builders, and travels along the connections to every agent that uses the part (8.7).*
 
 | What is different about agents | What it means for governance |
 |---|---|
@@ -206,6 +213,10 @@ Whatever technology supports the framework must guarantee these four, and no con
 
 ## 5. Operating model: who builds, who tests, who approves
 
+![Figure 3. Who builds, who tests, who approves](diagrams/operating-model.svg)
+
+*Figure 3. The operating model: the three functions with their questions, roles and outputs (5.1, 5.3); the rule that keeps them apart (5.5); the AI Governance Council where they meet (5.2); Internal Audit's independent assurance.*
+
 ### 5.1 Three separate functions
 
 The model follows the three pillars of ADG: **Adopt builds and runs, Defend tests and protects, Govern approves and
@@ -267,7 +278,11 @@ follows from being named on an asset.
 
 ### 5.4 Who does what
 
-By activity, below; by lifecycle stage, in Figure 3 (section 7).
+By activity, in Figure 4 and the table below; by lifecycle stage, in Figure 7 (section 7).
+
+![Figure 4. Who does what: the responsibility matrix](diagrams/responsibility-matrix.svg)
+
+*Figure 4. Who does what, as a heatmap of the table below: each activity by role, the roles grouped by function. The darker the cell, the more the role carries.*
 
 R = does the work · A = accountable · C = consulted · I = informed · **S** = signs off
 
@@ -310,9 +325,9 @@ R = does the work · A = accountable · C = consulted · I = informed · **S** =
 
 ## 6. How much governance an asset gets
 
-![Figure 2. How much governance an asset gets](diagrams/governance-paths.svg)
+![Figure 5. How much governance an asset gets](diagrams/governance-paths.svg)
 
-*Figure 2. For full-track assets the change materiality decides the path (6.2); components are assessed by their
+*Figure 5. For full-track assets the change materiality decides the path (6.2); components are assessed by their
 class instead (7.3). On every path, the level of autonomy sets the minimum
 controls (6.1), personal data starts the data protection route (6.4), and a high-risk system carries its own
 requirements.*
@@ -339,6 +354,10 @@ Every change that brings AI into a business process or alters one is rated by it
 (another business process or purpose), or a substantial modification of one in use (8.7). The materiality decides
 the **path**: how deep the change risk assessment goes, who takes part and who decides. It is rated at Gate 1 and
 again whenever the asset or its use changes substantially, so it serves both assessing and reassessing the risk.
+
+![Figure 6. Change materiality: from three answers to a path](diagrams/materiality-matrix.svg)
+
+*Figure 6. The change materiality: the three inputs, the matrix of the reference method, the adjustments that can only raise it, and the path it sets. The six examples are illustrative.*
 
 **Three inputs**
 
@@ -519,12 +538,12 @@ that use it do. Such building blocks therefore take a **shorter track through th
 | 8 Escalated | Fixes | Investigates; re-tests | Decides on suspension and on the return to production |
 | 9 Retired | Decommissions; removes access | Preserves evidence | Records the lessons; updates policy |
 
-**The same, role by role.** Figure 3 opens the functions up into the roles of section 5.3 and shows the specific
+**The same, role by role.** Figure 7 opens the functions up into the roles of section 5.3 and shows the specific
 actions each performs at each stage, the decisions and sign-offs marked apart.
 
-![Figure 3. The lifecycle in detail: who does what at each stage](diagrams/lifecycle-roles.svg)
+![Figure 7. The lifecycle in detail: who does what at each stage](diagrams/lifecycle-roles.svg)
 
-*Figure 3. The lifecycle in detail: the nine stages as columns and the roles as lanes; gates 1 and 2 as lines every
+*Figure 7. The lifecycle in detail: the nine stages as columns and the roles as lanes; gates 1 and 2 as lines every
 full-track asset must pass, gate 3 continuous in production; the component track along the bottom.*
 
 ### 7.3 The component track
@@ -580,6 +599,10 @@ and reusable, or registered with the asset.
 
 **Purpose:** decide early, before money is spent, whether we may build or buy this, on what conditions, and what
 go-live will ask for.
+
+![Figure 8. Gate 1: the initial approval](diagrams/initial-approval.svg)
+
+*Figure 8. The initial approval (Appendix B): the owner's four assessments in parallel; the answers decide who else is asked; the approvals in parallel. A dashed step runs only when its condition holds.*
 
 The **initial approval** workflow:
 
@@ -672,6 +695,10 @@ with evidence by its path (6.2) and its level of autonomy (6.1). Testing covers 
 (security and integrity), **operational** (wrong or unreliable results), **societal** (bias and unfair treatment)
 and **systemic** (failures that spread between agents or at scale).
 
+![Figure 9. Testing: what is tested, by whom, and how deep](diagrams/testing.svg)
+
+*Figure 9. Testing: what is assessed once and inherited, what is tested against which kind of harm and by whom, the depth each path asks for (Appendix D), and how a test is passed.*
+
 **What is tested, and by whom**
 
 | Kind of testing | What it shows | Harm | Who tests |
@@ -751,6 +778,10 @@ evidence, under which conditions, and until when.
 ### 8.7 Operate — *In production* (Gate 3, continuous)
 
 **Purpose:** an approval is a point in time; this stage answers whether the asset **still deserves it**.
+
+![Figure 10. After go-live: does it still deserve its approval?](diagrams/change-after-go-live.svg)
+
+*Figure 10. After go-live: change is declared or detected, triaged by rules and judged by a person; a substantial modification or a new use is rated again (6.2) and passes the gates again. Beside it, what is watched all the time.*
 
 **a) Change management.** **Planned change is declared before it is made:** a builder or a pipeline tells the
 governance solution through its API, asks what the change would mean for the asset's classification and obligations, and
@@ -881,6 +912,10 @@ to govern but to govern **efficiently**. People spend their time where judgement
 and testing what a machine cannot. The governance solution does the rest: it reads, pre-fills, settles by rule, routes, reminds
 and records. Automation prepares decisions that belong to people; it never takes them.
 
+![Figure 11. Where automation saves the most](diagrams/automation.svg)
+
+*Figure 11. The ten places of 11.1 on the lifecycle's four phases, numbered by the effort they save; what stays with people (11.2); the guardrails (11.3) and the effort aimed for (11.4).*
+
 ### 11.1 The ten places where automation saves the most
 
 Ordered roughly by how much effort they save across the whole portfolio.
@@ -939,6 +974,10 @@ framework is meant to be run with a **governance solution**: automated technolog
 workflows and assessments, and keeps the record. In ADG's terms it is the Govern function's system of record. This
 section sets what the solution must do, so that candidates can be compared against it. It does not assume a
 particular product.
+
+![Figure 12. The governance solution in its landscape](diagrams/solution-landscape.svg)
+
+*Figure 12. The governance solution in its landscape: what it must do, who reaches it, how it links to the existing tools, what is not its job, and how to choose it. It reads the live path and stays out of it.*
 
 | Capability | The solution must |
 |---|---|
@@ -1038,6 +1077,10 @@ accordingly:
 ## 14. Implementation roadmap
 
 The framework is agreed first; the technology that supports it is chosen against it afterwards.
+
+![Figure 13. Introducing it: six phases](diagrams/roadmap.svg)
+
+*Figure 13. The roadmap: what happens in each phase and when it is done, and the measures that show the model works.*
 
 | Phase | What happens | Done when |
 |---|---|---|
@@ -1151,6 +1194,10 @@ once.
 | Retirement | Dependants told; connections ended; access removed; lessons recorded |
 
 ## Appendix C — EU AI Act risk assessment: the logic
+
+![Figure 14. EU AI Act risk class: four questions](diagrams/eu-ai-act-risk-class.svg)
+
+*Figure 14. The EU AI Act risk class in four questions. The form stops as soon as an answer decides.*
 
 | Step | Question | Result |
 |---|---|---|

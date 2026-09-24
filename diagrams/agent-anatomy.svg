@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="830" viewBox="0 0 1600 830" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>An agent is assembled, and its parts keep changing</title><desc>An agent is built on a platform and uses a model, tools, skills and knowledge sources, each an asset with its own owner. The class decides the track. Change comes from vendors, component owners and builders, and travels along the connections to every agent that uses the part.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4B5563"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B45309"/></marker><marker id="arrr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B91C1C"/></marker><marker id="arrp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6D28D9"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803D"/></marker></defs>
+<rect width="1600" height="830" fill="#FFFFFF"/>
+<text x="40" y="52" font-size="28" font-weight="700" fill="#111827" text-anchor="start">An agent is assembled, and its parts keep changing</text>
+<text x="40" y="80" font-size="15" font-weight="400" fill="#4B5563" text-anchor="start">Every part is an asset of its own, with an owner. The class decides its track, and a change to a part reaches every agent that uses it.</text>
+<line x1="550" y1="372" x2="550" y2="250" stroke="#9CA3AF" stroke-width="1.8"/>
+<line x1="420" y1="372" x2="342" y2="262" stroke="#9CA3AF" stroke-width="1.8"/>
+<line x1="400" y1="460" x2="342" y2="450" stroke="#9CA3AF" stroke-width="1.8"/>
+<line x1="420" y1="568" x2="342" y2="650" stroke="#9CA3AF" stroke-width="1.8"/>
+<line x1="550" y1="568" x2="550" y2="676" stroke="#9CA3AF" stroke-width="1.8"/>
+<line x1="700" y1="470" x2="812" y2="470" stroke="#9CA3AF" stroke-width="1.8"/>
+<rect x="514.6" y="300.0" width="70.80000000000001" height="22" rx="11" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1" />
+<text x="550.0" y="315.5" font-size="12" font-weight="400" fill="#4B5563" text-anchor="middle" font-style="italic">built on</text>
+<rect x="355.5" y="306.0" width="51.0" height="22" rx="11" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1" />
+<text x="381.0" y="321.5" font-size="12" font-weight="400" fill="#4B5563" text-anchor="middle" font-style="italic">using</text>
+<rect x="338.9" y="444.0" width="64.2" height="22" rx="11" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1" />
+<text x="371.0" y="459.5" font-size="12" font-weight="400" fill="#4B5563" text-anchor="middle" font-style="italic">calling</text>
+<rect x="348.9" y="598.0" width="64.2" height="22" rx="11" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1" />
+<text x="381.0" y="613.5" font-size="12" font-weight="400" fill="#4B5563" text-anchor="middle" font-style="italic">reading</text>
+<rect x="524.5" y="611.0" width="51.0" height="22" rx="11" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1" />
+<text x="550.0" y="626.5" font-size="12" font-weight="400" fill="#4B5563" text-anchor="middle" font-style="italic">using</text>
+<rect x="727.2" y="459.0" width="57.6" height="22" rx="11" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1" />
+<text x="756.0" y="474.5" font-size="12" font-weight="400" fill="#4B5563" text-anchor="middle" font-style="italic">serves</text>
+<rect x="430" y="130" width="240" height="120" rx="10" fill="#FFFFFF" stroke="#111827" stroke-width="1.8" />
+<text x="446" y="156" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Platform</text>
+<text x="446" y="176" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">e.g. Copilot Studio, Bedrock.</text>
+<text x="446" y="192" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">People use it directly; assessed</text>
+<text x="446" y="208" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">once, and agents inherit the result</text>
+<text x="446" y="236" font-size="12" font-weight="600" fill="#B45309" text-anchor="start">Δ new features, changed terms</text>
+<rect x="40" y="156" width="300" height="106" rx="10" fill="#F9FAFB" stroke="#6B7280" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="56" y="182" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Model</text>
+<text x="56" y="202" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">A provider&#x27;s model at a version, or one built</text>
+<text x="56" y="218" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">in-house</text>
+<text x="56" y="248" font-size="12" font-weight="600" fill="#B45309" text-anchor="start">Δ a new version from the vendor</text>
+<rect x="40" y="318" width="300" height="214" rx="10" fill="#F9FAFB" stroke="#6B7280" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="56" y="344" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Tools, MCP servers, APIs</text>
+<text x="56" y="364" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">What the agent can call, tiered by how far it</text>
+<text x="56" y="380" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">reaches</text>
+<rect x="56" y="392" width="69.82" height="22" rx="11.0" fill="#DCFCE7" />
+<text x="90.91" y="407.14" font-size="11.5" font-weight="600" fill="#166534" text-anchor="middle">1 · Read</text>
+<rect x="131.82" y="392" width="123.63999999999999" height="22" rx="11.0" fill="#FEF3C7" />
+<text x="193.64" y="407.14" font-size="11.5" font-weight="600" fill="#92400E" text-anchor="middle">2 · Write inside</text>
+<rect x="56" y="420" width="116.9125" height="22" rx="11.0" fill="#FEE2E2" />
+<text x="114.45625" y="435.14" font-size="11.5" font-weight="600" fill="#991B1B" text-anchor="middle">3 · Act outside</text>
+<text x="56" y="462" font-size="12" font-weight="400" fill="#111827" text-anchor="start">Tiers 2 and 3: their owner approves each</text>
+<text x="56" y="478" font-size="12" font-weight="400" fill="#111827" text-anchor="start">agent that uses them</text>
+<text x="56" y="518" font-size="12" font-weight="600" fill="#B45309" text-anchor="start">Δ new capability, higher tier</text>
+<rect x="40" y="600" width="300" height="106" rx="10" fill="#F9FAFB" stroke="#6B7280" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="56" y="626" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Knowledge sources</text>
+<text x="56" y="646" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">Document stores, retrieval indexes,</text>
+<text x="56" y="662" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">databases, with their data classes</text>
+<text x="56" y="692" font-size="12" font-weight="600" fill="#B45309" text-anchor="start">Δ new data, wider access</text>
+<rect x="430" y="676" width="240" height="106" rx="10" fill="#F9FAFB" stroke="#6B7280" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="446" y="702" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Skills</text>
+<text x="446" y="722" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">Reusable instructions shared</text>
+<text x="446" y="738" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">between agents</text>
+<text x="446" y="768" font-size="12" font-weight="600" fill="#B45309" text-anchor="start">Δ a new version</text>
+<rect x="812" y="420" width="220" height="100" rx="10" fill="#F9FAFB" stroke="#D1D5DB" stroke-width="1.2" />
+<text x="828" y="446" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Use case</text>
+<text x="828" y="466" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">The business purpose it serves;</text>
+<text x="828" y="482" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">classified with its agent</text>
+<rect x="432" y="400" width="300" height="196" rx="12" fill="#FFFFFF" stroke="#9CA3AF" stroke-width="1.2" />
+<rect x="416" y="386" width="300" height="196" rx="12" fill="#FFFFFF" stroke="#9CA3AF" stroke-width="1.2" />
+<text x="738" y="608" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">and every other agent built</text>
+<text x="738" y="624" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">from the same parts</text>
+<rect x="400" y="372" width="300" height="196" rx="12" fill="#111827" />
+<text x="420" y="406" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="start">Agent</text>
+<text x="682" y="405" font-size="11" font-weight="400" fill="#D1D5DB" text-anchor="end" font-style="italic">full track</text>
+<circle cx="425" cy="431.32" r="2.6" fill="#D1D5DB"/>
+<text x="436" y="436" font-size="13" font-weight="400" fill="#FFFFFF" text-anchor="start">Instructions and purpose</text>
+<circle cx="425" cy="453.32" r="2.6" fill="#D1D5DB"/>
+<text x="436" y="458" font-size="13" font-weight="400" fill="#FFFFFF" text-anchor="start">Level of autonomy; authority statement</text>
+<circle cx="425" cy="475.32" r="2.6" fill="#D1D5DB"/>
+<text x="436" y="480" font-size="13" font-weight="400" fill="#FFFFFF" text-anchor="start">Its identity and permissions</text>
+<circle cx="425" cy="497.32" r="2.6" fill="#D1D5DB"/>
+<text x="436" y="502" font-size="13" font-weight="400" fill="#FFFFFF" text-anchor="start">Who can use it</text>
+<text x="420" y="554" font-size="12" font-weight="600" fill="#FCD34D" text-anchor="start">Δ instructions edited, a tool added</text>
+<text x="1100" y="142" font-size="13" font-weight="700" fill="#4B5563" text-anchor="start" letter-spacing="1.2">TWO TRACKS, DECIDED BY THE CLASS</text>
+<rect x="1100" y="156" width="460" height="68" rx="10" fill="#FFFFFF" stroke="#111827" stroke-width="1.8" />
+<text x="1116" y="181" font-size="14" font-weight="700" fill="#111827" text-anchor="start">Full track</text>
+<text x="1116" y="201" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">Agents, AI-enabled systems, platforms: nine stages, three gates</text>
+<rect x="1100" y="236" width="460" height="68" rx="10" fill="#F9FAFB" stroke="#6B7280" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="1116" y="261" font-size="14" font-weight="700" fill="#111827" text-anchor="start">Component track</text>
+<text x="1116" y="281" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">Models, tools, skills, knowledge sources: assessed by class, then reused</text>
+<text x="1100" y="326" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">A use case is classified and approved with the agent that implements it.</text>
+<text x="1100" y="372" font-size="13" font-weight="700" fill="#4B5563" text-anchor="start" letter-spacing="1.2">WHERE CHANGE COMES FROM</text>
+<text x="1100" y="398" font-size="14" font-weight="700" fill="#B45309" text-anchor="start">Δ</text>
+<text x="1122" y="398" font-size="13.5" font-weight="700" fill="#111827" text-anchor="start">The vendor</text>
+<text x="1122" y="417" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">new model versions, changed terms, new subprocessors, end of support</text>
+<text x="1100" y="444" font-size="14" font-weight="700" fill="#B45309" text-anchor="start">Δ</text>
+<text x="1122" y="444" font-size="13.5" font-weight="700" fill="#111827" text-anchor="start">A component&#x27;s owner</text>
+<text x="1122" y="463" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">new tool capabilities, a skill&#x27;s new version, new data in a knowledge</text>
+<text x="1122" y="480" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">source</text>
+<text x="1100" y="507" font-size="14" font-weight="700" fill="#B45309" text-anchor="start">Δ</text>
+<text x="1122" y="507" font-size="13.5" font-weight="700" fill="#111827" text-anchor="start">The builder</text>
+<text x="1122" y="526" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">instructions edited, a tool added, the audience widened</text>
+<text x="1100" y="575" font-size="13" font-weight="700" fill="#4B5563" text-anchor="start" letter-spacing="1.2">WHAT GOVERNANCE DOES WITH IT</text>
+<circle cx="1105" cy="596.5" r="2.6" fill="#4B5563"/>
+<text x="1116" y="601" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Planned change is declared before it is made; the rest is detected</text>
+<circle cx="1105" cy="620.5" r="2.6" fill="#4B5563"/>
+<text x="1116" y="625" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">A change travels along the connections to every agent that uses the</text>
+<text x="1116" y="642" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">part</text>
+<circle cx="1105" cy="661.5" r="2.6" fill="#4B5563"/>
+<text x="1116" y="666" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">A substantial one is rated again and passes the gates again (8.7)</text>
+<circle cx="1105" cy="685.5" r="2.6" fill="#4B5563"/>
+<text x="1116" y="690" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Assessed once, reused many times: an agent inherits what its platform</text>
+<text x="1116" y="707" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">and parts have been through</text>
+</svg>

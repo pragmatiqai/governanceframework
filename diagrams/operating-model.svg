@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1128" viewBox="0 0 1600 1128" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Who builds, who tests, who approves</title><desc>The operating model: build and run, test and protect, approve and oversee are separate functions, with their roles; the AI Governance Council decides where they disagree; Internal Audit gives independent assurance.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4B5563"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B45309"/></marker><marker id="arrr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B91C1C"/></marker><marker id="arrp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6D28D9"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803D"/></marker></defs>
+<rect width="1600" height="1128" fill="#FFFFFF"/>
+<text x="40" y="52" font-size="28" font-weight="700" fill="#111827" text-anchor="start">Who builds, who tests, who approves</text>
+<rect x="40" y="174" width="453" height="638" rx="12" fill="#EFF6FF"/>
+<rect x="40" y="174" width="453" height="66" rx="12" fill="#1D4ED8"/>
+<rect x="40" y="214" width="453" height="26" rx="0" fill="#1D4ED8"/>
+<rect x="573" y="174" width="453" height="638" rx="12" fill="#F0FDFA"/>
+<rect x="573" y="174" width="453" height="66" rx="12" fill="#0F766E"/>
+<rect x="573" y="214" width="453" height="26" rx="0" fill="#0F766E"/>
+<rect x="1106" y="174" width="453" height="638" rx="12" fill="#F5F3FF"/>
+<rect x="1106" y="174" width="453" height="66" rx="12" fill="#6D28D9"/>
+<rect x="1106" y="214" width="453" height="26" rx="0" fill="#6D28D9"/>
+<text x="40" y="80" font-size="15" font-weight="400" fill="#4B5563" text-anchor="start">Three separate functions, following ADG (Adopt · Defend · Govern). Each has its own question, its own people and its own output.</text>
+<rect x="40" y="104" width="1520" height="50" rx="10" fill="#F9FAFB" stroke="#D1D5DB" stroke-width="1" />
+<text x="60" y="135" font-size="12.5" font-weight="700" fill="#4B5563" text-anchor="start" letter-spacing="1.2">THE RULE</text>
+<text x="160" y="135" font-size="15" text-anchor="start" xml:space="preserve"><tspan fill="#1D4ED8" font-weight="700">Whoever builds it</tspan><tspan fill="#111827" font-weight="400"> does not validate it, and </tspan><tspan fill="#0F766E" font-weight="700">whoever validates it</tspan><tspan fill="#111827" font-weight="400"> does not approve it.</tspan><tspan fill="#111827" font-weight="400">   Within security too: </tspan><tspan fill="#0F766E" font-weight="700">the AI security team tests</tspan><tspan fill="#111827" font-weight="400"> and </tspan><tspan fill="#6D28D9" font-weight="700">the CISO challenges</tspan><tspan fill="#111827" font-weight="400">.</tspan></text>
+<text x="60" y="272" font-size="15" font-weight="400" fill="#111827" text-anchor="start" font-style="italic">Can we deliver it well?</text>
+<text x="60" y="314" font-size="11.5" font-weight="700" fill="#4B5563" text-anchor="start" letter-spacing="1.2">WHO</text>
+<rect x="56" y="324" width="421" height="50" rx="8" fill="#FFFFFF" stroke="#DBEAFE" stroke-width="1" />
+<text x="70" y="345" font-size="13.5" font-weight="700" fill="#111827" text-anchor="start">Accountable owner</text>
+<text x="70" y="363" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">Purpose, use and risk; the assessments; asks for approvals</text>
+<rect x="56" y="380" width="421" height="50" rx="8" fill="#FFFFFF" stroke="#DBEAFE" stroke-width="1" />
+<text x="70" y="401" font-size="13.5" font-weight="700" fill="#111827" text-anchor="start">Technical owner</text>
+<text x="70" y="419" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">Builds and runs it; keeps configuration and connections current</text>
+<rect x="56" y="436" width="421" height="50" rx="8" fill="#FFFFFF" stroke="#DBEAFE" stroke-width="1" />
+<text x="70" y="457" font-size="13.5" font-weight="700" fill="#111827" text-anchor="start">Component owners</text>
+<text x="70" y="475" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">Decide whether other assets may use their component</text>
+<rect x="56" y="492" width="421" height="50" rx="8" fill="#FFFFFF" stroke="#DBEAFE" stroke-width="1" />
+<text x="70" y="513" font-size="13.5" font-weight="700" fill="#111827" text-anchor="start">Agreement owner</text>
+<text x="70" y="531" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">Vendor requests, the contract, vendor evidence</text>
+<rect x="56" y="548" width="421" height="50" rx="8" fill="#FFFFFF" stroke="#DBEAFE" stroke-width="1" />
+<text x="70" y="569" font-size="13.5" font-weight="700" fill="#111827" text-anchor="start">Privacy function · supports</text>
+<text x="70" y="587" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">Helps with the personal data screening and the DPIA</text>
+<rect x="56" y="604" width="421" height="50" rx="8" fill="#FFFFFF" stroke="#DBEAFE" stroke-width="1" />
+<text x="70" y="625" font-size="13.5" font-weight="700" fill="#111827" text-anchor="start">Coding agents and integrations</text>
+<text x="70" y="643" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">Register and update assets for a named person</text>
+<text x="593" y="272" font-size="15" font-weight="400" fill="#111827" text-anchor="start" font-style="italic">Can it be abused, fail dangerously or cause harm?</text>
+<text x="593" y="314" font-size="11.5" font-weight="700" fill="#4B5563" text-anchor="start" letter-spacing="1.2">WHO</text>
+<rect x="589" y="324" width="421" height="50" rx="8" fill="#FFFFFF" stroke="#CCFBF1" stroke-width="1" />
+<text x="603" y="345" font-size="13.5" font-weight="700" fill="#111827" text-anchor="start">AI security team</text>
+<text x="603" y="363" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">[security engineering, AI red team, SOC]</text>
+<text x="593" y="400" font-size="11.5" font-weight="700" fill="#4B5563" text-anchor="start" letter-spacing="1.2">WHAT IT DOES</text>
+<circle cx="598" cy="417.32" r="2.6" fill="#0F766E"/>
+<text x="609" y="422" font-size="13" font-weight="400" fill="#111827" text-anchor="start">Drafts the testing standard; keeps the test sets per</text>
+<text x="609" y="440" font-size="13" font-weight="400" fill="#111827" text-anchor="start">platform</text>
+<circle cx="598" cy="459.32" r="2.6" fill="#0F766E"/>
+<text x="609" y="464" font-size="13" font-weight="400" fill="#111827" text-anchor="start">Assesses each platform when it is onboarded</text>
+<circle cx="598" cy="483.32" r="2.6" fill="#0F766E"/>
+<text x="609" y="488" font-size="13" font-weight="400" fill="#111827" text-anchor="start">Reviews designs: tools and tiers, identity, data flows</text>
+<circle cx="598" cy="507.32" r="2.6" fill="#0F766E"/>
+<text x="609" y="512" font-size="13" font-weight="400" fill="#111827" text-anchor="start">Security tests and red teaming, never by the builder</text>
+<circle cx="598" cy="531.32" r="2.6" fill="#0F766E"/>
+<text x="609" y="536" font-size="13" font-weight="400" fill="#111827" text-anchor="start">Validates the controls of the level of autonomy</text>
+<circle cx="598" cy="555.32" r="2.6" fill="#0F766E"/>
+<text x="609" y="560" font-size="13" font-weight="400" fill="#111827" text-anchor="start">Runtime monitoring and re-testing</text>
+<circle cx="598" cy="579.32" r="2.6" fill="#0F766E"/>
+<text x="609" y="584" font-size="13" font-weight="400" fill="#111827" text-anchor="start">Responds to AI incidents</text>
+<text x="593" y="624" font-size="11.5" font-weight="700" fill="#4B5563" text-anchor="start" letter-spacing="1.2">TESTS AGAINST</text>
+<rect x="593" y="636" width="162.39999999999998" height="24" rx="12.0" fill="#FFFFFF" stroke="#CCFBF1" stroke-width="1" />
+<text x="674.2" y="652.32" font-size="12" font-weight="600" fill="#0F766E" text-anchor="middle">OWASP Top 10 for LLM</text>
+<rect x="763.4" y="636" width="190.48" height="24" rx="12.0" fill="#FFFFFF" stroke="#CCFBF1" stroke-width="1" />
+<text x="858.64" y="652.32" font-size="12" font-weight="600" fill="#0F766E" text-anchor="middle">OWASP Top 10 for Agentic</text>
+<rect x="961.88" y="636" width="99.22" height="24" rx="12.0" fill="#FFFFFF" stroke="#CCFBF1" stroke-width="1" />
+<text x="1011.49" y="652.32" font-size="12" font-weight="600" fill="#0F766E" text-anchor="middle">MITRE ATLAS</text>
+<text x="1126" y="272" font-size="15" font-weight="400" fill="#111827" text-anchor="start" font-style="italic">Should we allow it, on what conditions, at what risk?</text>
+<text x="1126" y="314" font-size="11.5" font-weight="700" fill="#4B5563" text-anchor="start" letter-spacing="1.2">WHO</text>
+<rect x="1122" y="324" width="421" height="50" rx="8" fill="#FFFFFF" stroke="#EDE9FE" stroke-width="1" />
+<text x="1136" y="345" font-size="13.5" font-weight="700" fill="#111827" text-anchor="start">AI Governance Officer</text>
+<text x="1136" y="363" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">Reviews and approves; owns the lifecycle&#x27;s configuration</text>
+<rect x="1122" y="380" width="421" height="50" rx="8" fill="#FFFFFF" stroke="#EDE9FE" stroke-width="1" />
+<text x="1136" y="401" font-size="13.5" font-weight="700" fill="#111827" text-anchor="start">AI Governance Manager</text>
+<text x="1136" y="419" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">Register quality; reassigns and follows up tasks</text>
+<rect x="1122" y="436" width="421" height="50" rx="8" fill="#FFFFFF" stroke="#EDE9FE" stroke-width="1" />
+<text x="1136" y="457" font-size="13.5" font-weight="700" fill="#111827" text-anchor="start">CISO · independent</text>
+<text x="1136" y="475" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">Approves the testing standard; challenges; signs off Enhanced</text>
+<rect x="1122" y="492" width="421" height="50" rx="8" fill="#FFFFFF" stroke="#EDE9FE" stroke-width="1" />
+<text x="1136" y="513" font-size="13.5" font-weight="700" fill="#111827" text-anchor="start">Data Protection Officer</text>
+<text x="1136" y="531" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">Approves where personal data is processed or generated</text>
+<rect x="1122" y="548" width="421" height="50" rx="8" fill="#FFFFFF" stroke="#EDE9FE" stroke-width="1" />
+<text x="1136" y="569" font-size="13.5" font-weight="700" fill="#111827" text-anchor="start">Risk · second line</text>
+<text x="1136" y="587" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">The materiality method; challenge; model validation</text>
+<rect x="1122" y="604" width="421" height="50" rx="8" fill="#FFFFFF" stroke="#EDE9FE" stroke-width="1" />
+<text x="1136" y="625" font-size="13.5" font-weight="700" fill="#111827" text-anchor="start">Compliance and Legal · second line</text>
+<text x="1136" y="643" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">EU AI Act role and class; regulatory content</text>
+<rect x="1122" y="660" width="421" height="50" rx="8" fill="#FFFFFF" stroke="#EDE9FE" stroke-width="1" />
+<text x="1136" y="681" font-size="13.5" font-weight="700" fill="#111827" text-anchor="start">Administrator · supports</text>
+<text x="1136" y="699" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">Configures the lifecycle; a second person publishes</text>
+<text x="60" y="200" font-size="12" font-weight="700" fill="#E5E7EB" text-anchor="start" letter-spacing="1.4">ADOPT</text>
+<text x="60" y="226" font-size="21" font-weight="700" fill="#FFFFFF" text-anchor="start">Build and run</text>
+<line x1="56" y1="728" x2="477" y2="728" stroke="#D1D5DB" stroke-width="1"/>
+<text x="60" y="750" font-size="11.5" font-weight="700" fill="#4B5563" text-anchor="start" letter-spacing="1.2">PRODUCES</text>
+<text x="60" y="772" font-size="13" font-weight="600" fill="#1D4ED8" text-anchor="start">The asset, its documentation, releases and runbooks</text>
+<text x="593" y="200" font-size="12" font-weight="700" fill="#E5E7EB" text-anchor="start" letter-spacing="1.4">DEFEND</text>
+<text x="593" y="226" font-size="21" font-weight="700" fill="#FFFFFF" text-anchor="start">Test and protect</text>
+<line x1="589" y1="728" x2="1010" y2="728" stroke="#D1D5DB" stroke-width="1"/>
+<text x="593" y="750" font-size="11.5" font-weight="700" fill="#4B5563" text-anchor="start" letter-spacing="1.2">PRODUCES</text>
+<text x="593" y="772" font-size="13" font-weight="600" fill="#0F766E" text-anchor="start">Test and red-team results, validated controls, runtime</text>
+<text x="593" y="790" font-size="13" font-weight="600" fill="#0F766E" text-anchor="start">monitoring, incident response</text>
+<text x="1126" y="200" font-size="12" font-weight="700" fill="#E5E7EB" text-anchor="start" letter-spacing="1.4">GOVERN</text>
+<text x="1126" y="226" font-size="21" font-weight="700" fill="#FFFFFF" text-anchor="start">Approve and oversee</text>
+<line x1="1122" y1="728" x2="1543" y2="728" stroke="#D1D5DB" stroke-width="1"/>
+<text x="1126" y="750" font-size="11.5" font-weight="700" fill="#4B5563" text-anchor="start" letter-spacing="1.2">PRODUCES</text>
+<text x="1126" y="772" font-size="13" font-weight="600" fill="#6D28D9" text-anchor="start">Approvals, conditions, thresholds, independent challenge,</text>
+<text x="1126" y="790" font-size="13" font-weight="600" fill="#6D28D9" text-anchor="start">policy, the lifecycle&#x27;s configuration</text>
+<line x1="499" y1="207" x2="567" y2="207" stroke="#4B5563" stroke-width="2" marker-end="url(#arr)"/>
+<text x="533" y="258" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="middle" font-style="italic">candidate</text>
+<text x="533" y="273" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="middle" font-style="italic">configuration</text>
+<line x1="1032" y1="207" x2="1100" y2="207" stroke="#4B5563" stroke-width="2" marker-end="url(#arr)"/>
+<text x="1066" y="258" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="middle" font-style="italic">test report,</text>
+<text x="1066" y="273" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="middle" font-style="italic">controls</text>
+<path d="M 1332.5 174 L 1332.5 166 Q 1332.5 160 1326.5 160 L 272.5 160 Q 266.5 160 266.5 166 L 266.5 172" fill="none" stroke="#6D28D9" stroke-width="1.6" stroke-dasharray="5 4" marker-end="url(#arrp)"/>
+<rect x="682" y="149" width="236" height="22" rx="4" fill="#FFFFFF" />
+<text x="800" y="165" font-size="12" font-weight="400" fill="#6D28D9" text-anchor="middle" font-style="italic">approvals and conditions go back</text>
+<line x1="1122" y1="461" x2="1010" y2="461" stroke="#6D28D9" stroke-width="1.8" stroke-dasharray="6 4" marker-end="url(#arrp)"/>
+<rect x="1030" y="423" width="72" height="30" rx="4" fill="#FFFFFF" />
+<text x="1066" y="435" font-size="11.5" font-weight="400" fill="#6D28D9" text-anchor="middle" font-style="italic">challenges,</text>
+<text x="1066" y="449" font-size="11.5" font-weight="400" fill="#6D28D9" text-anchor="middle" font-style="italic">by sampling</text>
+<text x="40" y="860" font-size="13" font-weight="700" fill="#4B5563" text-anchor="start" letter-spacing="1.2">WHERE THEY MEET</text>
+<rect x="40" y="882" width="330" height="206" rx="12" fill="#F9FAFB" stroke="#D1D5DB" stroke-width="1" />
+<text x="60" y="914" font-size="17" font-weight="700" fill="#111827" text-anchor="start">Everyone</text>
+<circle cx="65" cy="937.5" r="2.6" fill="#4B5563"/>
+<text x="76" y="942" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Sees the register and may register an asset</text>
+<text x="76" y="959" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">or add a missing vendor</text>
+<circle cx="65" cy="979.5" r="2.6" fill="#4B5563"/>
+<text x="76" y="984" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Roles come from the directory&#x27;s groups;</text>
+<text x="76" y="1001" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">ownership follows from being named on an</text>
+<text x="76" y="1018" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">asset</text>
+<rect x="470" y="882" width="660" height="206" rx="12" fill="#6D28D9" />
+<text x="494" y="916" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="start">AI Governance Council</text>
+<text x="494" y="938" font-size="12" font-weight="400" fill="#E9D5FF" text-anchor="start">All three functions sit in it: [head of AI governance (chair), AI security lead, CISO, Risk, DPO,</text>
+<text x="494" y="954" font-size="12" font-weight="400" fill="#E9D5FF" text-anchor="start">Compliance and Legal, CIO / CTO, a business representative]</text>
+<circle cx="499" cy="977.5" r="2.6" fill="#E9D5FF"/>
+<text x="510" y="982" font-size="12.5" font-weight="400" fill="#FFFFFF" text-anchor="start">Decides go-live on the Enhanced path</text>
+<circle cx="499" cy="998.5" r="2.6" fill="#E9D5FF"/>
+<text x="510" y="1003" font-size="12.5" font-weight="400" fill="#FFFFFF" text-anchor="start">Resolves disagreements between those who build and those who test; a CISO&#x27;s veto on security</text>
+<text x="510" y="1020" font-size="12.5" font-weight="400" fill="#FFFFFF" text-anchor="start">grounds stands</text>
+<circle cx="499" cy="1036.5" r="2.6" fill="#E9D5FF"/>
+<text x="510" y="1041" font-size="12.5" font-weight="400" fill="#FFFFFF" text-anchor="start">Sets AI&#x27;s own thresholds: minimum controls per level of autonomy, the testing standard</text>
+<circle cx="499" cy="1057.5" r="2.6" fill="#E9D5FF"/>
+<text x="510" y="1062" font-size="12.5" font-weight="400" fill="#FFFFFF" text-anchor="start">Last step of escalation: suspension and the return to production</text>
+<path d="M 433 812 L 433 977 L 466 977" fill="none" stroke="#1D4ED8" stroke-width="1.8" marker-end="url(#arr)"/>
+<text x="441" y="838" font-size="11.5" font-weight="400" fill="#1D4ED8" text-anchor="start" font-style="italic">escalates blockers</text>
+<line x1="799.5" y1="812" x2="799.5" y2="878" stroke="#0F766E" stroke-width="1.8" marker-end="url(#arr)"/>
+<text x="807.5" y="838" font-size="11.5" font-weight="400" fill="#0F766E" text-anchor="start" font-style="italic">escalates risks it cannot close</text>
+<rect x="1190" y="882" width="370" height="206" rx="12" fill="#FFFFFF" stroke="#111827" stroke-width="1.4" />
+<text x="1210" y="914" font-size="17" font-weight="700" fill="#111827" text-anchor="start">Internal Audit</text>
+<text x="1210" y="934" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">Independent · third line</text>
+<circle cx="1215" cy="957.5" r="2.6" fill="#4B5563"/>
+<text x="1226" y="962" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Reads the whole record, as it stood on any date</text>
+<circle cx="1215" cy="982.5" r="2.6" fill="#4B5563"/>
+<text x="1226" y="987" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Who built, who validated and who approved what,</text>
+<text x="1226" y="1004" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">when, and on what evidence</text>
+</svg>

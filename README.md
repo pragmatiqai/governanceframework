@@ -29,8 +29,19 @@ It is mapped to the EU AI Act, GDPR, DORA, ISO/IEC 42001 and the NIST AI RMF.
 |---|---|
 | [Agentic_AI_Implementation_and_Lifecycle_Governance.md](Agentic_AI_Implementation_and_Lifecycle_Governance.md) | The framework: 14 sections and appendices A to G |
 | [diagrams/lifecycle-overview.svg](diagrams/lifecycle-overview.svg) | Figure 1. One lifecycle, two tracks |
-| [diagrams/governance-paths.svg](diagrams/governance-paths.svg) | Figure 2. How much governance an asset gets |
-| [diagrams/lifecycle-roles.svg](diagrams/lifecycle-roles.svg) | Figure 3. The lifecycle in detail: who does what at each stage |
+| [diagrams/agent-anatomy.svg](diagrams/agent-anatomy.svg) | Figure 2. An agent is assembled, and its parts keep changing |
+| [diagrams/operating-model.svg](diagrams/operating-model.svg) | Figure 3. Who builds, who tests, who approves |
+| [diagrams/responsibility-matrix.svg](diagrams/responsibility-matrix.svg) | Figure 4. Who does what: the responsibility matrix |
+| [diagrams/governance-paths.svg](diagrams/governance-paths.svg) | Figure 5. How much governance an asset gets |
+| [diagrams/materiality-matrix.svg](diagrams/materiality-matrix.svg) | Figure 6. Change materiality: from three answers to a path |
+| [diagrams/lifecycle-roles.svg](diagrams/lifecycle-roles.svg) | Figure 7. The lifecycle in detail: who does what at each stage |
+| [diagrams/initial-approval.svg](diagrams/initial-approval.svg) | Figure 8. Gate 1: the initial approval |
+| [diagrams/testing.svg](diagrams/testing.svg) | Figure 9. Testing: what is tested, by whom, and how deep |
+| [diagrams/change-after-go-live.svg](diagrams/change-after-go-live.svg) | Figure 10. After go-live: does it still deserve its approval? |
+| [diagrams/automation.svg](diagrams/automation.svg) | Figure 11. Where automation saves the most |
+| [diagrams/solution-landscape.svg](diagrams/solution-landscape.svg) | Figure 12. The governance solution in its landscape |
+| [diagrams/roadmap.svg](diagrams/roadmap.svg) | Figure 13. Introducing it: six phases |
+| [diagrams/eu-ai-act-risk-class.svg](diagrams/eu-ai-act-risk-class.svg) | Figure 14. EU AI Act risk class: four questions |
 
 Each figure is also provided as a PNG, for slides and documents.
 
@@ -48,7 +59,7 @@ technology and running the full lifecycle.
 (CC BY-NC 4.0). You may share and adapt it for non-commercial purposes, with attribution. For commercial use, ask the
 author.
 
-Attribution: *Andres Gavriljuk, "Agentic AI Implementation and Lifecycle Governance", version 1.0, 2026,
+Attribution: *Andres Gavriljuk, "Agentic AI Implementation and Lifecycle Governance", version 1.1, 2026,
 https://github.com/pragmatiqai/governanceframework, CC BY-NC 4.0.*
 
 ADG (Adopt · Defend · Govern) is a framework of EC-Council; OWASP, MITRE ATLAS and the other frameworks and products
