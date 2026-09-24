@@ -28,6 +28,7 @@ It is mapped to the EU AI Act, GDPR, DORA, ISO/IEC 42001 and the NIST AI RMF.
 | File | What it is |
 |---|---|
 | [Agentic_AI_Implementation_and_Lifecycle_Governance.md](Agentic_AI_Implementation_and_Lifecycle_Governance.md) | The framework: 14 sections and appendices A to G |
+| [Agentic_AI_Governance_Executive_Overview.html](Agentic_AI_Governance_Executive_Overview.html) | The executive overview: the framework in condensed form for the CISO, the IT Director and other stakeholders. Part I, the lifecycle in practice (what is required to deploy a new AI system or agent, and when it changes); Part II, the governance model; reading paths by role |
 | [diagrams/lifecycle-overview.svg](diagrams/lifecycle-overview.svg) | Figure 1. One lifecycle, two tracks |
 | [diagrams/agent-anatomy.svg](diagrams/agent-anatomy.svg) | Figure 2. An agent is assembled, and its parts keep changing |
 | [diagrams/operating-model.svg](diagrams/operating-model.svg) | Figure 3. Who builds, who tests, who approves |
@@ -44,6 +45,9 @@ It is mapped to the EU AI Act, GDPR, DORA, ISO/IEC 42001 and the NIST AI RMF.
 | [diagrams/eu-ai-act-risk-class.svg](diagrams/eu-ai-act-risk-class.svg) | Figure 14. EU AI Act risk class: four questions |
 
 Each figure is also provided as a PNG, for slides and documents.
+
+The executive overview is one self-contained web page with its figures inside: download it and open it in a browser,
+or print it to PDF.
 
 ## How to use it
 
