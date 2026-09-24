@@ -1,0 +1,495 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1618" viewBox="0 0 2400 1618" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>The lifecycle in detail: who does what at each stage</title><desc>Nine lifecycle stages as columns and the roles as lanes, with the actions each role performs and the decisions and sign-offs at each stage.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4B5563"/></marker><marker id="arrw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B91C1C"/></marker></defs>
+<rect width="2400" height="1618" fill="#FFFFFF"/>
+<text x="40" y="58" font-size="32" font-weight="700" fill="#111827" text-anchor="start">The lifecycle in detail: who does what at each stage</text>
+<text x="40" y="92" font-size="16" font-weight="400" fill="#4B5563" text-anchor="start">The full track: nine stages as columns, the roles as lanes; sign-offs marked Enhanced apply to Significant changes only. The component track runs along the bottom.</text>
+<polygon points="1880,64 1887,71 1880,78 1873,71" fill="#111827"/>
+<text x="1894" y="76" font-size="14" font-weight="600" fill="#111827" text-anchor="start">decides or signs off</text>
+<circle cx="2060" cy="71" r="3.4" fill="#4B5563"/>
+<text x="2072" y="76" font-size="14" font-weight="400" fill="#111827" text-anchor="start">does the work</text>
+<rect x="297.0" y="118" width="453.1111111111111" height="1228.5" rx="10" fill="#EFF6FF" />
+<rect x="297.0" y="118" width="453.1111111111111" height="34" rx="10" fill="#1D4ED8" />
+<rect x="297.0" y="136" width="453.1111111111111" height="16" rx="0" fill="#1D4ED8" />
+<text x="523.5555555555555" y="140" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1.4">PLAN AND DECIDE</text>
+<rect x="756.1111111111111" y="118" width="453.1111111111111" height="1228.5" rx="10" fill="#F0FDFA" />
+<rect x="756.1111111111111" y="118" width="453.1111111111111" height="34" rx="10" fill="#0F766E" />
+<rect x="756.1111111111111" y="136" width="453.1111111111111" height="16" rx="0" fill="#0F766E" />
+<text x="982.6666666666666" y="140" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1.4">BUILD AND PROVE</text>
+<rect x="1215.2222222222222" y="118" width="453.1111111111111" height="1228.5" rx="10" fill="#FFFBEB" />
+<rect x="1215.2222222222222" y="118" width="453.1111111111111" height="34" rx="10" fill="#B45309" />
+<rect x="1215.2222222222222" y="136" width="453.1111111111111" height="16" rx="0" fill="#B45309" />
+<text x="1441.7777777777778" y="140" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1.4">GO LIVE</text>
+<rect x="1674.3333333333333" y="118" width="682.6666666666667" height="1228.5" rx="10" fill="#F5F3FF" />
+<rect x="1674.3333333333333" y="118" width="682.6666666666667" height="34" rx="10" fill="#6D28D9" />
+<rect x="1674.3333333333333" y="136" width="682.6666666666667" height="16" rx="0" fill="#6D28D9" />
+<text x="2015.6666666666665" y="140" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1.4">RUN AND RETIRE</text>
+<rect x="302.0" y="162" width="213.55555555555554" height="96" rx="8" fill="#FFFFFF" stroke="#1D4ED8" stroke-width="1.6" />
+<circle cx="322.0" cy="182" r="12" fill="#1D4ED8"/>
+<text x="322.0" y="186.5" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="342.0" y="187" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Discovered /</text>
+<text x="342.0" y="205" font-size="15" font-weight="700" fill="#111827" text-anchor="start">planned</text>
+<text x="314.0" y="235" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">What is it, and who owns it?</text>
+<rect x="531.5555555555555" y="162" width="213.55555555555554" height="96" rx="8" fill="#FFFFFF" stroke="#1D4ED8" stroke-width="1.6" />
+<circle cx="551.5555555555555" cy="182" r="12" fill="#1D4ED8"/>
+<text x="551.5555555555555" y="186.5" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="571.5555555555555" y="187" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Risk classification</text>
+<text x="543.5555555555555" y="217" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">How risky, how material?</text>
+<rect x="761.1111111111111" y="162" width="213.55555555555554" height="96" rx="8" fill="#FFFFFF" stroke="#0F766E" stroke-width="1.6" />
+<circle cx="781.1111111111111" cy="182" r="12" fill="#0F766E"/>
+<text x="781.1111111111111" y="186.5" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="801.1111111111111" y="187" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Development /</text>
+<text x="801.1111111111111" y="205" font-size="15" font-weight="700" fill="#111827" text-anchor="start">procurement</text>
+<text x="773.1111111111111" y="235" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">Built or bought as approved?</text>
+<rect x="990.6666666666666" y="162" width="213.55555555555554" height="96" rx="8" fill="#FFFFFF" stroke="#0F766E" stroke-width="1.6" />
+<circle cx="1010.6666666666666" cy="182" r="12" fill="#0F766E"/>
+<text x="1010.6666666666666" y="186.5" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="1030.6666666666665" y="187" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Testing / review</text>
+<text x="1002.6666666666666" y="217" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">Does it work, and is it safe?</text>
+<rect x="1220.2222222222222" y="162" width="213.55555555555554" height="96" rx="8" fill="#FFFFFF" stroke="#B45309" stroke-width="1.6" />
+<circle cx="1240.2222222222222" cy="182" r="12" fill="#B45309"/>
+<text x="1240.2222222222222" y="186.5" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+<text x="1260.2222222222222" y="187" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Approval decision</text>
+<text x="1232.2222222222222" y="217" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">May this configuration go</text>
+<text x="1232.2222222222222" y="233" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">live?</text>
+<rect x="1449.7777777777778" y="162" width="213.55555555555554" height="96" rx="8" fill="#FFFFFF" stroke="#B45309" stroke-width="1.6" />
+<circle cx="1469.7777777777778" cy="182" r="12" fill="#B45309"/>
+<text x="1469.7777777777778" y="186.5" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">6</text>
+<text x="1489.7777777777778" y="187" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Under deployment</text>
+<text x="1461.7777777777778" y="217" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">Is what went live what was</text>
+<text x="1461.7777777777778" y="233" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">approved?</text>
+<rect x="1679.3333333333333" y="162" width="213.55555555555554" height="96" rx="8" fill="#FFFFFF" stroke="#6D28D9" stroke-width="1.6" />
+<circle cx="1699.3333333333333" cy="182" r="12" fill="#6D28D9"/>
+<text x="1699.3333333333333" y="186.5" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">7</text>
+<text x="1719.3333333333333" y="187" font-size="15" font-weight="700" fill="#111827" text-anchor="start">In production</text>
+<text x="1691.3333333333333" y="217" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">Does it still deserve its</text>
+<text x="1691.3333333333333" y="233" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">approval?</text>
+<rect x="1908.8888888888887" y="162" width="213.55555555555554" height="96" rx="8" fill="#FFFFFF" stroke="#B91C1C" stroke-width="1.6" />
+<circle cx="1928.8888888888887" cy="182" r="12" fill="#B91C1C"/>
+<text x="1928.8888888888887" y="186.5" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">8</text>
+<text x="1948.8888888888887" y="187" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Escalated</text>
+<text x="1920.8888888888887" y="217" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">What is wrong, and what do we</text>
+<text x="1920.8888888888887" y="233" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">do?</text>
+<rect x="2138.4444444444443" y="162" width="213.55555555555554" height="96" rx="8" fill="#FFFFFF" stroke="#6D28D9" stroke-width="1.6" />
+<circle cx="2158.4444444444443" cy="182" r="12" fill="#6D28D9"/>
+<text x="2158.4444444444443" y="186.5" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">9</text>
+<text x="2178.4444444444443" y="187" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Retired</text>
+<text x="2150.4444444444443" y="217" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">Safely off? What did we learn?</text>
+<rect x="40" y="318" width="238" height="132" rx="8" fill="#F3F4F6" />
+<rect x="40" y="318" width="6" height="132" rx="3" fill="#2563EB" />
+<text x="58" y="344" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Accountable owner</text>
+<text x="58" y="362" font-size="11" font-weight="700" fill="#2563EB" text-anchor="start" letter-spacing="1.2">ADOPT</text>
+<text x="58" y="379.0" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start">Accountable for purpose, use and</text>
+<text x="58" y="393.5" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start">risk</text>
+<rect x="300.0" y="318" width="217.55555555555554" height="132" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="314.0" cy="336.5" r="2.8" fill="#4B5563"/>
+<text x="326.0" y="341" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Registers the asset, or takes</text>
+<text x="326.0" y="357" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">over a discovered one</text>
+<circle cx="314.0" cy="374.5" r="2.8" fill="#4B5563"/>
+<text x="326.0" y="379" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Starts the initial approval</text>
+<rect x="529.5555555555555" y="318" width="217.55555555555554" height="132" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="543.5555555555555" cy="336.5" r="2.8" fill="#4B5563"/>
+<text x="555.5555555555555" y="341" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Completes the risk,</text>
+<text x="555.5555555555555" y="357" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">criticality and process</text>
+<text x="555.5555555555555" y="373" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">impact assessments</text>
+<circle cx="543.5555555555555" cy="390.5" r="2.8" fill="#4B5563"/>
+<text x="555.5555555555555" y="395" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Screens for personal data</text>
+<circle cx="543.5555555555555" cy="412.5" r="2.8" fill="#4B5563"/>
+<text x="555.5555555555555" y="417" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Authority statement, for an</text>
+<text x="555.5555555555555" y="433" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">agent that acts</text>
+<rect x="759.1111111111111" y="318" width="217.55555555555554" height="132" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="773.1111111111111" cy="336.5" r="2.8" fill="#4B5563"/>
+<text x="785.1111111111111" y="341" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Runs the change risk</text>
+<text x="785.1111111111111" y="357" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">assessment (Medium,</text>
+<text x="785.1111111111111" y="373" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Significant)</text>
+<circle cx="773.1111111111111" cy="390.5" r="2.8" fill="#4B5563"/>
+<text x="785.1111111111111" y="395" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">The DPIA, where required</text>
+<circle cx="773.1111111111111" cy="412.5" r="2.8" fill="#4B5563"/>
+<text x="785.1111111111111" y="417" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Vendor due diligence, when</text>
+<text x="785.1111111111111" y="433" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">buying</text>
+<rect x="988.6666666666666" y="318" width="217.55555555555554" height="132" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1002.6666666666666" cy="336.5" r="2.8" fill="#4B5563"/>
+<text x="1014.6666666666666" y="341" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Accountable for the</text>
+<text x="1014.6666666666666" y="357" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">evaluation</text>
+<circle cx="1002.6666666666666" cy="374.5" r="2.8" fill="#4B5563"/>
+<text x="1014.6666666666666" y="379" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Instructions for users, with</text>
+<text x="1014.6666666666666" y="395" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">the known limitations</text>
+<rect x="1218.2222222222222" y="318" width="217.55555555555554" height="132" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1232.2222222222222" cy="336.5" r="2.8" fill="#4B5563"/>
+<text x="1244.2222222222222" y="341" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Asks for go-live, with the</text>
+<text x="1244.2222222222222" y="357" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">test report and evidence</text>
+<rect x="1447.7777777777778" y="318" width="217.55555555555554" height="132" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1461.7777777777778" cy="336.5" r="2.8" fill="#4B5563"/>
+<text x="1473.7777777777778" y="341" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Confirms go-live</text>
+<rect x="1677.3333333333333" y="318" width="217.55555555555554" height="132" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1691.3333333333333" cy="336.5" r="2.8" fill="#4B5563"/>
+<text x="1703.3333333333333" y="341" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Declares planned changes</text>
+<circle cx="1691.3333333333333" cy="358.5" r="2.8" fill="#4B5563"/>
+<text x="1703.3333333333333" y="363" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Meets the conditions</text>
+<circle cx="1691.3333333333333" cy="380.5" r="2.8" fill="#4B5563"/>
+<text x="1703.3333333333333" y="385" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Periodic review</text>
+<rect x="1906.8888888888887" y="318" width="217.55555555555554" height="132" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1920.8888888888887" cy="336.5" r="2.8" fill="#4B5563"/>
+<text x="1932.8888888888887" y="341" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Leads the response and the</text>
+<text x="1932.8888888888887" y="357" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">remediation</text>
+<rect x="2136.4444444444443" y="318" width="217.55555555555554" height="132" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<polygon points="2150.4444444444443,331.5 2155.4444444444443,336.5 2150.4444444444443,341.5 2145.4444444444443,336.5" fill="#111827"/>
+<text x="2162.4444444444443" y="341" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Decides retirement</text>
+<rect x="40" y="456" width="238" height="116" rx="8" fill="#F3F4F6" />
+<rect x="40" y="456" width="6" height="116" rx="3" fill="#2563EB" />
+<text x="58" y="482" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Technical owner</text>
+<text x="58" y="500" font-size="11" font-weight="700" fill="#2563EB" text-anchor="start" letter-spacing="1.2">ADOPT</text>
+<text x="58" y="517.0" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start">Builds and runs it</text>
+<rect x="300.0" y="456" width="217.55555555555554" height="116" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="314.0" cy="474.5" r="2.8" fill="#4B5563"/>
+<text x="326.0" y="479" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">States the connections:</text>
+<text x="326.0" y="495" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">platform, model, tools,</text>
+<text x="326.0" y="511" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">knowledge sources</text>
+<rect x="529.5555555555555" y="456" width="217.55555555555554" height="116" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="543.5555555555555" cy="474.5" r="2.8" fill="#4B5563"/>
+<text x="555.5555555555555" y="479" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Supplies the technical facts</text>
+<rect x="759.1111111111111" y="456" width="217.55555555555554" height="116" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="773.1111111111111" cy="474.5" r="2.8" fill="#4B5563"/>
+<text x="785.1111111111111" y="479" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Builds, or configures what</text>
+<text x="785.1111111111111" y="495" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">was bought</text>
+<circle cx="773.1111111111111" cy="512.5" r="2.8" fill="#4B5563"/>
+<text x="785.1111111111111" y="517" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Declares every new connection</text>
+<circle cx="773.1111111111111" cy="534.5" r="2.8" fill="#4B5563"/>
+<text x="785.1111111111111" y="539" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Keeps configuration and</text>
+<text x="785.1111111111111" y="555" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">documentation current</text>
+<rect x="988.6666666666666" y="456" width="217.55555555555554" height="116" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1002.6666666666666" cy="474.5" r="2.8" fill="#4B5563"/>
+<text x="1014.6666666666666" y="479" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Evaluates quality, safety and</text>
+<text x="1014.6666666666666" y="495" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">fairness: hallucination,</text>
+<text x="1014.6666666666666" y="511" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">errors, limits</text>
+<circle cx="1002.6666666666666" cy="528.5" r="2.8" fill="#4B5563"/>
+<text x="1014.6666666666666" y="533" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Prepares monitoring, runbook</text>
+<text x="1014.6666666666666" y="549" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">and a way back</text>
+<rect x="1218.2222222222222" y="456" width="217.55555555555554" height="116" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1232.2222222222222" cy="474.5" r="2.8" fill="#4B5563"/>
+<text x="1244.2222222222222" y="479" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Presents the configuration to</text>
+<text x="1244.2222222222222" y="495" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">be approved</text>
+<rect x="1447.7777777777778" y="456" width="217.55555555555554" height="116" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1461.7777777777778" cy="474.5" r="2.8" fill="#4B5563"/>
+<text x="1473.7777777777778" y="479" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Deploys, with a way back</text>
+<text x="1473.7777777777778" y="495" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">ready</text>
+<circle cx="1461.7777777777778" cy="512.5" r="2.8" fill="#4B5563"/>
+<text x="1473.7777777777778" y="517" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Switches the controls on;</text>
+<text x="1473.7777777777778" y="533" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">users told they deal with AI</text>
+<rect x="1677.3333333333333" y="456" width="217.55555555555554" height="116" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1691.3333333333333" cy="474.5" r="2.8" fill="#4B5563"/>
+<text x="1703.3333333333333" y="479" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Operates; keeps connections</text>
+<text x="1703.3333333333333" y="495" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">current</text>
+<rect x="1906.8888888888887" y="456" width="217.55555555555554" height="116" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1920.8888888888887" cy="474.5" r="2.8" fill="#4B5563"/>
+<text x="1932.8888888888887" y="479" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Contains it on the AI</text>
+<text x="1932.8888888888887" y="495" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">platform: stop it, disconnect</text>
+<text x="1932.8888888888887" y="511" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">a tool</text>
+<circle cx="1920.8888888888887" cy="528.5" r="2.8" fill="#4B5563"/>
+<text x="1932.8888888888887" y="533" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Fixes</text>
+<rect x="2136.4444444444443" y="456" width="217.55555555555554" height="116" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="2150.4444444444443" cy="474.5" r="2.8" fill="#4B5563"/>
+<text x="2162.4444444444443" y="479" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Ends connections; removes</text>
+<text x="2162.4444444444443" y="495" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">access and identities</text>
+<circle cx="2150.4444444444443" cy="512.5" r="2.8" fill="#4B5563"/>
+<text x="2162.4444444444443" y="517" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Personal data deleted or</text>
+<text x="2162.4444444444443" y="533" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">kept, as the DPIA says</text>
+<rect x="40" y="578" width="238" height="99.0" rx="8" fill="#F3F4F6" />
+<rect x="40" y="578" width="6" height="99.0" rx="3" fill="#2563EB" />
+<text x="58" y="604" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Component owners</text>
+<text x="58" y="622" font-size="11" font-weight="700" fill="#2563EB" text-anchor="start" letter-spacing="1.2">ADOPT</text>
+<text x="58" y="639.0" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start">Of the tools, data, platforms and</text>
+<text x="58" y="653.5" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start">models it uses</text>
+<rect x="300.0" y="578" width="217.55555555555554" height="99.0" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="314.0" cy="596.5" r="2.8" fill="#4B5563"/>
+<text x="326.0" y="601" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Told when their component is</text>
+<text x="326.0" y="617" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">connected</text>
+<rect x="529.5555555555555" y="578" width="217.55555555555554" height="99.0" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<polygon points="543.5555555555555,591.5 548.5555555555555,596.5 543.5555555555555,601.5 538.5555555555555,596.5" fill="#111827"/>
+<text x="555.5555555555555" y="601" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Allow, allow with conditions,</text>
+<text x="555.5555555555555" y="617" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">or reject each use, where</text>
+<text x="555.5555555555555" y="633" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">their policy asks</text>
+<rect x="759.1111111111111" y="578" width="217.55555555555554" height="99.0" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<polygon points="773.1111111111111,591.5 778.1111111111111,596.5 773.1111111111111,601.5 768.1111111111111,596.5" fill="#111827"/>
+<text x="785.1111111111111" y="601" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Decide on each new</text>
+<text x="785.1111111111111" y="617" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">connection, one request each</text>
+<rect x="1677.3333333333333" y="578" width="217.55555555555554" height="99.0" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<polygon points="1691.3333333333333,591.5 1696.3333333333333,596.5 1691.3333333333333,601.5 1686.3333333333333,596.5" fill="#111827"/>
+<text x="1703.3333333333333" y="601" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Decide on connections made</text>
+<text x="1703.3333333333333" y="617" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">later</text>
+<rect x="1906.8888888888887" y="578" width="217.55555555555554" height="99.0" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1920.8888888888887" cy="596.5" r="2.8" fill="#4B5563"/>
+<text x="1932.8888888888887" y="601" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Told when a problem touches</text>
+<text x="1932.8888888888887" y="617" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">their component</text>
+<rect x="2136.4444444444443" y="578" width="217.55555555555554" height="99.0" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="2150.4444444444443" cy="596.5" r="2.8" fill="#4B5563"/>
+<text x="2162.4444444444443" y="601" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Told; dependants flagged</text>
+<rect x="40" y="683.0" width="238" height="132" rx="8" fill="#F3F4F6" />
+<rect x="40" y="683.0" width="6" height="132" rx="3" fill="#0F766E" />
+<text x="58" y="709.0" font-size="15" font-weight="700" fill="#111827" text-anchor="start">AI security team</text>
+<text x="58" y="727.0" font-size="11" font-weight="700" fill="#0F766E" text-anchor="start" letter-spacing="1.2">DEFEND</text>
+<text x="58" y="744.0" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start">Tests and protects</text>
+<rect x="529.5555555555555" y="683.0" width="217.55555555555554" height="132" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="543.5555555555555" cy="701.5" r="2.8" fill="#4B5563"/>
+<text x="555.5555555555555" y="706.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Reviews the authority</text>
+<text x="555.5555555555555" y="722.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">statement</text>
+<circle cx="543.5555555555555" cy="739.5" r="2.8" fill="#4B5563"/>
+<text x="555.5555555555555" y="744.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Sets the test scope and</text>
+<text x="555.5555555555555" y="760.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">thresholds (Standard,</text>
+<text x="555.5555555555555" y="776.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Enhanced)</text>
+<rect x="759.1111111111111" y="683.0" width="217.55555555555554" height="132" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="773.1111111111111" cy="701.5" r="2.8" fill="#4B5563"/>
+<text x="785.1111111111111" y="706.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Reviews the design: tools and</text>
+<text x="785.1111111111111" y="722.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">tiers, identity, data flows</text>
+<circle cx="773.1111111111111" cy="739.5" r="2.8" fill="#4B5563"/>
+<text x="785.1111111111111" y="744.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Assesses the security of a</text>
+<text x="785.1111111111111" y="760.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">bought product</text>
+<rect x="988.6666666666666" y="683.0" width="217.55555555555554" height="132" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1002.6666666666666" cy="701.5" r="2.8" fill="#4B5563"/>
+<text x="1014.6666666666666" y="706.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Security tests: OWASP Top 10</text>
+<text x="1014.6666666666666" y="722.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">for LLM and Agentic</text>
+<circle cx="1002.6666666666666" cy="739.5" r="2.8" fill="#4B5563"/>
+<text x="1014.6666666666666" y="744.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Red teaming (Enhanced,</text>
+<text x="1014.6666666666666" y="760.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">autonomous)</text>
+<circle cx="1002.6666666666666" cy="777.5" r="2.8" fill="#4B5563"/>
+<text x="1014.6666666666666" y="782.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Validates the autonomy</text>
+<text x="1014.6666666666666" y="798.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">controls; rates findings</text>
+<rect x="1218.2222222222222" y="683.0" width="217.55555555555554" height="132" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<polygon points="1232.2222222222222,696.5 1237.2222222222222,701.5 1232.2222222222222,706.5 1227.2222222222222,701.5" fill="#111827"/>
+<text x="1244.2222222222222" y="706.0" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Confirms tests and controls,</text>
+<text x="1244.2222222222222" y="722.0" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">with no critical or high</text>
+<text x="1244.2222222222222" y="738.0" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">finding open (Standard,</text>
+<text x="1244.2222222222222" y="754.0" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Enhanced)</text>
+<rect x="1447.7777777777778" y="683.0" width="217.55555555555554" height="132" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1461.7777777777778" cy="701.5" r="2.8" fill="#4B5563"/>
+<text x="1473.7777777777778" y="706.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Switches runtime monitoring</text>
+<text x="1473.7777777777778" y="722.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">on</text>
+<rect x="1677.3333333333333" y="683.0" width="217.55555555555554" height="132" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1691.3333333333333" cy="701.5" r="2.8" fill="#4B5563"/>
+<text x="1703.3333333333333" y="706.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Runtime monitoring</text>
+<circle cx="1691.3333333333333" cy="723.5" r="2.8" fill="#4B5563"/>
+<text x="1703.3333333333333" y="728.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Re-tests on a schedule and</text>
+<text x="1703.3333333333333" y="744.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">after substantial changes</text>
+<rect x="1906.8888888888887" y="683.0" width="217.55555555555554" height="132" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1920.8888888888887" cy="701.5" r="2.8" fill="#4B5563"/>
+<text x="1932.8888888888887" y="706.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Investigates; incident</text>
+<text x="1932.8888888888887" y="722.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">response</text>
+<circle cx="1920.8888888888887" cy="739.5" r="2.8" fill="#4B5563"/>
+<text x="1932.8888888888887" y="744.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Re-tests the fix</text>
+<rect x="2136.4444444444443" y="683.0" width="217.55555555555554" height="132" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="2150.4444444444443" cy="701.5" r="2.8" fill="#4B5563"/>
+<text x="2162.4444444444443" y="706.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Preserves the evidence</text>
+<rect x="40" y="821.0" width="238" height="84.5" rx="8" fill="#F3F4F6" />
+<rect x="40" y="821.0" width="6" height="84.5" rx="3" fill="#7C3AED" />
+<text x="58" y="847.0" font-size="15" font-weight="700" fill="#111827" text-anchor="start">CISO</text>
+<text x="58" y="865.0" font-size="11" font-weight="700" fill="#7C3AED" text-anchor="start" letter-spacing="1.2">GOVERN</text>
+<text x="58" y="882.0" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start">Independent security oversight</text>
+<rect x="529.5555555555555" y="821.0" width="217.55555555555554" height="84.5" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<polygon points="543.5555555555555,834.5 548.5555555555555,839.5 543.5555555555555,844.5 538.5555555555555,839.5" fill="#111827"/>
+<text x="555.5555555555555" y="844.0" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Signs off Gate 1 (Enhanced)</text>
+<rect x="759.1111111111111" y="821.0" width="217.55555555555554" height="84.5" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="773.1111111111111" cy="839.5" r="2.8" fill="#4B5563"/>
+<text x="785.1111111111111" y="844.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Challenges the security risks</text>
+<text x="785.1111111111111" y="860.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">of the change</text>
+<rect x="988.6666666666666" y="821.0" width="217.55555555555554" height="84.5" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1002.6666666666666" cy="839.5" r="2.8" fill="#4B5563"/>
+<text x="1014.6666666666666" y="844.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Samples and challenges test</text>
+<text x="1014.6666666666666" y="860.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">reports</text>
+<rect x="1218.2222222222222" y="821.0" width="217.55555555555554" height="84.5" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<polygon points="1232.2222222222222,834.5 1237.2222222222222,839.5 1232.2222222222222,844.5 1227.2222222222222,839.5" fill="#111827"/>
+<text x="1244.2222222222222" y="844.0" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Signs off Gate 2 (Enhanced)</text>
+<polygon points="1232.2222222222222,856.5 1237.2222222222222,861.5 1232.2222222222222,866.5 1227.2222222222222,861.5" fill="#111827"/>
+<text x="1244.2222222222222" y="866.0" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Can stop a go-live on</text>
+<text x="1244.2222222222222" y="882.0" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">security grounds</text>
+<rect x="1906.8888888888887" y="821.0" width="217.55555555555554" height="84.5" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1920.8888888888887" cy="839.5" r="2.8" fill="#4B5563"/>
+<text x="1932.8888888888887" y="844.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Consulted on security</text>
+<text x="1932.8888888888887" y="860.0" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">incidents</text>
+<rect x="40" y="911.5" width="238" height="110" rx="8" fill="#F3F4F6" />
+<rect x="40" y="911.5" width="6" height="110" rx="3" fill="#7C3AED" />
+<text x="58" y="937.5" font-size="15" font-weight="700" fill="#111827" text-anchor="start">AI Governance Officer</text>
+<text x="58" y="955.5" font-size="11" font-weight="700" fill="#7C3AED" text-anchor="start" letter-spacing="1.2">GOVERN</text>
+<text x="58" y="972.5" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start">[AI governance function]</text>
+<rect x="300.0" y="911.5" width="217.55555555555554" height="110" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="314.0" cy="930.0" r="2.8" fill="#4B5563"/>
+<text x="326.0" y="934.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Keeps the register complete;</text>
+<text x="326.0" y="950.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">hands discovered assets to</text>
+<text x="326.0" y="966.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">owners</text>
+<rect x="529.5555555555555" y="911.5" width="217.55555555555554" height="110" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<polygon points="543.5555555555555,925.0 548.5555555555555,930.0 543.5555555555555,935.0 538.5555555555555,930.0" fill="#111827"/>
+<text x="555.5555555555555" y="934.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Approves Gate 1: materiality,</text>
+<text x="555.5555555555555" y="950.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">path, minimum controls,</text>
+<text x="555.5555555555555" y="966.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">conditions</text>
+<rect x="759.1111111111111" y="911.5" width="217.55555555555554" height="110" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="773.1111111111111" cy="930.0" r="2.8" fill="#4B5563"/>
+<text x="785.1111111111111" y="934.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Follows up the conditions</text>
+<rect x="1218.2222222222222" y="911.5" width="217.55555555555554" height="110" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<polygon points="1232.2222222222222,925.0 1237.2222222222222,930.0 1232.2222222222222,935.0 1227.2222222222222,930.0" fill="#111827"/>
+<text x="1244.2222222222222" y="934.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Approves Gate 2:</text>
+<text x="1244.2222222222222" y="950.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">configuration, conditions,</text>
+<text x="1244.2222222222222" y="966.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">validity</text>
+<rect x="1447.7777777777778" y="911.5" width="217.55555555555554" height="110" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1461.7777777777778" cy="930.0" r="2.8" fill="#4B5563"/>
+<text x="1473.7777777777778" y="934.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Live configuration checked</text>
+<text x="1473.7777777777778" y="950.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">against the approved one</text>
+<rect x="1677.3333333333333" y="911.5" width="217.55555555555554" height="110" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1691.3333333333333" cy="930.0" r="2.8" fill="#4B5563"/>
+<text x="1703.3333333333333" y="934.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Triages changes; a</text>
+<text x="1703.3333333333333" y="950.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">substantial one is rated</text>
+<text x="1703.3333333333333" y="966.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">again</text>
+<polygon points="1691.3333333333333,979.0 1696.3333333333333,984.0 1691.3333333333333,989.0 1686.3333333333333,984.0" fill="#111827"/>
+<text x="1703.3333333333333" y="988.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Re-approves by path; signs</text>
+<text x="1703.3333333333333" y="1004.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">the periodic review</text>
+<rect x="1906.8888888888887" y="911.5" width="217.55555555555554" height="110" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1920.8888888888887" cy="930.0" r="2.8" fill="#4B5563"/>
+<text x="1932.8888888888887" y="934.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Escalates; leads the</text>
+<text x="1932.8888888888887" y="950.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">governance review</text>
+<rect x="2136.4444444444443" y="911.5" width="217.55555555555554" height="110" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="2150.4444444444443" cy="930.0" r="2.8" fill="#4B5563"/>
+<text x="2162.4444444444443" y="934.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Records the lessons; updates</text>
+<text x="2162.4444444444443" y="950.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">forms, paths and standards</text>
+<rect x="40" y="1027.5" width="238" height="110" rx="8" fill="#F3F4F6" />
+<rect x="40" y="1027.5" width="6" height="110" rx="3" fill="#7C3AED" />
+<text x="58" y="1053.5" font-size="15" font-weight="700" fill="#111827" text-anchor="start">DPO and privacy</text>
+<text x="58" y="1071.5" font-size="11" font-weight="700" fill="#7C3AED" text-anchor="start" letter-spacing="1.2">GOVERN</text>
+<text x="58" y="1088.5" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start">Where personal data is processed or</text>
+<text x="58" y="1103.0" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start">generated</text>
+<rect x="529.5555555555555" y="1027.5" width="217.55555555555554" height="110" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<polygon points="543.5555555555555,1041.0 548.5555555555555,1046.0 543.5555555555555,1051.0 538.5555555555555,1046.0" fill="#111827"/>
+<text x="555.5555555555555" y="1050.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Confirms whether a DPIA is</text>
+<text x="555.5555555555555" y="1066.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">required</text>
+<polygon points="543.5555555555555,1079.0 548.5555555555555,1084.0 543.5555555555555,1089.0 538.5555555555555,1084.0" fill="#111827"/>
+<text x="555.5555555555555" y="1088.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Approves where personal data</text>
+<text x="555.5555555555555" y="1104.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">is processed or generated, or</text>
+<text x="555.5555555555555" y="1120.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">not stated</text>
+<rect x="759.1111111111111" y="1027.5" width="217.55555555555554" height="110" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="773.1111111111111" cy="1046.0" r="2.8" fill="#4B5563"/>
+<text x="785.1111111111111" y="1050.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Advises on and reviews the</text>
+<text x="785.1111111111111" y="1066.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">DPIA; records of processing</text>
+<rect x="1218.2222222222222" y="1027.5" width="217.55555555555554" height="110" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<polygon points="1232.2222222222222,1041.0 1237.2222222222222,1046.0 1232.2222222222222,1051.0 1227.2222222222222,1046.0" fill="#111827"/>
+<text x="1244.2222222222222" y="1050.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Approves: the DPIA&#x27;s measures</text>
+<text x="1244.2222222222222" y="1066.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">in place</text>
+<rect x="1677.3333333333333" y="1027.5" width="217.55555555555554" height="110" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1691.3333333333333" cy="1046.0" r="2.8" fill="#4B5563"/>
+<text x="1703.3333333333333" y="1050.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Screens again when a change</text>
+<text x="1703.3333333333333" y="1066.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">touches personal data</text>
+<rect x="1906.8888888888887" y="1027.5" width="217.55555555555554" height="110" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1920.8888888888887" cy="1046.0" r="2.8" fill="#4B5563"/>
+<text x="1932.8888888888887" y="1050.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Personal data breaches:</text>
+<text x="1932.8888888888887" y="1066.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">notified within 72 hours</text>
+<rect x="2136.4444444444443" y="1027.5" width="217.55555555555554" height="110" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="2150.4444444444443" cy="1046.0" r="2.8" fill="#4B5563"/>
+<text x="2162.4444444444443" y="1050.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Told whether personal data is</text>
+<text x="2162.4444444444443" y="1066.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">kept or deleted</text>
+<rect x="40" y="1143.5" width="238" height="94" rx="8" fill="#F3F4F6" />
+<rect x="40" y="1143.5" width="6" height="94" rx="3" fill="#7C3AED" />
+<text x="58" y="1169.5" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Risk and Compliance</text>
+<text x="58" y="1187.5" font-size="11" font-weight="700" fill="#7C3AED" text-anchor="start" letter-spacing="1.2">GOVERN</text>
+<text x="58" y="1204.5" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start">Second line</text>
+<rect x="529.5555555555555" y="1143.5" width="217.55555555555554" height="94" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<polygon points="543.5555555555555,1157.0 548.5555555555555,1162.0 543.5555555555555,1167.0 538.5555555555555,1162.0" fill="#111827"/>
+<text x="555.5555555555555" y="1166.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Sign off Gate 1 (Enhanced)</text>
+<circle cx="543.5555555555555" cy="1184.0" r="2.8" fill="#4B5563"/>
+<text x="555.5555555555555" y="1188.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Risk samples the materiality</text>
+<text x="555.5555555555555" y="1204.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">rating</text>
+<rect x="759.1111111111111" y="1143.5" width="217.55555555555554" height="94" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="773.1111111111111" cy="1162.0" r="2.8" fill="#4B5563"/>
+<text x="785.1111111111111" y="1166.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Take part in and challenge</text>
+<text x="785.1111111111111" y="1182.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">the change risk assessment</text>
+<rect x="988.6666666666666" y="1143.5" width="217.55555555555554" height="94" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1002.6666666666666" cy="1162.0" r="2.8" fill="#4B5563"/>
+<text x="1014.6666666666666" y="1166.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Independent validation of</text>
+<text x="1014.6666666666666" y="1182.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">high-risk models</text>
+<rect x="1218.2222222222222" y="1143.5" width="217.55555555555554" height="94" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<polygon points="1232.2222222222222,1157.0 1237.2222222222222,1162.0 1232.2222222222222,1167.0 1227.2222222222222,1162.0" fill="#111827"/>
+<text x="1244.2222222222222" y="1166.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Risk and compliance opinion</text>
+<text x="1244.2222222222222" y="1182.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">(Significant)</text>
+<circle cx="1232.2222222222222" cy="1200.0" r="2.8" fill="#4B5563"/>
+<text x="1244.2222222222222" y="1204.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">[risk committee] and</text>
+<text x="1244.2222222222222" y="1220.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">[management board] review</text>
+<rect x="1677.3333333333333" y="1143.5" width="217.55555555555554" height="94" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1691.3333333333333" cy="1162.0" r="2.8" fill="#4B5563"/>
+<text x="1703.3333333333333" y="1166.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Challenge the materiality of</text>
+<text x="1703.3333333333333" y="1182.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">substantial changes</text>
+<rect x="1906.8888888888887" y="1143.5" width="217.55555555555554" height="94" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<circle cx="1920.8888888888887" cy="1162.0" r="2.8" fill="#4B5563"/>
+<text x="1932.8888888888887" y="1166.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Reporting obligations: EU AI</text>
+<text x="1932.8888888888887" y="1182.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Act, DORA</text>
+<rect x="40" y="1243.5" width="238" height="99.0" rx="8" fill="#F3F4F6" />
+<rect x="40" y="1243.5" width="6" height="99.0" rx="3" fill="#7C3AED" />
+<text x="58" y="1269.5" font-size="15" font-weight="700" fill="#111827" text-anchor="start">AI Governance Council</text>
+<text x="58" y="1287.5" font-size="11" font-weight="700" fill="#7C3AED" text-anchor="start" letter-spacing="1.2">GOVERN</text>
+<text x="58" y="1304.5" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start">Settles disagreements; sets</text>
+<text x="58" y="1319.0" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start">thresholds</text>
+<rect x="1218.2222222222222" y="1243.5" width="217.55555555555554" height="99.0" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<polygon points="1232.2222222222222,1257.0 1237.2222222222222,1262.0 1232.2222222222222,1267.0 1227.2222222222222,1262.0" fill="#111827"/>
+<text x="1244.2222222222222" y="1266.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Decides go-live on the</text>
+<text x="1244.2222222222222" y="1282.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Enhanced path</text>
+<rect x="1906.8888888888887" y="1243.5" width="217.55555555555554" height="99.0" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<polygon points="1920.8888888888887,1257.0 1925.8888888888887,1262.0 1920.8888888888887,1267.0 1915.8888888888887,1262.0" fill="#111827"/>
+<text x="1932.8888888888887" y="1266.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Decides suspension and the</text>
+<text x="1932.8888888888887" y="1282.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">return to production</text>
+<rect x="2136.4444444444443" y="1243.5" width="217.55555555555554" height="99.0" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+<polygon points="2150.4444444444443,1257.0 2155.4444444444443,1262.0 2150.4444444444443,1267.0 2145.4444444444443,1262.0" fill="#111827"/>
+<text x="2162.4444444444443" y="1266.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">May decide retirement after</text>
+<text x="2162.4444444444443" y="1282.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">an escalation</text>
+<line x1="753.1111111111111" y1="150" x2="753.1111111111111" y2="1348.5" stroke="#111827" stroke-width="3"/>
+<polygon points="753.1111111111111,262 771.1111111111111,280 753.1111111111111,298 735.1111111111111,280" fill="#111827"/>
+<rect x="777.1111111111111" y="266" width="250.00000000000003" height="28" rx="14" fill="#FFFFFF" stroke="#111827" stroke-width="1.2" />
+<text x="902.1111111111111" y="285" font-size="12.5" font-weight="700" fill="#111827" text-anchor="middle">GATE 1 · May we build or buy it?</text>
+<line x1="1441.7777777777778" y1="150" x2="1441.7777777777778" y2="1348.5" stroke="#111827" stroke-width="3"/>
+<polygon points="1441.7777777777778,262 1459.7777777777778,280 1441.7777777777778,298 1423.7777777777778,280" fill="#111827"/>
+<rect x="1111.7777777777778" y="266" width="306.0" height="28" rx="14" fill="#FFFFFF" stroke="#111827" stroke-width="1.2" />
+<text x="1264.7777777777778" y="285" font-size="12.5" font-weight="700" fill="#111827" text-anchor="middle">GATE 2 · May this configuration go live?</text>
+<rect x="1673.3333333333333" y="262" width="225.55555555555554" height="1086.5" rx="10" fill="none" stroke="#111827" stroke-width="2" stroke-dasharray="7 5"/>
+<rect x="1685.3333333333333" y="266" width="201.55555555555554" height="28" rx="14" fill="#FFFFFF" stroke="#111827" stroke-width="1.2" />
+<text x="1786.111111111111" y="285" font-size="12.5" font-weight="700" fill="#111827" text-anchor="middle">GATE 3 · continuous</text>
+<text x="40" y="1378.5" font-size="13" font-weight="700" fill="#4B5563" text-anchor="start" letter-spacing="1.2">COMPONENT TRACK  ·  models, tools, MCP servers and APIs, skills, knowledge sources</text>
+<rect x="40" y="1392.5" width="238" height="104" rx="8" fill="#FFFFFF" stroke="#9CA3AF" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="58" y="1418.5" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Component track</text>
+<text x="58" y="1438.5" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start">Six of the nine stages; governed</text>
+<text x="58" y="1453.0" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start">through their uses</text>
+<rect x="300.0" y="1392.5" width="217.55555555555554" height="104" rx="8" fill="#F9FAFB" stroke="#9CA3AF" stroke-width="1" stroke-dasharray="6 4"/>
+<circle cx="314.0" cy="1411.0" r="2.8" fill="#4B5563"/>
+<text x="326.0" y="1415.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">The component owner registers</text>
+<text x="326.0" y="1431.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">it</text>
+<rect x="529.5555555555555" y="1392.5" width="217.55555555555554" height="104" rx="8" fill="#F9FAFB" stroke="#9CA3AF" stroke-width="1" stroke-dasharray="6 4"/>
+<circle cx="543.5555555555555" cy="1411.0" r="2.8" fill="#4B5563"/>
+<text x="555.5555555555555" y="1415.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Assessed by class: a tool&#x27;s</text>
+<text x="555.5555555555555" y="1431.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">tier (the AI security team),</text>
+<text x="555.5555555555555" y="1447.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">a knowledge source&#x27;s data</text>
+<text x="555.5555555555555" y="1463.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">(the DPO), a model&#x27;s provider</text>
+<text x="555.5555555555555" y="1479.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">terms, a skill reviewed</text>
+<rect x="759.1111111111111" y="1392.5" width="217.55555555555554" height="104" rx="8" fill="#FAFAFA" stroke="#E5E7EB" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="867.8888888888889" y="1448.5" font-size="12" font-weight="400" fill="#9CA3AF" text-anchor="middle" font-style="italic">not used</text>
+<rect x="988.6666666666666" y="1392.5" width="217.55555555555554" height="104" rx="8" fill="#F9FAFB" stroke="#9CA3AF" stroke-width="1" stroke-dasharray="6 4"/>
+<circle cx="1002.6666666666666" cy="1411.0" r="2.8" fill="#4B5563"/>
+<text x="1014.6666666666666" y="1415.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Security tests only for a</text>
+<text x="1014.6666666666666" y="1431.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">tier 3 tool or one built</text>
+<text x="1014.6666666666666" y="1447.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">in-house</text>
+<rect x="1218.2222222222222" y="1392.5" width="217.55555555555554" height="104" rx="8" fill="#F9FAFB" stroke="#9CA3AF" stroke-width="1" stroke-dasharray="6 4"/>
+<polygon points="1232.2222222222222,1406.0 1237.2222222222222,1411.0 1232.2222222222222,1416.0 1227.2222222222222,1411.0" fill="#111827"/>
+<text x="1244.2222222222222" y="1415.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Approved for reuse: the</text>
+<text x="1244.2222222222222" y="1431.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">component owner; the</text>
+<text x="1244.2222222222222" y="1447.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">governance officer for a</text>
+<text x="1244.2222222222222" y="1463.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">model</text>
+<rect x="1447.7777777777778" y="1392.5" width="217.55555555555554" height="104" rx="8" fill="#FAFAFA" stroke="#E5E7EB" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="1556.5555555555557" y="1448.5" font-size="12" font-weight="400" fill="#9CA3AF" text-anchor="middle" font-style="italic">not used</text>
+<rect x="1677.3333333333333" y="1392.5" width="217.55555555555554" height="104" rx="8" fill="#F9FAFB" stroke="#9CA3AF" stroke-width="1" stroke-dasharray="6 4"/>
+<polygon points="1691.3333333333333,1406.0 1696.3333333333333,1411.0 1691.3333333333333,1416.0 1686.3333333333333,1411.0" fill="#111827"/>
+<text x="1703.3333333333333" y="1415.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">The owner decides each use</text>
+<circle cx="1691.3333333333333" cy="1433.0" r="2.8" fill="#4B5563"/>
+<text x="1703.3333333333333" y="1437.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">A change reaches every agent</text>
+<text x="1703.3333333333333" y="1453.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">that uses it</text>
+<rect x="1906.8888888888887" y="1392.5" width="217.55555555555554" height="104" rx="8" fill="#F9FAFB" stroke="#9CA3AF" stroke-width="1" stroke-dasharray="6 4"/>
+<circle cx="1920.8888888888887" cy="1411.0" r="2.8" fill="#4B5563"/>
+<text x="1932.8888888888887" y="1415.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Escalated like any asset</text>
+<rect x="2136.4444444444443" y="1392.5" width="217.55555555555554" height="104" rx="8" fill="#F9FAFB" stroke="#9CA3AF" stroke-width="1" stroke-dasharray="6 4"/>
+<circle cx="2150.4444444444443" cy="1411.0" r="2.8" fill="#4B5563"/>
+<text x="2162.4444444444443" y="1415.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Assets that depend on it told</text>
+<text x="2162.4444444444443" y="1431.5" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">before its connections end</text>
+<text x="40" y="1540.5" font-size="13" font-weight="700" fill="#4B5563" text-anchor="start" letter-spacing="1.2">THROUGHOUT</text>
+<text x="40" y="1566.5" font-size="14" font-weight="400" fill="#111827" text-anchor="start">Internal Audit can read the whole record, as it stood on any date, at any stage. The governance solution routes each task, reminds, and records every decision with who, when and on what evidence.</text>
+<text x="40" y="1588.5" font-size="14" font-weight="400" fill="#111827" text-anchor="start">On the Light path gates 1 and 2 can be decided together. A substantial modification or a new use is rated again and passes the gates of its path again (8.7). Details: sections 5 to 9 and Appendix B.</text>
+</svg>

@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>How much governance an asset gets</title><desc>Risk class, process impact and process criticality give the change materiality, which sets the path. On every path the level of autonomy sets minimum controls, personal data starts the data protection route, and a high-risk system carries its own requirements.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4B5563"/></marker><marker id="arrw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B91C1C"/></marker></defs>
+<rect width="1600" height="900" fill="#FFFFFF"/>
+<text x="40" y="52" font-size="28" font-weight="700" fill="#111827" text-anchor="start">How much governance an asset gets</text>
+<text x="40" y="80" font-size="15" font-weight="400" fill="#4B5563" text-anchor="start">The change materiality decides the path. The level of autonomy, personal data and a high-risk class add what every path must carry.</text>
+<text x="40" y="118" font-size="13" font-weight="700" fill="#4B5563" text-anchor="start" letter-spacing="1.2">THE PATH  ·  for full-track assets: agents, AI-enabled systems, platforms  ·  rated at Gate 1 and on every substantial change</text>
+<rect x="40" y="134" width="390" height="92" rx="8" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1.2" />
+<text x="58" y="160" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Risk class</text>
+<text x="158.0" y="160" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">EU AI Act</text>
+<rect x="58" y="172" width="52.0" height="26" rx="13" fill="#FEE2E2" />
+<text x="84.0" y="189.5" font-size="12.5" font-weight="600" fill="#991B1B" text-anchor="middle">High</text>
+<rect x="118.0" y="172" width="74.5" height="26" rx="13" fill="#FEF3C7" />
+<text x="155.25" y="189.5" font-size="12.5" font-weight="600" fill="#92400E" text-anchor="middle">Limited</text>
+<rect x="200.5" y="172" width="74.5" height="26" rx="13" fill="#DCFCE7" />
+<text x="237.75" y="189.5" font-size="12.5" font-weight="600" fill="#166534" text-anchor="middle">Minimal</text>
+<text x="287.0" y="190" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">Prohibited: stop</text>
+<line x1="430" y1="180.0" x2="472" y2="250.2" stroke="#4B5563" stroke-width="1.6" marker-end="url(#arr)"/>
+<rect x="40" y="238" width="390" height="110" rx="8" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1.2" />
+<text x="58" y="264" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Process impact</text>
+<text x="194.0" y="264" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">how much the AI changes the process</text>
+<rect x="58" y="276" width="89.5" height="26" rx="13" fill="#E0E7FF" />
+<text x="102.75" y="293.5" font-size="12.5" font-weight="600" fill="#3730A3" text-anchor="middle">Assistive</text>
+<rect x="155.5" y="276" width="104.5" height="26" rx="13" fill="#E0E7FF" />
+<text x="207.75" y="293.5" font-size="12.5" font-weight="600" fill="#3730A3" text-anchor="middle">Influencing</text>
+<rect x="268.0" y="276" width="127.0" height="26" rx="13" fill="#E0E7FF" />
+<text x="331.5" y="293.5" font-size="12.5" font-weight="600" fill="#3730A3" text-anchor="middle">Transformative</text>
+<text x="58" y="330" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">An agent acting through tier 2 or 3 tools is usually transformative</text>
+<line x1="430" y1="293.0" x2="472" y2="289.75" stroke="#4B5563" stroke-width="1.6" marker-end="url(#arr)"/>
+<rect x="40" y="360" width="390" height="92" rx="8" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1.2" />
+<text x="58" y="386" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Process criticality</text>
+<text x="239.0" y="386" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">Of the business process it serves</text>
+<rect x="58" y="398" width="82.0" height="26" rx="13" fill="#E5E7EB" />
+<text x="99.0" y="415.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="middle">Critical</text>
+<rect x="148.0" y="398" width="89.5" height="26" rx="13" fill="#E5E7EB" />
+<text x="192.75" y="415.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="middle">Important</text>
+<rect x="245.5" y="398" width="59.5" height="26" rx="13" fill="#E5E7EB" />
+<text x="275.25" y="415.5" font-size="12.5" font-weight="600" fill="#111827" text-anchor="middle">Other</text>
+<line x1="430" y1="406.0" x2="472" y2="329.3" stroke="#4B5563" stroke-width="1.6" marker-end="url(#arr)"/>
+<rect x="476" y="134" width="424" height="328" rx="10" fill="#FFFFFF" stroke="#111827" stroke-width="1.6" />
+<text x="496" y="164" font-size="16" font-weight="700" fill="#111827" text-anchor="start">Change materiality</text>
+<text x="880" y="164" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="end" font-style="italic">[reference method]</text>
+<text x="635.0" y="196" font-size="11.5" font-weight="700" fill="#111827" text-anchor="middle">High risk</text>
+<text x="775.0" y="196" font-size="11.5" font-weight="700" fill="#111827" text-anchor="middle">Limited or minimal risk</text>
+<text x="635.0" y="214" font-size="11" font-weight="400" fill="#4B5563" text-anchor="middle">any process</text>
+<text x="705.0" y="214" font-size="11" font-weight="400" fill="#4B5563" text-anchor="middle">Critical</text>
+<text x="775.0" y="214" font-size="11" font-weight="400" fill="#4B5563" text-anchor="middle">Important</text>
+<text x="845.0" y="214" font-size="11" font-weight="400" fill="#4B5563" text-anchor="middle">Other</text>
+<text x="496" y="246" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Assistive</text>
+<rect x="602" y="224" width="66" height="34" rx="6" fill="#FEF3C7" />
+<text x="635.0" y="245.5" font-size="11" font-weight="700" fill="#92400E" text-anchor="middle">Medium</text>
+<rect x="672" y="224" width="66" height="34" rx="6" fill="#DCFCE7" />
+<text x="705.0" y="245.5" font-size="11" font-weight="700" fill="#166534" text-anchor="middle">Minor</text>
+<rect x="742" y="224" width="66" height="34" rx="6" fill="#DCFCE7" />
+<text x="775.0" y="245.5" font-size="11" font-weight="700" fill="#166534" text-anchor="middle">Minor</text>
+<rect x="812" y="224" width="66" height="34" rx="6" fill="#DCFCE7" />
+<text x="845.0" y="245.5" font-size="11" font-weight="700" fill="#166534" text-anchor="middle">Minor</text>
+<text x="496" y="284" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Influencing</text>
+<rect x="602" y="262" width="66" height="34" rx="6" fill="#FEE2E2" />
+<text x="635.0" y="283.5" font-size="11" font-weight="700" fill="#991B1B" text-anchor="middle">Significant</text>
+<rect x="672" y="262" width="66" height="34" rx="6" fill="#FEF3C7" />
+<text x="705.0" y="283.5" font-size="11" font-weight="700" fill="#92400E" text-anchor="middle">Medium</text>
+<rect x="742" y="262" width="66" height="34" rx="6" fill="#DCFCE7" />
+<text x="775.0" y="283.5" font-size="11" font-weight="700" fill="#166534" text-anchor="middle">Minor</text>
+<rect x="812" y="262" width="66" height="34" rx="6" fill="#DCFCE7" />
+<text x="845.0" y="283.5" font-size="11" font-weight="700" fill="#166534" text-anchor="middle">Minor</text>
+<text x="496" y="322" font-size="12.5" font-weight="600" fill="#111827" text-anchor="start">Transformative</text>
+<rect x="602" y="300" width="66" height="34" rx="6" fill="#FEE2E2" />
+<text x="635.0" y="321.5" font-size="11" font-weight="700" fill="#991B1B" text-anchor="middle">Significant</text>
+<rect x="672" y="300" width="66" height="34" rx="6" fill="#FEE2E2" />
+<text x="705.0" y="321.5" font-size="11" font-weight="700" fill="#991B1B" text-anchor="middle">Significant</text>
+<rect x="742" y="300" width="66" height="34" rx="6" fill="#FEF3C7" />
+<text x="775.0" y="321.5" font-size="11" font-weight="700" fill="#92400E" text-anchor="middle">Medium</text>
+<rect x="812" y="300" width="66" height="34" rx="6" fill="#FEF3C7" />
+<text x="845.0" y="321.5" font-size="11" font-weight="700" fill="#92400E" text-anchor="middle">Medium</text>
+<text x="496" y="360" font-size="12" font-weight="700" fill="#111827" text-anchor="start">Raised by:</text>
+<text x="496" y="379" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">customer-facing: at least Medium</text>
+<text x="496" y="396" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">reclassified to high risk: Significant</text>
+<text x="496" y="413" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start">high or critical residual risk: Significant</text>
+<text x="496" y="440" font-size="11.5" font-weight="400" fill="#111827" text-anchor="start" font-style="italic">Components are not rated: assessed by their class (7.3)</text>
+<line x1="900" y1="293" x2="944" y2="293" stroke="#4B5563" stroke-width="1.6" marker-end="url(#arr)"/>
+<rect x="948" y="134" width="612" height="76" rx="8" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1.2" />
+<rect x="948" y="134" width="150" height="76" rx="8" fill="#15803D" />
+<rect x="1088" y="134" width="10" height="76" rx="0" fill="#15803D" />
+<text x="966" y="166" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="start">Light</text>
+<text x="966" y="187" font-size="12" font-weight="400" fill="#FFFFFF" text-anchor="start">Minor change</text>
+<text x="1114" y="158" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Materiality recorded; the governance officer may decide both gates together</text>
+<text x="1114" y="176" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">The builder&#x27;s evaluation; a security self-check, sampled</text>
+<text x="1114" y="194" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Review every 24 months</text>
+<rect x="948" y="218" width="612" height="76" rx="8" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1.2" />
+<rect x="948" y="218" width="150" height="76" rx="8" fill="#B45309" />
+<rect x="1088" y="218" width="10" height="76" rx="0" fill="#B45309" />
+<text x="966" y="250" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="start">Standard</text>
+<text x="966" y="271" font-size="12" font-weight="400" fill="#FFFFFF" text-anchor="start">Medium change</text>
+<text x="1114" y="242" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Change risk assessment with the stakeholders, in [the GRC tool]</text>
+<text x="1114" y="260" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Targeted security tests by the AI security team, who sign Gate 2</text>
+<text x="1114" y="278" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Review every 12 months</text>
+<rect x="948" y="302" width="612" height="76" rx="8" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1.2" />
+<rect x="948" y="302" width="150" height="76" rx="8" fill="#B91C1C" />
+<rect x="1088" y="302" width="10" height="76" rx="0" fill="#B91C1C" />
+<text x="966" y="334" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="start">Enhanced</text>
+<text x="966" y="355" font-size="12" font-weight="400" fill="#FFFFFF" text-anchor="start">Significant change</text>
+<text x="1114" y="326" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">+ risk and compliance opinion; [risk committee] and [management board]</text>
+<text x="1114" y="344" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Full red teaming; the CISO, Risk and Compliance sign off</text>
+<text x="1114" y="362" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">The AI Governance Council decides Gate 2 · review every 6 months</text>
+<rect x="948" y="386" width="612" height="76" rx="8" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1.2" />
+<rect x="948" y="386" width="150" height="76" rx="8" fill="#111827" />
+<rect x="1088" y="386" width="10" height="76" rx="0" fill="#111827" />
+<text x="966" y="418" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="start">Stop</text>
+<text x="966" y="439" font-size="12" font-weight="400" fill="#FFFFFF" text-anchor="start">Prohibited practice</text>
+<text x="1114" y="410" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">A prohibited practice under the EU AI Act</text>
+<text x="1114" y="428" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Never approved</text>
+<line x1="40" y1="486" x2="1560" y2="486" stroke="#D1D5DB" stroke-width="1"/>
+<text x="40" y="516" font-size="13" font-weight="700" fill="#4B5563" text-anchor="start" letter-spacing="1.2">ON EVERY PATH, IN ADDITION</text>
+<rect x="40" y="532" width="290" height="110" rx="10" fill="#334155" />
+<text x="60" y="568" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="start">Level of autonomy</text>
+<text x="60" y="592" font-size="12.5" font-weight="400" fill="#FFFFFF" text-anchor="start">How far a person is in the loop. Sets</text>
+<text x="60" y="608" font-size="12.5" font-weight="400" fill="#FFFFFF" text-anchor="start">the minimum controls</text>
+<rect x="346.0" y="532" width="396.6666666666667" height="110" rx="10" fill="#F1F5F9" />
+<text x="364.0" y="558" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Assistive</text>
+<text x="453.0" y="558" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">human in the loop</text>
+<text x="364.0" y="582" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">Users review its output before it takes effect</text>
+<rect x="754.6666666666667" y="532" width="396.6666666666667" height="110" rx="10" fill="#E2E8F0" />
+<text x="772.6666666666667" y="558" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Conditional</text>
+<text x="879.6666666666667" y="558" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">human on the loop</text>
+<text x="772.6666666666667" y="582" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">+ Agent Authority Statement · actions logged · a way to</text>
+<text x="772.6666666666667" y="599" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">stop it · its platform&#x27;s guardrails on</text>
+<rect x="1163.3333333333335" y="532" width="396.6666666666667" height="110" rx="10" fill="#CBD5E1" />
+<text x="1181.3333333333335" y="558" font-size="15" font-weight="700" fill="#111827" text-anchor="start">Autonomous</text>
+<text x="1279.3333333333335" y="558" font-size="12" font-weight="400" fill="#4B5563" text-anchor="start" font-style="italic">human out of the loop</text>
+<text x="1181.3333333333335" y="582" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">+ a person decides go-live · logs that replay what it did</text>
+<text x="1181.3333333333335" y="599" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">· limits on runaway actions · scheduled re-tests ·</text>
+<text x="1181.3333333333335" y="616" font-size="12.5" font-weight="400" fill="#111827" text-anchor="start">fairness evaluation</text>
+<rect x="40" y="656" width="290" height="104" rx="10" fill="#6D28D9" />
+<text x="60" y="692" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="start">Personal data</text>
+<text x="60" y="716" font-size="12.5" font-weight="400" fill="#FFFFFF" text-anchor="start">Processed or generated. Starts the data</text>
+<text x="60" y="732" font-size="12.5" font-weight="400" fill="#FFFFFF" text-anchor="start">protection route</text>
+<polygon points="346.0,656 541.3333333333334,656 559.3333333333334,708 541.3333333333334,760 346.0,760 " fill="#EDE9FE"/>
+<text x="445.6666666666667" y="704" font-size="13.5" font-weight="700" fill="#111827" text-anchor="middle">Screening</text>
+<text x="445.6666666666667" y="725" font-size="12" font-weight="400" fill="#4B5563" text-anchor="middle" font-style="italic">Gate 1</text>
+<polygon points="545.3333333333334,656 740.6666666666667,656 758.6666666666667,708 740.6666666666667,760 545.3333333333334,760 563.3333333333334,708" fill="#DDD6FE"/>
+<text x="654.0" y="704" font-size="13.5" font-weight="700" fill="#111827" text-anchor="middle">DPO approves</text>
+<text x="654.0" y="725" font-size="12" font-weight="400" fill="#4B5563" text-anchor="middle" font-style="italic">Gate 1</text>
+<polygon points="744.6666666666667,656 940.0000000000001,656 958.0000000000001,708 940.0000000000001,760 744.6666666666667,760 762.6666666666667,708" fill="#EDE9FE"/>
+<text x="853.3333333333334" y="704" font-size="13.5" font-weight="700" fill="#111827" text-anchor="middle">DPIA</text>
+<text x="853.3333333333334" y="725" font-size="12" font-weight="400" fill="#4B5563" text-anchor="middle" font-style="italic">during the build</text>
+<polygon points="944.0,656 1139.3333333333333,656 1157.3333333333333,708 1139.3333333333333,760 944.0,760 962.0,708" fill="#DDD6FE"/>
+<text x="1052.6666666666667" y="695" font-size="13.5" font-weight="700" fill="#111827" text-anchor="middle">Records of</text>
+<text x="1052.6666666666667" y="713" font-size="13.5" font-weight="700" fill="#111827" text-anchor="middle">processing</text>
+<text x="1052.6666666666667" y="734" font-size="12" font-weight="400" fill="#4B5563" text-anchor="middle" font-style="italic">before go-live</text>
+<polygon points="1143.3333333333335,656 1338.6666666666667,656 1356.6666666666667,708 1338.6666666666667,760 1143.3333333333335,760 1161.3333333333335,708" fill="#EDE9FE"/>
+<text x="1252.0000000000002" y="704" font-size="13.5" font-weight="700" fill="#111827" text-anchor="middle">DPO approves</text>
+<text x="1252.0000000000002" y="725" font-size="12" font-weight="400" fill="#4B5563" text-anchor="middle" font-style="italic">Gate 2</text>
+<polygon points="1342.6666666666667,656 1538.0,656 1556.0,708 1538.0,760 1342.6666666666667,760 1360.6666666666667,708" fill="#DDD6FE"/>
+<text x="1451.3333333333335" y="704" font-size="13.5" font-weight="700" fill="#111827" text-anchor="middle">Screened again</text>
+<text x="1451.3333333333335" y="725" font-size="12" font-weight="400" fill="#4B5563" text-anchor="middle" font-style="italic">on change</text>
+<rect x="40" y="774" width="290" height="96" rx="10" fill="#B91C1C" />
+<text x="60" y="810" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="start">High-risk system</text>
+<text x="60" y="834" font-size="12.5" font-weight="400" fill="#FFFFFF" text-anchor="start">Follows the risk class, whatever the</text>
+<text x="60" y="850" font-size="12.5" font-weight="400" fill="#FFFFFF" text-anchor="start">path</text>
+<rect x="346.0" y="774" width="233.2" height="96" rx="10" fill="#FEF2F2" stroke="#FECACA" stroke-width="1" />
+<text x="462.6" y="828" font-size="13.5" font-weight="600" fill="#111827" text-anchor="middle">Technical documentation</text>
+<rect x="591.2" y="774" width="233.2" height="96" rx="10" fill="#FEF2F2" stroke="#FECACA" stroke-width="1" />
+<text x="707.8000000000001" y="819" font-size="13.5" font-weight="600" fill="#111827" text-anchor="middle">Independent validation of</text>
+<text x="707.8000000000001" y="837" font-size="13.5" font-weight="600" fill="#111827" text-anchor="middle">the model</text>
+<rect x="836.4" y="774" width="233.2" height="96" rx="10" fill="#FEF2F2" stroke="#FECACA" stroke-width="1" />
+<text x="953.0" y="828" font-size="13.5" font-weight="600" fill="#111827" text-anchor="middle">Record keeping</text>
+<rect x="1081.6" y="774" width="233.2" height="96" rx="10" fill="#FEF2F2" stroke="#FECACA" stroke-width="1" />
+<text x="1198.1999999999998" y="828" font-size="13.5" font-weight="600" fill="#111827" text-anchor="middle">FRIA where required</text>
+<rect x="1326.8" y="774" width="233.2" height="96" rx="10" fill="#FEF2F2" stroke="#FECACA" stroke-width="1" />
+<text x="1443.3999999999999" y="828" font-size="13.5" font-weight="600" fill="#111827" text-anchor="middle">Instructions for use</text>
+</svg>
