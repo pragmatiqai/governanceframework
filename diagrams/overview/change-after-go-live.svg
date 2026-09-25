@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="956" viewBox="0 0 1600 956" font-family="Montserrat, 'Segoe UI', Arial, sans-serif" role="img">
+<title>After go-live: does it still deserve its approval?</title><desc>Change is declared or detected through five channels, triaged by rules, judged by a person, and a substantial modification or a new use is rated again and passes the gates again. Governance, runtime monitoring and periodic review watch it all the time.</desc><style>@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&amp;display=swap');</style>
+<defs><linearGradient id="pq-title" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#139782"/><stop offset="1" stop-color="#0090CE"/></linearGradient><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4E5957"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#A86400"/></marker><marker id="arrr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#BF3A2B"/></marker><marker id="arrp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1E2625"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0E8572"/></marker></defs>
+<rect width="1600" height="956" fill="#FFFFFF"/>
+<text x="40" y="52" font-size="25.2" font-weight="600" fill="url(#pq-title)" text-anchor="start">AFTER GO-LIVE: DOES IT STILL DESERVE ITS APPROVAL?</text>
+<text x="40" y="80" font-size="13.5" font-weight="400" fill="#4E5957" text-anchor="start">The approval binds to a configuration. Planned change is declared, the rest detected; each change is triaged, and a substantial one passes the gates again.</text>
+<text x="40" y="128" font-size="11.7" font-weight="700" fill="#4E5957" text-anchor="start" letter-spacing="1.2">CHANGE ARRIVES</text>
+<text x="40" y="160" font-size="11.25" font-weight="700" fill="#0077AA" text-anchor="start">Declared before it is made</text>
+<rect x="40" y="170" width="330" height="66" rx="12.8" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<rect x="40" y="170" width="5" height="66" rx="2" fill="#0077AA" />
+<text x="58" y="194" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Self-report, API or MCP</text>
+<text x="58" y="213" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">a pipeline reports a new version as it deploys it</text>
+<rect x="40" y="244" width="330" height="66" rx="12.8" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<rect x="40" y="244" width="5" height="66" rx="2" fill="#0077AA" />
+<text x="58" y="268" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Reported by a person</text>
+<text x="58" y="287" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">an owner reports a change; an import from a system</text>
+<text x="58" y="301" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">without a connector</text>
+<text x="40" y="338" font-size="11.25" font-weight="700" fill="#A86400" text-anchor="start">Detected: the safety net</text>
+<rect x="40" y="348" width="330" height="66" rx="12.8" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<rect x="40" y="348" width="5" height="66" rx="2" fill="#A86400" />
+<text x="58" y="372" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Connectors</text>
+<text x="58" y="391" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">instructions, model or tools changed on the AI</text>
+<text x="58" y="405" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">platform</text>
+<rect x="40" y="422" width="330" height="66" rx="12.8" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<rect x="40" y="422" width="5" height="66" rx="2" fill="#A86400" />
+<text x="58" y="446" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Propagation</text>
+<text x="58" y="465" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">a model deprecated, a knowledge source reclassified,</text>
+<text x="58" y="479" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">a shared tool changed</text>
+<rect x="40" y="496" width="330" height="66" rx="12.8" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<rect x="40" y="496" width="5" height="66" rx="2" fill="#A86400" />
+<text x="58" y="520" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Product and vendor watch</text>
+<text x="58" y="539" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">release notes, new model versions, changed terms,</text>
+<text x="58" y="553" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">new subprocessors</text>
+<line x1="390" y1="203" x2="390" y2="529" stroke="#4E5957" stroke-width="2.4"/>
+<line x1="370" y1="203" x2="390" y2="203" stroke="#4E5957" stroke-width="1.4"/>
+<line x1="370" y1="277" x2="390" y2="277" stroke="#4E5957" stroke-width="1.4"/>
+<line x1="370" y1="381" x2="390" y2="381" stroke="#4E5957" stroke-width="1.4"/>
+<line x1="370" y1="455" x2="390" y2="455" stroke="#4E5957" stroke-width="1.4"/>
+<line x1="370" y1="529" x2="390" y2="529" stroke="#4E5957" stroke-width="1.4"/>
+<line x1="390" y1="250" x2="420" y2="250" stroke="#4E5957" stroke-width="2" marker-end="url(#arr)"/>
+<text x="424" y="128" font-size="11.7" font-weight="700" fill="#4E5957" text-anchor="start" letter-spacing="1.2">1 · TRIAGE</text>
+<rect x="424" y="170" width="300" height="300" rx="19.2" fill="#F3FCFA" stroke="#9AA5A3" stroke-width="1.2" />
+<text x="442" y="200" font-size="13.05" font-weight="700" fill="#121918" text-anchor="start">Does it need attention at all?</text>
+<text x="442" y="220" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">Configurable rules over what was detected</text>
+<text x="442" y="250" font-size="11.25" font-weight="600" fill="#121918" text-anchor="start">It does when:</text>
+<circle cx="447" cy="269.5" r="2.6" fill="#4E5957"/>
+<text x="458" y="274" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">a tool of a higher tier is added</text>
+<circle cx="447" cy="292.5" r="2.6" fill="#4E5957"/>
+<text x="458" y="297" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">the model changed</text>
+<circle cx="447" cy="315.5" r="2.6" fill="#4E5957"/>
+<text x="458" y="320" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">data access widened</text>
+<circle cx="447" cy="338.5" r="2.6" fill="#4E5957"/>
+<text x="458" y="343" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">the audience grew</text>
+<circle cx="447" cy="361.5" r="2.6" fill="#4E5957"/>
+<text x="458" y="366" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">a guardrail was removed</text>
+<text x="442" y="452" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">Triage protects people from volume</text>
+<line x1="724" y1="250" x2="764" y2="250" stroke="#4E5957" stroke-width="2" marker-end="url(#arr)"/>
+<text x="746" y="242" font-size="10.35" font-weight="600" fill="#4E5957" text-anchor="middle">yes</text>
+<text x="768" y="128" font-size="11.7" font-weight="700" fill="#4E5957" text-anchor="start" letter-spacing="1.2">2 · SUBSTANTIAL?</text>
+<rect x="768" y="170" width="330" height="300" rx="19.2" fill="#FFFFFF" stroke="#121918" stroke-width="1.6" />
+<polygon points="792,187 801,196 792,205 783,196" fill="#121918"/>
+<text x="810" y="201" font-size="13.05" font-weight="700" fill="#121918" text-anchor="start">A person decides</text>
+<text x="786" y="228" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Does it alter the purpose, the level of</text>
+<text x="786" y="245" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">autonomy, the people affected, the data</text>
+<text x="786" y="262" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">sources, the model or the documented controls?</text>
+<text x="786" y="306" font-size="11.25" font-weight="600" fill="#121918" text-anchor="start">Using it in a new business process or for</text>
+<text x="786" y="323" font-size="11.25" font-weight="600" fill="#121918" text-anchor="start">a new purpose is a new change too.</text>
+<text x="786" y="366" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">Not substantial: retraining within validated</text>
+<text x="786" y="382" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">limits, configuration that leaves the purpose</text>
+<text x="786" y="398" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">unchanged, maintenance.</text>
+<text x="786" y="440" font-size="10.8" font-weight="600" fill="#1E2625" text-anchor="start">Touches personal data? The screening again</text>
+<text x="786" y="456" font-size="10.8" font-weight="600" fill="#1E2625" text-anchor="start">(6.4)</text>
+<line x1="1098" y1="250" x2="1138" y2="250" stroke="#4E5957" stroke-width="2" marker-end="url(#arr)"/>
+<text x="1120" y="242" font-size="10.35" font-weight="600" fill="#4E5957" text-anchor="middle">yes</text>
+<text x="1142" y="128" font-size="11.7" font-weight="700" fill="#4E5957" text-anchor="start" letter-spacing="1.2">3 · RATED AGAIN</text>
+<rect x="1142" y="170" width="418" height="300" rx="19.2" fill="#FCE8E5" stroke="#EFAA9E" stroke-width="1.2" />
+<text x="1160" y="200" font-size="13.05" font-weight="700" fill="#8E2A1F" text-anchor="start">As a new change</text>
+<circle cx="1165" cy="225.5" r="2.6" fill="#4E5957"/>
+<text x="1176" y="230" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">The three inputs again: risk class, process impact,</text>
+<text x="1176" y="247" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">process criticality (6.2)</text>
+<circle cx="1165" cy="266.5" r="2.6" fill="#4E5957"/>
+<text x="1176" y="271" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">The materiality sets the path</text>
+<circle cx="1165" cy="290.5" r="2.6" fill="#4E5957"/>
+<text x="1176" y="295" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">The forms again where facts changed</text>
+<circle cx="1165" cy="314.5" r="2.6" fill="#4E5957"/>
+<text x="1176" y="319" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Re-tested (8.4), then the gates of its path again:</text>
+<text x="1176" y="336" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">re-approval of the new configuration</text>
+<rect x="424" y="528" width="88.84" height="30" rx="15.0" fill="#E5E5E5" />
+<text x="468.42" y="547.68" font-size="11.7" font-weight="700" fill="#121918" text-anchor="middle">Log only</text>
+<rect x="574" y="528" width="134.47" height="30" rx="15.0" fill="#D3EBF7" />
+<text x="641.235" y="547.68" font-size="11.7" font-weight="700" fill="#0077AA" text-anchor="middle">Tell the owner</text>
+<rect x="768" y="528" width="88.84" height="30" rx="15.0" fill="#FFF4D9" />
+<text x="812.42" y="547.68" font-size="11.7" font-weight="700" fill="#7F4A00" text-anchor="middle">Reassess</text>
+<text x="888" y="540" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">not substantial: Medium for a</text>
+<text x="888" y="554" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">high-risk asset, Minor otherwise,</text>
+<text x="888" y="568" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">unless it changes the process impact</text>
+<text x="888" y="582" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">or the process</text>
+<rect x="1142" y="528" width="104.05" height="30" rx="15.0" fill="#FCE8E5" />
+<text x="1194.025" y="547.68" font-size="11.7" font-weight="700" fill="#8E2A1F" text-anchor="middle">Re-approve</text>
+<line x1="484" y1="470" x2="484" y2="524" stroke="#4E5957" stroke-width="1.6" marker-end="url(#arr)"/>
+<line x1="634" y1="470" x2="634" y2="524" stroke="#4E5957" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="492" y="494" font-size="10.35" font-weight="600" fill="#4E5957" text-anchor="start">no</text>
+<text x="642" y="494" font-size="10.35" font-weight="600" fill="#4E5957" text-anchor="start">a notice will do</text>
+<line x1="818" y1="470" x2="818" y2="524" stroke="#4E5957" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="826" y="494" font-size="10.35" font-weight="600" fill="#4E5957" text-anchor="start">no</text>
+<line x1="1192" y1="470" x2="1192" y2="524" stroke="#4E5957" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M 205.0 570 L 205.0 634 L 1136 634" fill="none" stroke="#BF3A2B" stroke-width="1.8" stroke-dasharray="6 4" marker-end="url(#arrr)"/>
+<rect x="217.0" y="622" width="516" height="24" rx="4" fill="#FFFFFF" />
+<text x="229.0" y="639" font-size="10.8" font-weight="600" fill="#BF3A2B" text-anchor="start">A change nobody declared, or drift from what was approved: may go straight to escalation</text>
+<rect x="1142" y="612" width="418" height="46" rx="16" fill="#BF3A2B" />
+<text x="1160" y="641" font-size="12.15" font-weight="700" fill="#FFFFFF" text-anchor="start">Escalated (8.8): the AI Governance Officer, then the Council</text>
+<text x="40" y="690" font-size="11.7" font-weight="700" fill="#4E5957" text-anchor="start" letter-spacing="1.2">WATCHED ALL THE TIME</text>
+<rect x="40.0" y="704" width="493.3333333333333" height="6" rx="3" fill="#1E2625" />
+<text x="44.0" y="736" font-size="13.5" font-weight="700" fill="#1E2625" text-anchor="start">Governance still holds</text>
+<text x="44.0" y="756" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">by the governance solution (8.7 c)</text>
+<circle cx="49.0" cy="779.5" r="2.6" fill="#1E2625"/>
+<text x="60.0" y="784" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Control health: logging, guardrails, access scope still on</text>
+<circle cx="49.0" cy="803.5" r="2.6" fill="#1E2625"/>
+<text x="60.0" y="808" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Configuration drift: what runs matches what was approved</text>
+<circle cx="49.0" cy="827.5" r="2.6" fill="#1E2625"/>
+<text x="60.0" y="832" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Usage against purpose; evidence still valid</text>
+<circle cx="49.0" cy="851.5" r="2.6" fill="#1E2625"/>
+<text x="60.0" y="856" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Dependency health: deprecations, vendor changes, vulnerabilities</text>
+<circle cx="49.0" cy="875.5" r="2.6" fill="#1E2625"/>
+<text x="60.0" y="880" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Oversight quality: approval rates, review times; coverage</text>
+<rect x="553.3333333333333" y="704" width="493.3333333333333" height="6" rx="3" fill="#0E8572" />
+<text x="557.3333333333333" y="736" font-size="13.5" font-weight="700" fill="#0E8572" text-anchor="start">Runtime monitoring and re-testing</text>
+<text x="557.3333333333333" y="756" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">outside the governance solution (8.7 b)</text>
+<circle cx="562.3333333333333" cy="779.5" r="2.6" fill="#0E8572"/>
+<text x="573.3333333333333" y="784" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Abuse, data leakage, unsafe actions, quality drift, watched by the AI</text>
+<text x="573.3333333333333" y="801" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">security team and the platform teams with their own tools [SOC]</text>
+<circle cx="562.3333333333333" cy="820.5" r="2.6" fill="#0E8572"/>
+<text x="573.3333333333333" y="825" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Enhanced and autonomous assets re-tested on a schedule: adversarial tests,</text>
+<text x="573.3333333333333" y="842" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">regression of quality and fairness</text>
+<circle cx="562.3333333333333" cy="861.5" r="2.6" fill="#0E8572"/>
+<text x="573.3333333333333" y="866" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Findings that touch an approval go to the owner; serious ones to escalation</text>
+<rect x="1066.6666666666665" y="704" width="493.3333333333333" height="6" rx="3" fill="#0077AA" />
+<text x="1070.6666666666665" y="736" font-size="13.5" font-weight="700" fill="#0077AA" text-anchor="start">Periodic review</text>
+<text x="1070.6666666666665" y="756" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">the approval renewed (8.7 d)</text>
+<circle cx="1075.6666666666665" cy="779.5" r="2.6" fill="#0077AA"/>
+<text x="1086.6666666666665" y="784" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">The owner re-confirms the facts, the purpose and the conditions, from a</text>
+<text x="1086.6666666666665" y="801" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">pre-filled review</text>
+<circle cx="1075.6666666666665" cy="820.5" r="2.6" fill="#0077AA"/>
+<text x="1086.6666666666665" y="825" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Leavers and movers are picked up from the directory, and their assets</text>
+<text x="1086.6666666666665" y="842" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">reassigned</text>
+<rect x="1070.6666666666665" y="870" width="150" height="50" rx="12.8" fill="#FFFFFF" stroke="#0E8572" stroke-width="1.4" />
+<text x="1084.6666666666665" y="891" font-size="11.25" font-weight="700" fill="#0E8572" text-anchor="start">Light</text>
+<text x="1084.6666666666665" y="909" font-size="10.8" font-weight="400" fill="#121918" text-anchor="start">every 24 months</text>
+<rect x="1232.6666666666665" y="870" width="150" height="50" rx="12.8" fill="#FFFFFF" stroke="#A86400" stroke-width="1.4" />
+<text x="1246.6666666666665" y="891" font-size="11.25" font-weight="700" fill="#A86400" text-anchor="start">Standard</text>
+<text x="1246.6666666666665" y="909" font-size="10.8" font-weight="400" fill="#121918" text-anchor="start">every 12 months</text>
+<rect x="1394.6666666666665" y="870" width="150" height="50" rx="12.8" fill="#FFFFFF" stroke="#BF3A2B" stroke-width="1.4" />
+<text x="1408.6666666666665" y="891" font-size="11.25" font-weight="700" fill="#BF3A2B" text-anchor="start">Enhanced</text>
+<text x="1408.6666666666665" y="909" font-size="10.8" font-weight="400" fill="#121918" text-anchor="start">every 6 months</text>
+</svg>

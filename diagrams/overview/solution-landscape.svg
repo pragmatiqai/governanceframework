@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1034" viewBox="0 0 1600 1034" font-family="Montserrat, 'Segoe UI', Arial, sans-serif" role="img">
+<title>The governance solution in its landscape</title><desc>The governance solution holds the register, runs the workflows and keeps the record, beside the live path between people and AI; it reads the AI platforms through read-only connectors, links to the existing tools, and leaves runtime controls to the organisation&#x27;s own tools.</desc><style>@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&amp;display=swap');</style>
+<defs><linearGradient id="pq-title" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#139782"/><stop offset="1" stop-color="#0090CE"/></linearGradient><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4E5957"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#A86400"/></marker><marker id="arrr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#BF3A2B"/></marker><marker id="arrp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1E2625"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0E8572"/></marker></defs>
+<rect width="1600" height="1034" fill="#FFFFFF"/>
+<text x="40" y="52" font-size="25.2" font-weight="600" fill="url(#pq-title)" text-anchor="start">THE GOVERNANCE SOLUTION IN ITS LANDSCAPE</text>
+<text x="40" y="80" font-size="13.5" font-weight="400" fill="#4E5957" text-anchor="start">It holds the register, runs the workflows and keeps the record. It stays out of the live path: it reads what runs, compares it with what was approved, and escalates the gaps.</text>
+<rect x="40" y="112" width="1520" height="74" rx="19.2" fill="#FFF4D9" />
+<text x="58" y="140" font-size="10.8" font-weight="700" fill="#A86400" text-anchor="start" letter-spacing="1.2">THE LIVE PATH</text>
+<text x="58" y="162" font-size="10.8" font-weight="400" fill="#7F4A00" text-anchor="start" font-style="italic">The governance solution is not in it</text>
+<rect x="420" y="128" width="220" height="42" rx="21" fill="#FFFFFF" stroke="#F0A830" stroke-width="1.2" />
+<text x="530" y="154" font-size="12.15" font-weight="700" fill="#121918" text-anchor="middle">People and processes</text>
+<line x1="646" y1="149" x2="874" y2="149" stroke="#A86400" stroke-width="2.2" marker-end="url(#arra)"/>
+<line x1="874" y1="149" x2="646" y2="149" stroke="#A86400" stroke-width="2.2" marker-end="url(#arra)"/>
+<text x="760" y="142" font-size="10.35" font-weight="400" fill="#7F4A00" text-anchor="middle" font-style="italic">prompts, answers, actions</text>
+<rect x="880" y="128" width="300" height="42" rx="21" fill="#FFFFFF" stroke="#F0A830" stroke-width="1.2" />
+<text x="1030" y="154" font-size="12.15" font-weight="700" fill="#121918" text-anchor="middle">AI platforms, systems and agents</text>
+<text x="1200" y="154" font-size="10.35" font-weight="400" fill="#7F4A00" text-anchor="start" font-style="italic">[e.g. Copilot Studio, Microsoft 365 Copilot, AWS Bedrock]</text>
+<rect x="330" y="246" width="860" height="528" rx="20" fill="#F2F4F4" stroke="#1E2625" stroke-width="2" />
+<text x="350" y="278" font-size="17.1" font-weight="700" fill="#1E2625" text-anchor="start">Governance solution</text>
+<text x="546" y="278" font-size="11.25" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">the Govern function&#x27;s system of record</text>
+<rect x="346.0" y="296" width="268.0" height="70" rx="12.8" fill="#FFFFFF" stroke="#E6EAE9" stroke-width="1" />
+<text x="360.0" y="320" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">Register of AI assets</text>
+<text x="360.0" y="340" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">every class, connections as a graph, tiers</text>
+<text x="360.0" y="354" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">and deployment class</text>
+<rect x="626.0" y="296" width="268.0" height="70" rx="12.8" fill="#FFFFFF" stroke="#E6EAE9" stroke-width="1" />
+<text x="640.0" y="320" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">Asset dossier</text>
+<text x="640.0" y="340" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">generated for today or any earlier date</text>
+<rect x="906.0" y="296" width="268.0" height="70" rx="12.8" fill="#FFFFFF" stroke="#E6EAE9" stroke-width="1" />
+<text x="920.0" y="320" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">Discovery</text>
+<text x="920.0" y="340" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">read-only connectors; registered and</text>
+<text x="920.0" y="354" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">discovered reconciled</text>
+<rect x="346.0" y="376" width="268.0" height="70" rx="12.8" fill="#FFFFFF" stroke="#E6EAE9" stroke-width="1" />
+<text x="360.0" y="400" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">Configurable workflows</text>
+<text x="360.0" y="420" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">built from blocks, versioned, published by</text>
+<text x="360.0" y="434" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">a second person</text>
+<rect x="626.0" y="376" width="268.0" height="70" rx="12.8" fill="#FFFFFF" stroke="#E6EAE9" stroke-width="1" />
+<text x="640.0" y="400" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">Forms with logic</text>
+<text x="640.0" y="420" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">questions by earlier answers; results that</text>
+<text x="640.0" y="434" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">conclude</text>
+<rect x="906.0" y="376" width="268.0" height="70" rx="12.8" fill="#FFFFFF" stroke="#E6EAE9" stroke-width="1" />
+<text x="920.0" y="400" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">Tasks and notifications</text>
+<text x="920.0" y="420" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">one list of work; reminders; mail through</text>
+<text x="920.0" y="434" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">the own relay</text>
+<rect x="346.0" y="456" width="268.0" height="70" rx="12.8" fill="#FFFFFF" stroke="#E6EAE9" stroke-width="1" />
+<text x="360.0" y="480" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">Conversation</text>
+<text x="360.0" y="500" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">questions with the asset; approvers told</text>
+<text x="360.0" y="514" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">what changed</text>
+<rect x="626.0" y="456" width="268.0" height="70" rx="12.8" fill="#FFFFFF" stroke="#E6EAE9" stroke-width="1" />
+<text x="640.0" y="480" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">Access requests</text>
+<text x="640.0" y="500" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">a component&#x27;s owner asked about each use,</text>
+<text x="640.0" y="514" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">by its policy</text>
+<rect x="906.0" y="456" width="268.0" height="70" rx="12.8" fill="#FFFFFF" stroke="#E6EAE9" stroke-width="1" />
+<text x="920.0" y="480" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">Record and audit</text>
+<text x="920.0" y="500" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">any past date; a trail nobody can alter,</text>
+<text x="920.0" y="514" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">verifiable outside</text>
+<rect x="346.0" y="536" width="268.0" height="70" rx="12.8" fill="#FFFFFF" stroke="#E6EAE9" stroke-width="1" />
+<text x="360.0" y="560" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">Open interfaces</text>
+<text x="360.0" y="580" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">everything through an API [and MCP], same</text>
+<text x="360.0" y="594" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">permissions</text>
+<rect x="626.0" y="536" width="268.0" height="70" rx="12.8" fill="#FFFFFF" stroke="#E6EAE9" stroke-width="1" />
+<text x="640.0" y="560" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">Identity</text>
+<text x="640.0" y="580" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">the organisation&#x27;s identity provider;</text>
+<text x="640.0" y="594" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">roles from its groups</text>
+<rect x="906.0" y="536" width="268.0" height="70" rx="12.8" fill="#FFFFFF" stroke="#E6EAE9" stroke-width="1" />
+<text x="920.0" y="560" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">Hosting and data</text>
+<text x="920.0" y="580" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">under the organisation&#x27;s control</text>
+<rect x="346.0" y="616" width="268.0" height="70" rx="12.8" fill="#FFFFFF" stroke="#1E2625" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="360.0" y="640" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">AI assistance · desirable</text>
+<text x="360.0" y="660" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">pre-fills with a model the organisation</text>
+<text x="360.0" y="674" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">chooses; off until switched on</text>
+<rect x="346" y="702" width="828" height="38" rx="8" fill="#1E2625" />
+<text x="362" y="726" font-size="11.25" font-weight="700" fill="#FFFFFF" text-anchor="start">Required too: the four safeguards (4.1) and the protections shown when off (4.2)</text>
+<path d="M 1030 170 L 1030 244" fill="none" stroke="#A86400" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#arra)"/>
+<rect x="1040" y="200" width="200" height="22" rx="4" fill="#FFFFFF" />
+<text x="1046" y="216" font-size="10.8" font-weight="700" fill="#A86400" text-anchor="start">read-only connectors</text>
+<text x="40" y="254" font-size="11.7" font-weight="700" fill="#4E5957" text-anchor="start" letter-spacing="1.2">WHO REACHES IT</text>
+<rect x="40" y="272" width="250" height="66" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<rect x="40" y="272" width="5" height="66" rx="2" fill="#0077AA" />
+<text x="58" y="298" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">People</text>
+<text x="58" y="318" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start">on the screens, by their role</text>
+<line x1="290" y1="305" x2="326" y2="305" stroke="#4E5957" stroke-width="1.6" marker-end="url(#arr)"/>
+<rect x="40" y="352" width="250" height="66" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<rect x="40" y="352" width="5" height="66" rx="2" fill="#0077AA" />
+<text x="58" y="378" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Pipelines and coding agents</text>
+<text x="58" y="398" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start">through the API [and MCP]</text>
+<line x1="290" y1="385" x2="326" y2="385" stroke="#4E5957" stroke-width="1.6" marker-end="url(#arr)"/>
+<rect x="40" y="432" width="250" height="66" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<rect x="40" y="432" width="5" height="66" rx="2" fill="#0E8572" />
+<text x="58" y="458" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">The directory</text>
+<text x="58" y="478" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start">people, groups, leavers and movers</text>
+<line x1="290" y1="465" x2="326" y2="465" stroke="#4E5957" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="1230" y="254" font-size="11.7" font-weight="700" fill="#4E5957" text-anchor="start" letter-spacing="1.2">HOW IT FITS THE EXISTING LANDSCAPE</text>
+<rect x="1230" y="272" width="330" height="64" rx="12.8" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="1244" y="293" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">[GRC tool]</text>
+<text x="1244" y="311" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">The change risk assessment of a Medium or</text>
+<text x="1244" y="325" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">Significant change runs there; the records link</text>
+<line x1="1190" y1="290" x2="1226" y2="290" stroke="#9AA5A3" stroke-width="1.4"/>
+<rect x="1230" y="344" width="330" height="64" rx="12.8" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="1244" y="365" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">[CMDB / Jira]</text>
+<text x="1244" y="383" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">Identifiers mapped; what is specific to AI stays</text>
+<text x="1244" y="397" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">here</text>
+<line x1="1190" y1="362" x2="1226" y2="362" stroke="#9AA5A3" stroke-width="1.4"/>
+<rect x="1230" y="416" width="330" height="64" rx="12.8" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="1244" y="437" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">[Third-party risk]</text>
+<text x="1244" y="455" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">Receives dependency and concentration data;</text>
+<text x="1244" y="469" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">contracts and the register of information stay there</text>
+<line x1="1190" y1="434" x2="1226" y2="434" stroke="#9AA5A3" stroke-width="1.4"/>
+<rect x="1230" y="488" width="330" height="50" rx="12.8" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="1244" y="509" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">[Incident management]</text>
+<text x="1244" y="527" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">Incidents raised there, linked to the AI asset</text>
+<line x1="1190" y1="506" x2="1226" y2="506" stroke="#9AA5A3" stroke-width="1.4"/>
+<rect x="1230" y="546" width="330" height="64" rx="12.8" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="1244" y="567" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">[Privacy management]</text>
+<text x="1244" y="585" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">Records of processing and DPIAs, linked from the</text>
+<text x="1244" y="599" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">asset</text>
+<line x1="1190" y1="564" x2="1226" y2="564" stroke="#9AA5A3" stroke-width="1.4"/>
+<rect x="1230" y="618" width="330" height="64" rx="12.8" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="1244" y="639" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">[SIEM / SOC]</text>
+<text x="1244" y="657" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">Receives the audit trail; runtime findings reach the</text>
+<text x="1244" y="671" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">asset&#x27;s owner</text>
+<line x1="1190" y1="636" x2="1226" y2="636" stroke="#9AA5A3" stroke-width="1.4"/>
+<rect x="40" y="814" width="740" height="190" rx="19.2" fill="#FDF4F2" stroke="#F7D2CB" stroke-width="1.2" />
+<text x="58" y="844" font-size="11.25" font-weight="700" fill="#BF3A2B" text-anchor="start" letter-spacing="1.2">NOT ITS JOB</text>
+<text x="58" y="864" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">Controls of the organisation, run with its own tools [SOC, the platforms&#x27; guardrails, the incident tool]</text>
+<rect x="58" y="880" width="222.00000000000003" height="28" rx="14" fill="#FFFFFF" stroke="#EFAA9E" stroke-width="1" />
+<text x="169.0" y="899" font-size="11.25" font-weight="600" fill="#8E2A1F" text-anchor="middle">Monitoring agents at runtime</text>
+<rect x="290.0" y="880" width="180.00000000000003" height="28" rx="14" fill="#FFFFFF" stroke="#EFAA9E" stroke-width="1" />
+<text x="380.0" y="899" font-size="11.25" font-weight="600" fill="#8E2A1F" text-anchor="middle">Running security tests</text>
+<rect x="480.0" y="880" width="222.00000000000003" height="28" rx="14" fill="#FFFFFF" stroke="#EFAA9E" stroke-width="1" />
+<text x="591.0" y="899" font-size="11.25" font-weight="600" fill="#8E2A1F" text-anchor="middle">Filtering prompts or outputs</text>
+<rect x="58" y="916" width="173.0" height="28" rx="14" fill="#FFFFFF" stroke="#EFAA9E" stroke-width="1" />
+<text x="144.5" y="935" font-size="11.25" font-weight="600" fill="#8E2A1F" text-anchor="middle">Routing model traffic</text>
+<rect x="241.0" y="916" width="152.0" height="28" rx="14" fill="#FFFFFF" stroke="#EFAA9E" stroke-width="1" />
+<text x="317.0" y="935" font-size="11.25" font-weight="600" fill="#8E2A1F" text-anchor="middle">Managing incidents</text>
+<text x="58" y="974" font-size="11.25" font-weight="600" fill="#121918" text-anchor="start">It records that they are in place, holds the evidence, and escalates when they are not.</text>
+<rect x="820" y="814" width="740" height="190" rx="19.2" fill="#F3FCFA" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="838" y="844" font-size="11.25" font-weight="700" fill="#4E5957" text-anchor="start" letter-spacing="1.2">CHOOSING THE SOLUTION</text>
+<text x="838" y="864" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">A dedicated product, an extension of a GRC tool, or built or adapted in-house, compared on:</text>
+<circle cx="843" cy="885.5" r="2.6" fill="#4E5957"/>
+<text x="854" y="890" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">how much of section 12, 4.1 and 4.2 it meets as configuration, not custom code</text>
+<circle cx="843" cy="908.5" r="2.6" fill="#4E5957"/>
+<text x="854" y="913" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">how well it discovers the AI platforms in use; how open it is to pipelines and agents</text>
+<circle cx="843" cy="931.5" r="2.6" fill="#4E5957"/>
+<text x="854" y="936" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">where the data is held; its security and privacy (section 13)</text>
+<circle cx="843" cy="954.5" r="2.6" fill="#4E5957"/>
+<text x="854" y="959" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">its cost of ownership, set against the effort it saves (section 11)</text>
+</svg>

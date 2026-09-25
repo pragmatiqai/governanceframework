@@ -1,0 +1,254 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1242" viewBox="0 0 1600 1242" font-family="Montserrat, 'Segoe UI', Arial, sans-serif" role="img">
+<title>The framework at a glance</title><desc>What is governed, the lifecycle, the owner&#x27;s two routes, who decides, how much governance an asset gets, and the record that holds it together, each with the section of the overview that describes it.</desc><style>@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&amp;display=swap');</style>
+<defs><linearGradient id="pq-title" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#139782"/><stop offset="1" stop-color="#0090CE"/></linearGradient><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4E5957"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#A86400"/></marker><marker id="arrr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#BF3A2B"/></marker><marker id="arrp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1E2625"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0E8572"/></marker></defs>
+<rect width="1600" height="1242" fill="#FFFFFF"/>
+<text x="40" y="52" font-size="25.2" font-weight="600" fill="url(#pq-title)" text-anchor="start">THE FRAMEWORK AT A GLANCE</text>
+<text x="40" y="80" font-size="13.5" font-weight="400" fill="#4E5957" text-anchor="start">What is governed, how it moves through the lifecycle, who decides, how much governance it gets, and the record that holds it together.</text>
+<rect x="40" y="112" width="1520" height="128" rx="20" fill="#F3FCFA" stroke="#E5E5E5" stroke-width="1" />
+<rect x="60" y="132" width="38" height="38" rx="8" fill="#0E8572" />
+<text x="79" y="157" font-size="13.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">01</text>
+<text x="60" y="200" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start" letter-spacing="1.1">WHAT IS GOVERNED</text>
+<text x="60" y="223" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start">Section 1</text>
+<text x="280" y="144" font-size="10.35" font-weight="700" fill="#0077AA" text-anchor="start" letter-spacing="1.1">FULL TRACK · PRODUCE BUSINESS OUTCOMES</text>
+<rect x="280" y="158" width="67.4875" height="32" rx="16.0" fill="#FFFFFF" stroke="#0077AA" stroke-width="1.2" />
+<text x="313.74375" y="178.86" font-size="12.15" font-weight="700" fill="#121918" text-anchor="middle">Agent</text>
+<rect x="357.4875" y="158" width="162.2575" height="32" rx="16.0" fill="#FFFFFF" stroke="#0077AA" stroke-width="1.2" />
+<text x="438.61625000000004" y="178.86" font-size="12.15" font-weight="700" fill="#121918" text-anchor="middle">AI-enabled system</text>
+<rect x="529.745" y="158" width="91.17999999999999" height="32" rx="16.0" fill="#FFFFFF" stroke="#0077AA" stroke-width="1.2" />
+<text x="575.335" y="178.86" font-size="12.15" font-weight="700" fill="#121918" text-anchor="middle">Platform</text>
+<rect x="648.925" y="158" width="88.84" height="32" rx="16.0" fill="#FFFFFF" stroke="#9AA5A3" stroke-width="1.2" />
+<text x="693.3449999999999" y="178.68" font-size="11.7" font-weight="600" fill="#4E5957" text-anchor="middle">Use case</text>
+<line x1="622.925" y1="174" x2="646.925" y2="174" stroke="#9AA5A3" stroke-width="1.4" stroke-dasharray="3 3"/>
+<text x="693.345" y="208" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="middle" font-style="italic">the purpose they serve</text>
+<text x="900" y="144" font-size="10.35" font-weight="700" fill="#0E8572" text-anchor="start" letter-spacing="1.1">COMPONENT TRACK · THEIR BUILDING BLOCKS</text>
+<rect x="900" y="158" width="67.4875" height="32" rx="16.0" fill="#FFFFFF" stroke="#0E8572" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="933.74375" y="178.86" font-size="12.15" font-weight="700" fill="#121918" text-anchor="middle">Model</text>
+<rect x="977.4875" y="158" width="162.2575" height="32" rx="16.0" fill="#FFFFFF" stroke="#0E8572" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="1058.61625" y="178.86" font-size="12.15" font-weight="700" fill="#121918" text-anchor="middle">Tool or connector</text>
+<rect x="1149.745" y="158" width="67.4875" height="32" rx="16.0" fill="#FFFFFF" stroke="#0E8572" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="1183.48875" y="178.86" font-size="12.15" font-weight="700" fill="#121918" text-anchor="middle">Skill</text>
+<rect x="1227.2324999999998" y="158" width="154.35999999999999" height="32" rx="16.0" fill="#FFFFFF" stroke="#0E8572" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="1304.4125" y="178.86" font-size="12.15" font-weight="700" fill="#121918" text-anchor="middle">Knowledge source</text>
+<text x="900" y="216" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">assessed once, reused many times; a change reaches every agent built on them</text>
+<line x1="886" y1="174" x2="842" y2="174" stroke="#4E5957" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="864" y="208" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="middle" font-style="italic">built from</text>
+<rect x="40" y="256" width="1520" height="196" rx="20" fill="#F3FCFA" stroke="#E5E5E5" stroke-width="1" />
+<rect x="60" y="276" width="38" height="38" rx="8" fill="#0E8572" />
+<text x="79" y="301" font-size="13.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">02</text>
+<text x="60" y="344" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start" letter-spacing="1.1">THE LIFECYCLE</text>
+<text x="60" y="367" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start">Section 2</text>
+<rect x="280" y="278" width="254.44444444444446" height="26" rx="6" fill="#0077AA" />
+<text x="407.22222222222223" y="296" font-size="10.35" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1.2">PLAN AND DECIDE</text>
+<rect x="584.4444444444445" y="278" width="254.44444444444446" height="26" rx="6" fill="#0E8572" />
+<text x="711.6666666666667" y="296" font-size="10.35" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1.2">BUILD AND PROVE</text>
+<rect x="848.8888888888889" y="278" width="294.44444444444434" height="26" rx="6" fill="#A86400" />
+<text x="996.1111111111111" y="296" font-size="10.35" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1.2">GO LIVE</text>
+<rect x="1153.3333333333333" y="278" width="386.6666666666665" height="26" rx="6" fill="#1E2625" />
+<text x="1346.6666666666665" y="296" font-size="10.35" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1.2">RUN AND RETIRE</text>
+<rect x="280" y="314" width="122.22222222222223" height="62" rx="12.8" fill="#FFFFFF" stroke="#0077AA" stroke-width="1.4" />
+<text x="292" y="334" font-size="10.8" font-weight="700" fill="#0077AA" text-anchor="start">1</text>
+<text x="292" y="352" font-size="10.8" font-weight="700" fill="#121918" text-anchor="start">Discovered /</text>
+<text x="292" y="367" font-size="10.8" font-weight="700" fill="#121918" text-anchor="start">planned</text>
+<rect x="412.22222222222223" y="314" width="122.22222222222223" height="62" rx="12.8" fill="#FFFFFF" stroke="#0077AA" stroke-width="1.4" />
+<text x="424.22222222222223" y="334" font-size="10.8" font-weight="700" fill="#0077AA" text-anchor="start">2</text>
+<text x="424.22222222222223" y="352" font-size="10.8" font-weight="700" fill="#121918" text-anchor="start">Risk</text>
+<text x="424.22222222222223" y="367" font-size="10.8" font-weight="700" fill="#121918" text-anchor="start">classification</text>
+<rect x="584.4444444444445" y="314" width="122.22222222222223" height="62" rx="12.8" fill="#FFFFFF" stroke="#0E8572" stroke-width="1.4" />
+<text x="596.4444444444445" y="334" font-size="10.8" font-weight="700" fill="#0E8572" text-anchor="start">3</text>
+<text x="596.4444444444445" y="352" font-size="10.8" font-weight="700" fill="#121918" text-anchor="start">Development /</text>
+<text x="596.4444444444445" y="367" font-size="10.8" font-weight="700" fill="#121918" text-anchor="start">procurement</text>
+<rect x="716.6666666666667" y="314" width="122.22222222222223" height="62" rx="12.8" fill="#FFFFFF" stroke="#0E8572" stroke-width="1.4" />
+<text x="728.6666666666667" y="334" font-size="10.8" font-weight="700" fill="#0E8572" text-anchor="start">4</text>
+<text x="728.6666666666667" y="352" font-size="10.8" font-weight="700" fill="#121918" text-anchor="start">Testing /</text>
+<text x="728.6666666666667" y="367" font-size="10.8" font-weight="700" fill="#121918" text-anchor="start">review</text>
+<rect x="848.8888888888889" y="314" width="122.22222222222223" height="62" rx="12.8" fill="#FFFFFF" stroke="#A86400" stroke-width="1.4" />
+<text x="860.8888888888889" y="334" font-size="10.8" font-weight="700" fill="#A86400" text-anchor="start">5</text>
+<text x="860.8888888888889" y="352" font-size="10.8" font-weight="700" fill="#121918" text-anchor="start">Approval</text>
+<text x="860.8888888888889" y="367" font-size="10.8" font-weight="700" fill="#121918" text-anchor="start">decision</text>
+<rect x="1021.1111111111111" y="314" width="122.22222222222223" height="62" rx="12.8" fill="#FFFFFF" stroke="#A86400" stroke-width="1.4" />
+<text x="1033.111111111111" y="334" font-size="10.8" font-weight="700" fill="#A86400" text-anchor="start">6</text>
+<text x="1033.111111111111" y="352" font-size="10.8" font-weight="700" fill="#121918" text-anchor="start">Under</text>
+<text x="1033.111111111111" y="367" font-size="10.8" font-weight="700" fill="#121918" text-anchor="start">deployment</text>
+<rect x="1153.3333333333333" y="314" width="122.22222222222223" height="62" rx="12.8" fill="#FFFFFF" stroke="#1E2625" stroke-width="1.4" />
+<text x="1165.3333333333333" y="334" font-size="10.8" font-weight="700" fill="#1E2625" text-anchor="start">7</text>
+<text x="1165.3333333333333" y="352" font-size="10.8" font-weight="700" fill="#121918" text-anchor="start">In production</text>
+<rect x="1285.5555555555554" y="314" width="122.22222222222223" height="62" rx="12.8" fill="#FFFFFF" stroke="#1E2625" stroke-width="1.4" />
+<text x="1297.5555555555554" y="334" font-size="10.8" font-weight="700" fill="#1E2625" text-anchor="start">8</text>
+<text x="1297.5555555555554" y="352" font-size="10.8" font-weight="700" fill="#121918" text-anchor="start">Escalated</text>
+<rect x="1417.7777777777776" y="314" width="122.22222222222223" height="62" rx="12.8" fill="#FFFFFF" stroke="#1E2625" stroke-width="1.4" />
+<text x="1429.7777777777776" y="334" font-size="10.8" font-weight="700" fill="#1E2625" text-anchor="start">9</text>
+<text x="1429.7777777777776" y="352" font-size="10.8" font-weight="700" fill="#121918" text-anchor="start">Retired</text>
+<polygon points="559.4444444444445,328 576.4444444444445,345 559.4444444444445,362 542.4444444444445,345" fill="#121918"/>
+<text x="559.4444444444445" y="350" font-size="10.35" font-weight="700" fill="#FFFFFF" text-anchor="middle">G1</text>
+<text x="559.4444444444445" y="400" font-size="10.8" font-weight="600" fill="#121918" text-anchor="middle">Gate 1 · May it be built or bought?</text>
+<polygon points="996.1111111111111,328 1013.1111111111111,345 996.1111111111111,362 979.1111111111111,345" fill="#121918"/>
+<text x="996.1111111111111" y="350" font-size="10.35" font-weight="700" fill="#FFFFFF" text-anchor="middle">G2</text>
+<text x="996.1111111111111" y="400" font-size="10.8" font-weight="600" fill="#121918" text-anchor="middle">Gate 2 · May this configuration go live?</text>
+<rect x="1153.3333333333333" y="384" width="386.6666666666665" height="24" rx="12" fill="#FFFFFF" stroke="#1E2625" stroke-width="1.2" />
+<text x="1346.6666666666665" y="400" font-size="10.8" font-weight="600" fill="#121918" text-anchor="middle">Gate 3 · continuous: may it remain live?</text>
+<rect x="280" y="416" width="1260" height="26" rx="13" fill="#FFFFFF" stroke="#9AA5A3" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="296" y="434" font-size="10.8" text-anchor="start" xml:space="preserve"><tspan fill="#0E8572" font-weight="700">Component track  </tspan><tspan fill="#4E5957" font-weight="400">registered  →  assessed by its class  →  approved for reuse  →  in use  →  retired</tspan></text>
+<rect x="40" y="468" width="1520" height="170" rx="20" fill="#F3FCFA" stroke="#E5E5E5" stroke-width="1" />
+<rect x="60" y="488" width="38" height="38" rx="8" fill="#0E8572" />
+<text x="79" y="513" font-size="13.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">03</text>
+<text x="60" y="556" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start" letter-spacing="1.1">TWO ROUTES FOR THE</text>
+<text x="60" y="575" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start" letter-spacing="1.1">OWNER</text>
+<text x="60" y="598" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start">Sections 3 and 4</text>
+<rect x="280" y="484" width="700" height="138" rx="16" fill="#FFFFFF" stroke="#E5E5E5" stroke-width="1" />
+<text x="298" y="508" font-size="10.35" font-weight="700" fill="#0077AA" text-anchor="start" letter-spacing="1.1">A NEW AI SYSTEM OR AGENT, TO PRODUCTION</text>
+<circle cx="310.0" cy="544" r="16" fill="#0E8572"/>
+<text x="310.0" y="549" font-size="11.7" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="310.0" y="584" font-size="10.8" font-weight="600" fill="#121918" text-anchor="middle">Register</text>
+<line x1="332.0" y1="544" x2="394.6666666666667" y2="544" stroke="#9AA5A3" stroke-width="1.6"/>
+<circle cx="416.6666666666667" cy="544" r="16" fill="#0E8572"/>
+<text x="416.6666666666667" y="549" font-size="11.7" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="416.6666666666667" y="584" font-size="10.8" font-weight="600" fill="#121918" text-anchor="middle">Assess</text>
+<line x1="438.6666666666667" y1="544" x2="501.33333333333337" y2="544" stroke="#9AA5A3" stroke-width="1.6"/>
+<polygon points="523.3333333333334,524 543.3333333333334,544 523.3333333333334,564 503.33333333333337,544" fill="#121918"/>
+<text x="523.3333333333334" y="549" font-size="11.7" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="523.3333333333334" y="584" font-size="10.8" font-weight="600" fill="#121918" text-anchor="middle">Initial</text>
+<text x="523.3333333333334" y="599" font-size="10.8" font-weight="600" fill="#121918" text-anchor="middle">approval</text>
+<line x1="545.3333333333334" y1="544" x2="608.0" y2="544" stroke="#9AA5A3" stroke-width="1.6"/>
+<circle cx="630.0" cy="544" r="16" fill="#0E8572"/>
+<text x="630.0" y="549" font-size="11.7" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="630.0" y="584" font-size="10.8" font-weight="600" fill="#121918" text-anchor="middle">Build or buy</text>
+<line x1="652.0000000000001" y1="544" x2="714.6666666666667" y2="544" stroke="#9AA5A3" stroke-width="1.6"/>
+<circle cx="736.6666666666667" cy="544" r="16" fill="#0E8572"/>
+<text x="736.6666666666667" y="549" font-size="11.7" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+<text x="736.6666666666667" y="584" font-size="10.8" font-weight="600" fill="#121918" text-anchor="middle">Test</text>
+<line x1="758.6666666666667" y1="544" x2="821.3333333333334" y2="544" stroke="#9AA5A3" stroke-width="1.6"/>
+<polygon points="843.3333333333334,524 863.3333333333334,544 843.3333333333334,564 823.3333333333334,544" fill="#121918"/>
+<text x="843.3333333333334" y="549" font-size="11.7" font-weight="700" fill="#FFFFFF" text-anchor="middle">6</text>
+<text x="843.3333333333334" y="584" font-size="10.8" font-weight="600" fill="#121918" text-anchor="middle">Deployment</text>
+<text x="843.3333333333334" y="599" font-size="10.8" font-weight="600" fill="#121918" text-anchor="middle">approval</text>
+<line x1="865.3333333333334" y1="544" x2="928.0" y2="544" stroke="#9AA5A3" stroke-width="1.6"/>
+<circle cx="950.0" cy="544" r="16" fill="#0E8572"/>
+<text x="950.0" y="549" font-size="11.7" font-weight="700" fill="#FFFFFF" text-anchor="middle">7</text>
+<text x="950.0" y="584" font-size="10.8" font-weight="600" fill="#121918" text-anchor="middle">Roll out</text>
+<text x="962" y="508" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="end" font-style="italic">the diamonds are Gates 1 and 2</text>
+<rect x="1000" y="484" width="540" height="138" rx="16" fill="#FFFFFF" stroke="#E5E5E5" stroke-width="1" />
+<text x="1018" y="508" font-size="10.35" font-weight="700" fill="#1E2625" text-anchor="start" letter-spacing="1.1">A CHANGE IN PRODUCTION</text>
+<rect x="1018" y="526" width="160.39999999999998" height="28" rx="14.0" fill="#F3FCFA" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="1098.2" y="544.32" font-size="10.8" font-weight="600" fill="#121918" text-anchor="middle">Declared or detected</text>
+<line x1="1181.4" y1="540" x2="1197.4" y2="540" stroke="#4E5957" stroke-width="1.4" marker-end="url(#arr)"/>
+<rect x="1200.4" y="526" width="125.3" height="28" rx="14.0" fill="#F3FCFA" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="1263.0500000000002" y="544.32" font-size="10.8" font-weight="600" fill="#121918" text-anchor="middle">Triage by rules</text>
+<line x1="1328.7" y1="540" x2="1344.7" y2="540" stroke="#4E5957" stroke-width="1.4" marker-end="url(#arr)"/>
+<rect x="1347.7" y="526" width="104.24" height="28" rx="14.0" fill="#F3FCFA" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="1399.82" y="544.32" font-size="10.8" font-weight="600" fill="#121918" text-anchor="middle">Substantial?</text>
+<rect x="1018" y="572" width="78.16" height="28" rx="14.0" fill="#EDF3F2" />
+<text x="1057.08" y="590.32" font-size="10.8" font-weight="700" fill="#4E5957" text-anchor="middle">Log only</text>
+<rect x="1104.16" y="572" width="134.32" height="28" rx="14.0" fill="#E2F5EF" />
+<text x="1171.3200000000002" y="590.32" font-size="10.8" font-weight="700" fill="#0B5E51" text-anchor="middle">Inform the owner</text>
+<rect x="1246.48" y="572" width="78.16" height="28" rx="14.0" fill="#FFF4D9" />
+<text x="1285.56" y="590.32" font-size="10.8" font-weight="700" fill="#7F4A00" text-anchor="middle">Reassess</text>
+<rect x="1332.64" y="572" width="92.19999999999999" height="28" rx="14.0" fill="#FCE8E5" />
+<text x="1378.74" y="590.32" font-size="10.8" font-weight="700" fill="#8E2A1F" text-anchor="middle">Re-approve</text>
+<text x="1018" y="616" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">a person decides what is substantial; four outcomes, in rising weight</text>
+<rect x="40" y="654" width="1520" height="176" rx="20" fill="#F3FCFA" stroke="#E5E5E5" stroke-width="1" />
+<rect x="60" y="674" width="38" height="38" rx="8" fill="#0E8572" />
+<text x="79" y="699" font-size="13.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">04</text>
+<text x="60" y="742" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start" letter-spacing="1.1">WHO DECIDES</text>
+<text x="60" y="765" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start">Sections 6 and 8</text>
+<rect x="280.0" y="670" width="409.3333333333333" height="84" rx="16" fill="#EEF7FC" stroke="#D3EBF7" stroke-width="1" />
+<rect x="280.0" y="670" width="6" height="84" rx="3" fill="#0077AA" />
+<text x="302.0" y="694" font-size="10.35" font-weight="700" fill="#0077AA" text-anchor="start" letter-spacing="1.3">ADOPT</text>
+<text x="302.0" y="716" font-size="14.4" font-weight="700" fill="#121918" text-anchor="start">Build and run</text>
+<text x="302.0" y="740" font-size="11.25" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">Can it be delivered well?</text>
+<rect x="705.3333333333333" y="670" width="409.3333333333333" height="84" rx="16" fill="#EEF9F6" stroke="#C7EDE3" stroke-width="1" />
+<rect x="705.3333333333333" y="670" width="6" height="84" rx="3" fill="#0E8572" />
+<text x="727.3333333333333" y="694" font-size="10.35" font-weight="700" fill="#0E8572" text-anchor="start" letter-spacing="1.3">DEFEND</text>
+<text x="727.3333333333333" y="716" font-size="14.4" font-weight="700" fill="#121918" text-anchor="start">Test and protect</text>
+<text x="727.3333333333333" y="740" font-size="11.25" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">Can it be abused, fail dangerously or cause harm?</text>
+<rect x="1130.6666666666665" y="670" width="409.3333333333333" height="84" rx="16" fill="#F2F4F4" stroke="#E6EAE9" stroke-width="1" />
+<rect x="1130.6666666666665" y="670" width="6" height="84" rx="3" fill="#1E2625" />
+<text x="1152.6666666666665" y="694" font-size="10.35" font-weight="700" fill="#1E2625" text-anchor="start" letter-spacing="1.3">GOVERN</text>
+<text x="1152.6666666666665" y="716" font-size="14.4" font-weight="700" fill="#121918" text-anchor="start">Approve and oversee</text>
+<text x="1152.6666666666665" y="740" font-size="11.25" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">Should it be allowed, on what conditions, at what risk?</text>
+<rect x="280" y="766" width="1010" height="44" rx="16" fill="#1E2625" />
+<text x="300" y="793" font-size="11.25" text-anchor="start" xml:space="preserve"><tspan fill="#FFFFFF" font-weight="700">AI Governance Council  </tspan><tspan fill="#E5E5E5" font-weight="400">go-live on the Enhanced path · disagreements between building and security · AI&#x27;s own thresholds · the last step of escalation</tspan></text>
+<rect x="1306" y="766" width="234" height="44" rx="16" fill="#FFFFFF" stroke="#121918" stroke-width="1.2" />
+<text x="1423" y="793" font-size="11.25" font-weight="700" fill="#121918" text-anchor="middle">Internal Audit · independent</text>
+<rect x="40" y="846" width="1520" height="200" rx="20" fill="#F3FCFA" stroke="#E5E5E5" stroke-width="1" />
+<rect x="60" y="866" width="38" height="38" rx="8" fill="#0E8572" />
+<text x="79" y="891" font-size="13.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">05</text>
+<text x="60" y="934" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start" letter-spacing="1.1">HOW MUCH GOVERNANCE</text>
+<text x="60" y="957" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start">Section 9, and Section 2 for the path</text>
+<rect x="280" y="862" width="600" height="168" rx="16" fill="#FFFFFF" stroke="#E5E5E5" stroke-width="1" />
+<rect x="896" y="862" width="300" height="168" rx="16" fill="#FFFFFF" stroke="#E5E5E5" stroke-width="1" />
+<rect x="1212" y="862" width="328" height="168" rx="16" fill="#FFFFFF" stroke="#E5E5E5" stroke-width="1" />
+<text x="298" y="886" font-size="10.35" font-weight="700" fill="#121918" text-anchor="start" letter-spacing="1.1">CHANGE MATERIALITY SETS THE PATH</text>
+<rect x="298" y="900" width="162.39999999999998" height="28" rx="14.0" fill="#F3FCFA" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="379.2" y="918.32" font-size="10.8" font-weight="600" fill="#121918" text-anchor="middle">EU AI Act risk class</text>
+<rect x="468.4" y="900" width="120.28" height="28" rx="14.0" fill="#F3FCFA" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="528.54" y="918.32" font-size="10.8" font-weight="600" fill="#121918" text-anchor="middle">Process impact</text>
+<rect x="596.68" y="900" width="155.38" height="28" rx="14.0" fill="#F3FCFA" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="674.3699999999999" y="918.32" font-size="10.8" font-weight="600" fill="#121918" text-anchor="middle">Process criticality</text>
+<line x1="580.0" y1="934" x2="580.0" y2="954" stroke="#4E5957" stroke-width="1.6" marker-end="url(#arr)"/>
+<rect x="298" y="960" width="113.25999999999999" height="28" rx="14.0" fill="#E2F5EF" />
+<text x="354.63" y="978.32" font-size="10.8" font-weight="700" fill="#0B5E51" text-anchor="middle">Light · minor</text>
+<rect x="419.26" y="960" width="141.33999999999997" height="28" rx="14.0" fill="#FFF4D9" />
+<text x="489.92999999999995" y="978.32" font-size="10.8" font-weight="700" fill="#7F4A00" text-anchor="middle">Standard · medium</text>
+<rect x="568.5999999999999" y="960" width="176.44" height="28" rx="14.0" fill="#FCE8E5" />
+<text x="656.8199999999999" y="978.32" font-size="10.8" font-weight="700" fill="#8E2A1F" text-anchor="middle">Enhanced · significant</text>
+<rect x="753.04" y="960" width="141.33999999999997" height="28" rx="14.0" fill="#121918" />
+<text x="823.7099999999999" y="978.32" font-size="10.8" font-weight="700" fill="#FFFFFF" text-anchor="middle">Stop · prohibited</text>
+<text x="298" y="1012" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">who approves, how deeply it is tested, how often it is reviewed</text>
+<text x="914" y="886" font-size="10.35" font-weight="700" fill="#121918" text-anchor="start" letter-spacing="1.1">AUTONOMY SETS THE CONTROLS</text>
+<rect x="914" y="932" width="26" height="18" rx="4" fill="#A7D8CE" />
+<text x="914" y="968" font-size="10.35" font-weight="700" fill="#121918" text-anchor="start">Assistive</text>
+<text x="914" y="984" font-size="9.45" font-weight="400" fill="#4E5957" text-anchor="start">a person</text>
+<text x="914" y="997" font-size="9.45" font-weight="400" fill="#4E5957" text-anchor="start">confirms</text>
+<rect x="1004" y="916" width="26" height="34" rx="4" fill="#5EAFA0" />
+<text x="1004" y="968" font-size="10.35" font-weight="700" fill="#121918" text-anchor="start">Conditional</text>
+<text x="1004" y="984" font-size="9.45" font-weight="400" fill="#4E5957" text-anchor="start">+ authority</text>
+<text x="1004" y="997" font-size="9.45" font-weight="400" fill="#4E5957" text-anchor="start">statement, logs,</text>
+<text x="1004" y="1010" font-size="9.45" font-weight="400" fill="#4E5957" text-anchor="start">stop</text>
+<rect x="1094" y="900" width="26" height="50" rx="4" fill="#0E8572" />
+<text x="1094" y="968" font-size="10.35" font-weight="700" fill="#121918" text-anchor="start">Autonomous</text>
+<text x="1094" y="984" font-size="9.45" font-weight="400" fill="#4E5957" text-anchor="start">+ human go-live,</text>
+<text x="1094" y="997" font-size="9.45" font-weight="400" fill="#4E5957" text-anchor="start">replay, limits</text>
+<text x="1230" y="886" font-size="10.35" font-weight="700" fill="#121918" text-anchor="start" letter-spacing="1.1">TRUST TIERS OF TOOLS</text>
+<rect x="1230" y="896" width="62.12" height="26" rx="13.0" fill="#E2F5EF" />
+<text x="1261.06" y="913.32" font-size="10.8" font-weight="700" fill="#0B5E51" text-anchor="middle">1 Read</text>
+<rect x="1298.12" y="896" width="118.28" height="26" rx="13.0" fill="#FFF4D9" />
+<text x="1357.26" y="913.32" font-size="10.8" font-weight="700" fill="#7F4A00" text-anchor="middle">2 Write inside</text>
+<rect x="1422.3999999999999" y="896" width="111.25999999999999" height="26" rx="13.0" fill="#FCE8E5" />
+<text x="1478.0299999999997" y="913.32" font-size="10.8" font-weight="700" fill="#8E2A1F" text-anchor="middle">3 Act outside</text>
+<text x="1230" y="954" font-size="10.35" font-weight="700" fill="#121918" text-anchor="start" letter-spacing="1.1">PERSONAL DATA, READ OR GENERATED</text>
+<text x="1230" y="974" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start">The DPO at both gates; a DPIA where required; an</text>
+<text x="1230" y="990" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start">unanswered question counts as yes</text>
+<rect x="40" y="1062" width="1520" height="150" rx="20" fill="#F3FCFA" stroke="#E5E5E5" stroke-width="1" />
+<rect x="60" y="1082" width="38" height="38" rx="8" fill="#0E8572" />
+<text x="79" y="1107" font-size="13.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">06</text>
+<text x="60" y="1150" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start" letter-spacing="1.1">THE RECORD</text>
+<text x="60" y="1173" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start">Sections 12 and 13</text>
+<rect x="280" y="1078" width="330" height="118" rx="16" fill="#FFFFFF" stroke="#E5E5E5" stroke-width="1" />
+<text x="298" y="1102" font-size="10.35" font-weight="700" fill="#121918" text-anchor="start" letter-spacing="1.1">ONE RECORD PER ASSET</text>
+<text x="298" y="1124" font-size="11.25" font-weight="400" fill="#4E5957" text-anchor="start">Owners, components, assessments, approvals,</text>
+<text x="298" y="1141" font-size="11.25" font-weight="400" fill="#4E5957" text-anchor="start">conditions and history, as they stood on any</text>
+<text x="298" y="1158" font-size="11.25" font-weight="400" fill="#4E5957" text-anchor="start">date</text>
+<rect x="626" y="1078" width="590" height="118" rx="16" fill="#FFFFFF" stroke="#E5E5E5" stroke-width="1" />
+<text x="644" y="1102" font-size="10.35" font-weight="700" fill="#121918" text-anchor="start" letter-spacing="1.1">FOUR SAFEGUARDS NO CONFIGURATION CAN REMOVE</text>
+<rect x="644" y="1120" width="270" height="28" rx="14" fill="#F3FCFA" stroke="#D5DEDC" stroke-width="1" />
+<path d="M 655 1131 L 655 1126 A 5 5 0 0 1 665 1126 L 665 1131" fill="none" stroke="#121918" stroke-width="2"/>
+<rect x="652" y="1130" width="16" height="12" rx="2.5" fill="#121918" />
+<text x="676" y="1139" font-size="10.35" font-weight="600" fill="#121918" text-anchor="start">History and audit trail immutable</text>
+<rect x="924" y="1120" width="270" height="28" rx="14" fill="#F3FCFA" stroke="#D5DEDC" stroke-width="1" />
+<path d="M 935 1131 L 935 1126 A 5 5 0 0 1 945 1126 L 945 1131" fill="none" stroke="#121918" stroke-width="2"/>
+<rect x="932" y="1130" width="16" height="12" rx="2.5" fill="#121918" />
+<text x="956" y="1139" font-size="10.35" font-weight="600" fill="#121918" text-anchor="start">Declared data never sets outcomes</text>
+<rect x="644" y="1156" width="270" height="28" rx="14" fill="#F3FCFA" stroke="#D5DEDC" stroke-width="1" />
+<path d="M 655 1167 L 655 1162 A 5 5 0 0 1 665 1162 L 665 1167" fill="none" stroke="#121918" stroke-width="2"/>
+<rect x="652" y="1166" width="16" height="12" rx="2.5" fill="#121918" />
+<text x="676" y="1175" font-size="10.35" font-weight="600" fill="#121918" text-anchor="start">AI reading untrusted content cannot write</text>
+<rect x="924" y="1156" width="270" height="28" rx="14" fill="#F3FCFA" stroke="#D5DEDC" stroke-width="1" />
+<path d="M 935 1167 L 935 1162 A 5 5 0 0 1 945 1162 L 945 1167" fill="none" stroke="#121918" stroke-width="2"/>
+<rect x="932" y="1166" width="16" height="12" rx="2.5" fill="#121918" />
+<text x="956" y="1175" font-size="10.35" font-weight="600" fill="#121918" text-anchor="start">Administrator actions audited</text>
+<rect x="1232" y="1078" width="308" height="118" rx="16" fill="#FFFFFF" stroke="#E5E5E5" stroke-width="1" />
+<text x="1250" y="1102" font-size="10.35" font-weight="700" fill="#121918" text-anchor="start" letter-spacing="1.1">THE GOVERNANCE SOLUTION</text>
+<text x="1250" y="1124" font-size="11.25" font-weight="400" fill="#4E5957" text-anchor="start">Holds the register, runs the workflows,</text>
+<text x="1250" y="1141" font-size="11.25" font-weight="400" fill="#4E5957" text-anchor="start">keeps the record. Beside the live path,</text>
+<text x="1250" y="1158" font-size="11.25" font-weight="400" fill="#4E5957" text-anchor="start">reading it through read-only connectors</text>
+</svg>

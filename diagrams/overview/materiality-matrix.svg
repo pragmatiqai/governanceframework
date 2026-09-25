@@ -1,0 +1,220 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="942" viewBox="0 0 1600 942" font-family="Montserrat, 'Segoe UI', Arial, sans-serif" role="img">
+<title>Change materiality: from three answers to a path</title><desc>The risk class, the process impact and the process criticality give a change materiality of Minor, Medium or Significant; adjustments can raise it; the materiality decides the path. Six worked examples.</desc><style>@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&amp;display=swap');</style>
+<defs><linearGradient id="pq-title" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#139782"/><stop offset="1" stop-color="#0090CE"/></linearGradient><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4E5957"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#A86400"/></marker><marker id="arrr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#BF3A2B"/></marker><marker id="arrp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1E2625"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0E8572"/></marker></defs>
+<rect width="1600" height="942" fill="#FFFFFF"/>
+<text x="40" y="52" font-size="25.2" font-weight="600" fill="url(#pq-title)" text-anchor="start">CHANGE MATERIALITY: FROM THREE ANSWERS TO A PATH</text>
+<text x="40" y="80" font-size="13.5" font-weight="400" fill="#4E5957" text-anchor="start">Rated at Gate 1, and again on every substantial modification or new use. It rates full-track assets and their uses; components are assessed by their class.</text>
+<text x="40" y="124" font-size="11.7" font-weight="700" fill="#4E5957" text-anchor="start" letter-spacing="1.2">THREE INPUTS</text>
+<rect x="40" y="138" width="432" height="92" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<rect x="56" y="154" width="24" height="24" rx="6" fill="#121918" />
+<text x="68" y="171" font-size="11.7" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="92" y="172" font-size="13.5" font-weight="700" fill="#121918" text-anchor="start">Risk class</text>
+<text x="184" y="172" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start">EU AI Act (Appendix C)</text>
+<rect x="92" y="188" width="51.25" height="24" rx="12.0" fill="#FCE8E5" />
+<text x="117.625" y="204.5" font-size="11.25" font-weight="600" fill="#8E2A1F" text-anchor="middle">High</text>
+<rect x="151.25" y="188" width="73.1875" height="24" rx="12.0" fill="#FFF4D9" />
+<text x="187.84375" y="204.5" font-size="11.25" font-weight="600" fill="#7F4A00" text-anchor="middle">Limited</text>
+<rect x="232.4375" y="188" width="73.1875" height="24" rx="12.0" fill="#E2F5EF" />
+<text x="269.03125" y="204.5" font-size="11.25" font-weight="600" fill="#0B5E51" text-anchor="middle">Minimal</text>
+<text x="317.625" y="205" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">a prohibited practice stops</text>
+<rect x="40" y="242" width="432" height="256" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<rect x="56" y="258" width="24" height="24" rx="6" fill="#121918" />
+<text x="68" y="275" font-size="11.7" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="92" y="276" font-size="13.5" font-weight="700" fill="#121918" text-anchor="start">Process impact</text>
+<text x="92" y="296" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start" font-style="italic">If the AI stopped tomorrow, what would happen to the process?</text>
+<rect x="92" y="312" width="85.17999999999999" height="24" rx="12.0" fill="#DCEEF8" />
+<text x="134.59" y="328.32" font-size="10.8" font-weight="600" fill="#005A87" text-anchor="middle">Assistive</text>
+<text x="226" y="323" font-size="10.8" font-weight="400" fill="#121918" text-anchor="start">The process would go on, only slower</text>
+<text x="226" y="338" font-size="9.9" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">summarising, drafting for review, searching</text>
+<rect x="92" y="376" width="99.22" height="24" rx="12.0" fill="#DCEEF8" />
+<text x="141.61" y="392.32" font-size="10.8" font-weight="600" fill="#005A87" text-anchor="middle">Influencing</text>
+<text x="226" y="387" font-size="10.8" font-weight="400" fill="#121918" text-anchor="start">People still decide, but the process now</text>
+<text x="226" y="402" font-size="10.8" font-weight="400" fill="#121918" text-anchor="start">uses its output</text>
+<text x="226" y="417" font-size="9.9" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">triage, pre-screening, next best action</text>
+<rect x="92" y="440" width="120.28" height="24" rx="12.0" fill="#DCEEF8" />
+<text x="152.14" y="456.32" font-size="10.8" font-weight="600" fill="#005A87" text-anchor="middle">Transformative</text>
+<text x="226" y="451" font-size="10.8" font-weight="400" fill="#121918" text-anchor="start">The AI is the primary actor: it executes</text>
+<text x="226" y="466" font-size="10.8" font-weight="400" fill="#121918" text-anchor="start">steps, decides, or replaces a control</text>
+<text x="226" y="481" font-size="9.9" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">resolving requests, approval within limits</text>
+<rect x="40" y="510" width="432" height="118" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<rect x="56" y="526" width="24" height="24" rx="6" fill="#121918" />
+<text x="68" y="543" font-size="11.7" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="92" y="544" font-size="13.5" font-weight="700" fill="#121918" text-anchor="start">Process criticality</text>
+<text x="238" y="544" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start">[as business continuity rates it]</text>
+<rect x="92" y="560" width="80.5" height="24" rx="12.0" fill="#E5E5E5" />
+<text x="132.25" y="576.5" font-size="11.25" font-weight="600" fill="#121918" text-anchor="middle">Critical</text>
+<rect x="180.5" y="560" width="87.8125" height="24" rx="12.0" fill="#E5E5E5" />
+<text x="224.40625" y="576.5" font-size="11.25" font-weight="600" fill="#121918" text-anchor="middle">Important</text>
+<rect x="276.3125" y="560" width="58.5625" height="24" rx="12.0" fill="#E5E5E5" />
+<text x="305.59375" y="576.5" font-size="11.25" font-weight="600" fill="#121918" text-anchor="middle">Other</text>
+<text x="92" y="606" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">Several processes: the most critical counts. Unclear: the</text>
+<text x="92" y="621" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">higher applies.</text>
+<text x="508" y="124" font-size="11.7" font-weight="700" fill="#4E5957" text-anchor="start" letter-spacing="1.2">THE MATRIX</text>
+<rect x="508" y="138" width="682" height="526" rx="19.2" fill="#F3FCFA" stroke="#D5DEDC" stroke-width="1.2"/>
+<rect x="524" y="156" width="24" height="24" rx="6" fill="#121918" />
+<text x="536" y="173" font-size="11.7" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="556" y="173" font-size="11.25" font-weight="700" fill="#121918" text-anchor="start">Risk class</text>
+<text x="722.0" y="173" font-size="12.15" font-weight="700" fill="#8E2A1F" text-anchor="middle">High risk</text>
+<text x="978.0" y="173" font-size="12.15" font-weight="700" fill="#121918" text-anchor="middle">Limited or minimal risk</text>
+<line x1="794" y1="183" x2="1162" y2="183" stroke="#D5DEDC"/>
+<rect x="524" y="194" width="24" height="24" rx="6" fill="#121918" />
+<text x="536" y="211" font-size="11.7" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="556" y="211" font-size="11.25" font-weight="700" fill="#121918" text-anchor="start">Criticality</text>
+<text x="722.0" y="211" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="middle">any process</text>
+<text x="850.0" y="211" font-size="11.25" font-weight="600" fill="#121918" text-anchor="middle">Critical</text>
+<text x="978.0" y="211" font-size="11.25" font-weight="600" fill="#121918" text-anchor="middle">Important</text>
+<text x="1106.0" y="211" font-size="11.25" font-weight="600" fill="#121918" text-anchor="middle">Other</text>
+<rect x="524" y="232" width="24" height="24" rx="6" fill="#121918" />
+<text x="536" y="249" font-size="11.7" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="556" y="249" font-size="11.25" font-weight="700" fill="#121918" text-anchor="start">Process impact</text>
+<rect x="524" y="308.0" width="87.8125" height="24" rx="12.0" fill="#DCEEF8" />
+<text x="567.90625" y="324.5" font-size="11.25" font-weight="600" fill="#005A87" text-anchor="middle">Assistive</text>
+<rect x="662" y="266" width="120" height="108" rx="16" fill="#FFF4D9" />
+<text x="722.0" y="322.0" font-size="14.4" font-weight="700" fill="#7F4A00" text-anchor="middle">Medium</text>
+<text x="722.0" y="342.0" font-size="10.35" font-weight="400" fill="#7F4A00" text-anchor="middle" font-style="italic">Standard path</text>
+<rect x="790" y="266" width="120" height="108" rx="16" fill="#E2F5EF" />
+<text x="850.0" y="322.0" font-size="14.4" font-weight="700" fill="#0B5E51" text-anchor="middle">Minor</text>
+<text x="850.0" y="342.0" font-size="10.35" font-weight="400" fill="#0B5E51" text-anchor="middle" font-style="italic">Light path</text>
+<rect x="918" y="266" width="120" height="108" rx="16" fill="#E2F5EF" />
+<text x="978.0" y="322.0" font-size="14.4" font-weight="700" fill="#0B5E51" text-anchor="middle">Minor</text>
+<text x="978.0" y="342.0" font-size="10.35" font-weight="400" fill="#0B5E51" text-anchor="middle" font-style="italic">Light path</text>
+<rect x="1046" y="266" width="120" height="108" rx="16" fill="#E2F5EF" />
+<text x="1106.0" y="322.0" font-size="14.4" font-weight="700" fill="#0B5E51" text-anchor="middle">Minor</text>
+<text x="1106.0" y="342.0" font-size="10.35" font-weight="400" fill="#0B5E51" text-anchor="middle" font-style="italic">Light path</text>
+<circle cx="1150" cy="282" r="11" fill="#121918"/>
+<text x="1150" y="286.5" font-size="11.25" font-weight="700" fill="#FFFFFF" text-anchor="middle">a</text>
+<circle cx="1124" cy="282" r="11" fill="#121918"/>
+<text x="1124" y="286.5" font-size="11.25" font-weight="700" fill="#FFFFFF" text-anchor="middle">b</text>
+<rect x="524" y="424.0" width="102.4375" height="24" rx="12.0" fill="#DCEEF8" />
+<text x="575.21875" y="440.5" font-size="11.25" font-weight="600" fill="#005A87" text-anchor="middle">Influencing</text>
+<rect x="662" y="382" width="120" height="108" rx="16" fill="#FCE8E5" />
+<text x="722.0" y="438.0" font-size="14.4" font-weight="700" fill="#8E2A1F" text-anchor="middle">Significant</text>
+<text x="722.0" y="458.0" font-size="10.35" font-weight="400" fill="#8E2A1F" text-anchor="middle" font-style="italic">Enhanced path</text>
+<circle cx="766" cy="398" r="11" fill="#121918"/>
+<text x="766" y="402.5" font-size="11.25" font-weight="700" fill="#FFFFFF" text-anchor="middle">e</text>
+<rect x="790" y="382" width="120" height="108" rx="16" fill="#FFF4D9" />
+<text x="850.0" y="438.0" font-size="14.4" font-weight="700" fill="#7F4A00" text-anchor="middle">Medium</text>
+<text x="850.0" y="458.0" font-size="10.35" font-weight="400" fill="#7F4A00" text-anchor="middle" font-style="italic">Standard path</text>
+<circle cx="894" cy="398" r="11" fill="#121918"/>
+<text x="894" y="402.5" font-size="11.25" font-weight="700" fill="#FFFFFF" text-anchor="middle">c</text>
+<rect x="918" y="382" width="120" height="108" rx="16" fill="#E2F5EF" />
+<text x="978.0" y="438.0" font-size="14.4" font-weight="700" fill="#0B5E51" text-anchor="middle">Minor</text>
+<text x="978.0" y="458.0" font-size="10.35" font-weight="400" fill="#0B5E51" text-anchor="middle" font-style="italic">Light path</text>
+<rect x="1046" y="382" width="120" height="108" rx="16" fill="#E2F5EF" />
+<text x="1106.0" y="438.0" font-size="14.4" font-weight="700" fill="#0B5E51" text-anchor="middle">Minor</text>
+<text x="1106.0" y="458.0" font-size="10.35" font-weight="400" fill="#0B5E51" text-anchor="middle" font-style="italic">Light path</text>
+<rect x="524" y="540.0" width="124.375" height="24" rx="12.0" fill="#DCEEF8" />
+<text x="586.1875" y="556.5" font-size="11.25" font-weight="600" fill="#005A87" text-anchor="middle">Transformative</text>
+<rect x="662" y="498" width="120" height="108" rx="16" fill="#FCE8E5" />
+<text x="722.0" y="554.0" font-size="14.4" font-weight="700" fill="#8E2A1F" text-anchor="middle">Significant</text>
+<text x="722.0" y="574.0" font-size="10.35" font-weight="400" fill="#8E2A1F" text-anchor="middle" font-style="italic">Enhanced path</text>
+<rect x="790" y="498" width="120" height="108" rx="16" fill="#FCE8E5" />
+<text x="850.0" y="554.0" font-size="14.4" font-weight="700" fill="#8E2A1F" text-anchor="middle">Significant</text>
+<text x="850.0" y="574.0" font-size="10.35" font-weight="400" fill="#8E2A1F" text-anchor="middle" font-style="italic">Enhanced path</text>
+<circle cx="894" cy="514" r="11" fill="#121918"/>
+<text x="894" y="518.5" font-size="11.25" font-weight="700" fill="#FFFFFF" text-anchor="middle">f</text>
+<rect x="918" y="498" width="120" height="108" rx="16" fill="#FFF4D9" />
+<text x="978.0" y="554.0" font-size="14.4" font-weight="700" fill="#7F4A00" text-anchor="middle">Medium</text>
+<text x="978.0" y="574.0" font-size="10.35" font-weight="400" fill="#7F4A00" text-anchor="middle" font-style="italic">Standard path</text>
+<rect x="1046" y="498" width="120" height="108" rx="16" fill="#FFF4D9" />
+<text x="1106.0" y="554.0" font-size="14.4" font-weight="700" fill="#7F4A00" text-anchor="middle">Medium</text>
+<text x="1106.0" y="574.0" font-size="10.35" font-weight="400" fill="#7F4A00" text-anchor="middle" font-style="italic">Standard path</text>
+<circle cx="1150" cy="514" r="11" fill="#121918"/>
+<text x="1150" y="518.5" font-size="11.25" font-weight="700" fill="#FFFFFF" text-anchor="middle">d</text>
+<text x="524" y="628" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">Where the impact is influencing or transformative, the risk class is checked again: a greater impact can</text>
+<text x="524" y="644" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">raise it.</text>
+<text x="1226" y="124" font-size="11.7" font-weight="700" fill="#4E5957" text-anchor="start" letter-spacing="1.2">THEN THE ADJUSTMENTS</text>
+<rect x="1226" y="138" width="334" height="338" rx="19.2" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2"/>
+<text x="1244" y="164" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">They only raise it; the highest result counts.</text>
+<text x="1244" y="194" font-size="11.7" font-weight="700" fill="#A86400" text-anchor="start">▲</text>
+<text x="1266" y="194" font-size="11.25" font-weight="600" fill="#121918" text-anchor="start">Customer-facing</text>
+<text x="1266" y="212" font-size="11.25" font-weight="400" fill="#7F4A00" text-anchor="start">→ at least Medium</text>
+<text x="1244" y="238" font-size="11.7" font-weight="700" fill="#BF3A2B" text-anchor="start">▲</text>
+<text x="1266" y="238" font-size="11.25" font-weight="600" fill="#121918" text-anchor="start">Reclassified to high risk</text>
+<text x="1266" y="256" font-size="11.25" font-weight="400" fill="#8E2A1F" text-anchor="start">→ Significant</text>
+<text x="1244" y="282" font-size="11.7" font-weight="700" fill="#BF3A2B" text-anchor="start">▲</text>
+<text x="1266" y="282" font-size="11.25" font-weight="600" fill="#121918" text-anchor="start">High or critical residual risk found by</text>
+<text x="1266" y="298" font-size="11.25" font-weight="600" fill="#121918" text-anchor="start">the change risk assessment</text>
+<text x="1266" y="316" font-size="11.25" font-weight="400" fill="#8E2A1F" text-anchor="start">→ Significant</text>
+<text x="1244" y="342" font-size="11.7" font-weight="700" fill="#A86400" text-anchor="start">▲</text>
+<text x="1266" y="342" font-size="11.25" font-weight="600" fill="#121918" text-anchor="start">Several kinds of change at once (a new</text>
+<text x="1266" y="358" font-size="11.25" font-weight="600" fill="#121918" text-anchor="start">ICT system or a new third-party</text>
+<text x="1266" y="374" font-size="11.25" font-weight="600" fill="#121918" text-anchor="start">agreement)</text>
+<text x="1266" y="392" font-size="11.25" font-weight="400" fill="#4E5957" text-anchor="start">→ the highest of them</text>
+<line x1="1244" y1="408" x2="1542" y2="408" stroke="#D5DEDC"/>
+<text x="1244" y="428" font-size="10.8" font-weight="400" fill="#121918" text-anchor="start">A modification that is not substantial: Medium for</text>
+<text x="1244" y="444" font-size="10.8" font-weight="400" fill="#121918" text-anchor="start">a high-risk asset, Minor otherwise, unless it</text>
+<text x="1244" y="460" font-size="10.8" font-weight="400" fill="#121918" text-anchor="start">changes the process impact or the process.</text>
+<text x="1226" y="506" font-size="11.7" font-weight="700" fill="#4E5957" text-anchor="start" letter-spacing="1.2">THE PATH</text>
+<rect x="1226" y="520" width="334" height="40" rx="12.8" fill="#E2F5EF" />
+<text x="1244" y="545" font-size="12.6" font-weight="700" fill="#0B5E51" text-anchor="start">Minor</text>
+<text x="1376" y="545" font-size="12.6" font-weight="400" fill="#0B5E51" text-anchor="start">→</text>
+<text x="1404" y="545" font-size="12.6" font-weight="700" fill="#0B5E51" text-anchor="start">Light</text>
+<rect x="1226" y="568" width="334" height="40" rx="12.8" fill="#FFF4D9" />
+<text x="1244" y="593" font-size="12.6" font-weight="700" fill="#7F4A00" text-anchor="start">Medium</text>
+<text x="1376" y="593" font-size="12.6" font-weight="400" fill="#7F4A00" text-anchor="start">→</text>
+<text x="1404" y="593" font-size="12.6" font-weight="700" fill="#7F4A00" text-anchor="start">Standard</text>
+<rect x="1226" y="616" width="334" height="40" rx="12.8" fill="#FCE8E5" />
+<text x="1244" y="641" font-size="12.6" font-weight="700" fill="#8E2A1F" text-anchor="start">Significant</text>
+<text x="1376" y="641" font-size="12.6" font-weight="400" fill="#8E2A1F" text-anchor="start">→</text>
+<text x="1404" y="641" font-size="12.6" font-weight="700" fill="#8E2A1F" text-anchor="start">Enhanced</text>
+<rect x="1226" y="664" width="334" height="40" rx="12.8" fill="#121918" />
+<text x="1244" y="689" font-size="12.6" font-weight="700" fill="#FFFFFF" text-anchor="start">Prohibited</text>
+<text x="1376" y="689" font-size="12.6" font-weight="400" fill="#FFFFFF" text-anchor="start">→</text>
+<text x="1404" y="689" font-size="12.6" font-weight="700" fill="#FFFFFF" text-anchor="start">Stop</text>
+<text x="40" y="740" font-size="11.7" font-weight="700" fill="#4E5957" text-anchor="start" letter-spacing="1.2">WORKED EXAMPLES  ·  ILLUSTRATIVE</text>
+<rect x="40.0" y="756" width="240.0" height="150" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<circle cx="64.0" cy="780" r="12" fill="#121918"/>
+<text x="64.0" y="784.5" font-size="11.25" font-weight="700" fill="#FFFFFF" text-anchor="middle">a</text>
+<text x="86.0" y="785" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">A drafting assistant for</text>
+<text x="86.0" y="802" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">internal reports</text>
+<text x="56.0" y="838" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">Minimal · assistive · other process</text>
+<rect x="56.0" y="852" width="208.0" height="30" rx="6" fill="#E2F5EF" />
+<text x="68.0" y="872" font-size="11.7" font-weight="700" fill="#0B5E51" text-anchor="start">Minor → Light</text>
+<rect x="296.0" y="756" width="240.0" height="150" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<circle cx="320.0" cy="780" r="12" fill="#121918"/>
+<text x="320.0" y="784.5" font-size="11.25" font-weight="700" fill="#FFFFFF" text-anchor="middle">b</text>
+<text x="342.0" y="785" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">A chatbot answering</text>
+<text x="342.0" y="802" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">customers&#x27; product</text>
+<text x="342.0" y="819" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">questions</text>
+<text x="312.0" y="838" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">Limited · assistive · other process</text>
+<rect x="312.0" y="852" width="208.0" height="30" rx="6" fill="#FFF4D9" />
+<text x="324.0" y="872" font-size="11.7" font-weight="700" fill="#7F4A00" text-anchor="start">Medium → Standard</text>
+<text x="312.0" y="898" font-size="9.9" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">Minor, raised: customer-facing</text>
+<rect x="552.0" y="756" width="240.0" height="150" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<circle cx="576.0" cy="780" r="12" fill="#121918"/>
+<text x="576.0" y="784.5" font-size="11.25" font-weight="700" fill="#FFFFFF" text-anchor="middle">c</text>
+<text x="598.0" y="785" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">An agent that</text>
+<text x="598.0" y="802" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">prioritises incidents</text>
+<text x="598.0" y="819" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">for IT operations</text>
+<text x="568.0" y="838" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">Limited · influencing · critical process</text>
+<rect x="568.0" y="852" width="208.0" height="30" rx="6" fill="#FFF4D9" />
+<text x="580.0" y="872" font-size="11.7" font-weight="700" fill="#7F4A00" text-anchor="start">Medium → Standard</text>
+<rect x="808.0" y="756" width="240.0" height="150" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<circle cx="832.0" cy="780" r="12" fill="#121918"/>
+<text x="832.0" y="784.5" font-size="11.25" font-weight="700" fill="#FFFFFF" text-anchor="middle">d</text>
+<text x="854.0" y="785" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">An agent that resolves</text>
+<text x="854.0" y="802" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">simple IT tickets by</text>
+<text x="854.0" y="819" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">itself</text>
+<text x="824.0" y="838" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">Minimal · transformative · other process</text>
+<rect x="824.0" y="852" width="208.0" height="30" rx="6" fill="#FFF4D9" />
+<text x="836.0" y="872" font-size="11.7" font-weight="700" fill="#7F4A00" text-anchor="start">Medium → Standard</text>
+<rect x="1064.0" y="756" width="240.0" height="150" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<circle cx="1088.0" cy="780" r="12" fill="#121918"/>
+<text x="1088.0" y="784.5" font-size="11.25" font-weight="700" fill="#FFFFFF" text-anchor="middle">e</text>
+<text x="1110.0" y="785" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">An assistant that ranks</text>
+<text x="1110.0" y="802" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">job applicants for</text>
+<text x="1110.0" y="819" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">recruiters</text>
+<text x="1080.0" y="838" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">High (Annex III) · influencing</text>
+<rect x="1080.0" y="852" width="208.0" height="30" rx="6" fill="#FCE8E5" />
+<text x="1092.0" y="872" font-size="11.7" font-weight="700" fill="#8E2A1F" text-anchor="start">Significant → Enhanced</text>
+<rect x="1320.0" y="756" width="240.0" height="150" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<circle cx="1344.0" cy="780" r="12" fill="#121918"/>
+<text x="1344.0" y="784.5" font-size="11.25" font-weight="700" fill="#FFFFFF" text-anchor="middle">f</text>
+<text x="1366.0" y="785" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">An agent that executes</text>
+<text x="1366.0" y="802" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">payments within set</text>
+<text x="1366.0" y="819" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">limits</text>
+<text x="1336.0" y="838" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">Limited · transformative · critical process</text>
+<rect x="1336.0" y="852" width="208.0" height="30" rx="6" fill="#FCE8E5" />
+<text x="1348.0" y="872" font-size="11.7" font-weight="700" fill="#8E2A1F" text-anchor="start">Significant → Enhanced</text>
+</svg>

@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="832" viewBox="0 0 1600 832" font-family="Montserrat, 'Segoe UI', Arial, sans-serif" role="img">
+<title>Introducing it: six phases</title><desc>Align, choose the technology, set up, pilot, discover, full lifecycle: what happens in each phase and when it is done, and the measures that show the model works.</desc><style>@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&amp;display=swap');</style>
+<defs><linearGradient id="pq-title" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#139782"/><stop offset="1" stop-color="#0090CE"/></linearGradient><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4E5957"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#A86400"/></marker><marker id="arrr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#BF3A2B"/></marker><marker id="arrp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1E2625"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0E8572"/></marker></defs>
+<rect width="1600" height="832" fill="#FFFFFF"/>
+<text x="40" y="52" font-size="25.2" font-weight="600" fill="url(#pq-title)" text-anchor="start">INTRODUCING IT: SIX PHASES</text>
+<text x="40" y="80" font-size="13.5" font-weight="400" fill="#4E5957" text-anchor="start">The framework is agreed first and the technology chosen against it; then set up, piloted, connected to the platforms and run in full.</text>
+<polygon points="40.0,116 286.33333333333337,116 304.33333333333337,148 286.33333333333337,180 40.0,180" fill="#36403E"/>
+<text x="56.0" y="143" font-size="9.9" font-weight="700" fill="#E5E5E5" text-anchor="start" letter-spacing="1.2">PHASE 0</text>
+<text x="56.0" y="166" font-size="14.4" font-weight="700" fill="#FFFFFF" text-anchor="start">Align</text>
+<text x="48.0" y="212" font-size="9.9" font-weight="700" fill="#36403E" text-anchor="start" letter-spacing="1.2">WHAT HAPPENS</text>
+<circle cx="53.0" cy="233.5" r="2.6" fill="#36403E"/>
+<text x="64.0" y="238" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">The framework adapted and agreed</text>
+<circle cx="53.0" cy="256.5" r="2.6" fill="#36403E"/>
+<text x="64.0" y="261" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">The AI Governance Council</text>
+<text x="64.0" y="277" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">chartered</text>
+<circle cx="53.0" cy="295.5" r="2.6" fill="#36403E"/>
+<text x="64.0" y="300" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">The three functions named</text>
+<polygon points="290.33333333333337,116 536.6666666666667,116 554.6666666666667,148 536.6666666666667,180 290.33333333333337,180 308.33333333333337,148" fill="#0077AA"/>
+<text x="324.33333333333337" y="143" font-size="9.9" font-weight="700" fill="#E5E5E5" text-anchor="start" letter-spacing="1.2">PHASE 1</text>
+<text x="324.33333333333337" y="166" font-size="14.4" font-weight="700" fill="#FFFFFF" text-anchor="start">Choose the technology</text>
+<text x="298.33333333333337" y="212" font-size="9.9" font-weight="700" fill="#0077AA" text-anchor="start" letter-spacing="1.2">WHAT HAPPENS</text>
+<circle cx="303.33333333333337" cy="233.5" r="2.6" fill="#0077AA"/>
+<text x="314.33333333333337" y="238" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Requirements of sections 12 and</text>
+<text x="314.33333333333337" y="254" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">13 confirmed with Technology, the</text>
+<text x="314.33333333333337" y="270" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">CISO and the DPO</text>
+<circle cx="303.33333333333337" cy="288.5" r="2.6" fill="#0077AA"/>
+<text x="314.33333333333337" y="293" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Candidates compared</text>
+<circle cx="303.33333333333337" cy="311.5" r="2.6" fill="#0077AA"/>
+<text x="314.33333333333337" y="316" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">The chosen one reviewed for</text>
+<text x="314.33333333333337" y="332" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">security and privacy; hosting</text>
+<text x="314.33333333333337" y="348" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">decided</text>
+<circle cx="303.33333333333337" cy="366.5" r="2.6" fill="#0077AA"/>
+<text x="314.33333333333337" y="371" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">The pilot scope named</text>
+<polygon points="540.6666666666667,116 787.0000000000001,116 805.0000000000001,148 787.0000000000001,180 540.6666666666667,180 558.6666666666667,148" fill="#0E8572"/>
+<text x="574.6666666666667" y="143" font-size="9.9" font-weight="700" fill="#E5E5E5" text-anchor="start" letter-spacing="1.2">PHASE 2</text>
+<text x="574.6666666666667" y="166" font-size="14.4" font-weight="700" fill="#FFFFFF" text-anchor="start">Set up</text>
+<text x="548.6666666666667" y="212" font-size="9.9" font-weight="700" fill="#0E8572" text-anchor="start" letter-spacing="1.2">WHAT HAPPENS</text>
+<circle cx="553.6666666666667" cy="233.5" r="2.6" fill="#0E8572"/>
+<text x="564.6666666666667" y="238" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Single sign-on; roles from</text>
+<text x="564.6666666666667" y="254" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">directory groups</text>
+<circle cx="553.6666666666667" cy="272.5" r="2.6" fill="#0E8572"/>
+<text x="564.6666666666667" y="277" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Classes, fields, stages;</text>
+<text x="564.6666666666667" y="293" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">workflows and forms set to the</text>
+<text x="564.6666666666667" y="309" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">paths and the data protection</text>
+<text x="564.6666666666667" y="325" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">route</text>
+<circle cx="553.6666666666667" cy="343.5" r="2.6" fill="#0E8572"/>
+<text x="564.6666666666667" y="348" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Existing registers imported,</text>
+<text x="564.6666666666667" y="364" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">owners assigned</text>
+<circle cx="553.6666666666667" cy="382.5" r="2.6" fill="#0E8572"/>
+<text x="564.6666666666667" y="387" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">The platforms in use assessed</text>
+<text x="564.6666666666667" y="403" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">against the testing standard;</text>
+<text x="564.6666666666667" y="419" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">components approved for reuse,</text>
+<text x="564.6666666666667" y="435" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">tools tiered</text>
+<polygon points="791.0,116 1037.3333333333333,116 1055.3333333333333,148 1037.3333333333333,180 791.0,180 809.0,148" fill="#A86400"/>
+<text x="825.0" y="143" font-size="9.9" font-weight="700" fill="#E5E5E5" text-anchor="start" letter-spacing="1.2">PHASE 3</text>
+<text x="825.0" y="166" font-size="14.4" font-weight="700" fill="#FFFFFF" text-anchor="start">Pilot</text>
+<text x="799.0" y="212" font-size="9.9" font-weight="700" fill="#A86400" text-anchor="start" letter-spacing="1.2">WHAT HAPPENS</text>
+<circle cx="804.0" cy="233.5" r="2.6" fill="#A86400"/>
+<text x="815.0" y="238" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">All new registrations of [pilot</text>
+<text x="815.0" y="254" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">units or platforms]</text>
+<circle cx="804.0" cy="272.5" r="2.6" fill="#A86400"/>
+<text x="815.0" y="277" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Initial approvals end to end,</text>
+<text x="815.0" y="293" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">with testing and the personal</text>
+<text x="815.0" y="309" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">data screening</text>
+<circle cx="804.0" cy="327.5" r="2.6" fill="#A86400"/>
+<text x="815.0" y="332" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Beside [the existing process] on</text>
+<text x="815.0" y="348" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Standard and Enhanced</text>
+<circle cx="804.0" cy="366.5" r="2.6" fill="#A86400"/>
+<text x="815.0" y="371" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Forms, paths, controls and effort</text>
+<text x="815.0" y="387" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">targets calibrated</text>
+<polygon points="1041.3333333333335,116 1287.6666666666667,116 1305.6666666666667,148 1287.6666666666667,180 1041.3333333333335,180 1059.3333333333335,148" fill="#1E2625"/>
+<text x="1075.3333333333335" y="143" font-size="9.9" font-weight="700" fill="#E5E5E5" text-anchor="start" letter-spacing="1.2">PHASE 4</text>
+<text x="1075.3333333333335" y="166" font-size="14.4" font-weight="700" fill="#FFFFFF" text-anchor="start">Discover</text>
+<text x="1049.3333333333335" y="212" font-size="9.9" font-weight="700" fill="#1E2625" text-anchor="start" letter-spacing="1.2">WHAT HAPPENS</text>
+<circle cx="1054.3333333333335" cy="233.5" r="2.6" fill="#1E2625"/>
+<text x="1065.3333333333335" y="238" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Read-only connectors to the AI</text>
+<text x="1065.3333333333335" y="254" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">platforms in use</text>
+<circle cx="1054.3333333333335" cy="272.5" r="2.6" fill="#1E2625"/>
+<text x="1065.3333333333335" y="277" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Registered and discovered</text>
+<text x="1065.3333333333335" y="293" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">reconciled</text>
+<circle cx="1054.3333333333335" cy="311.5" r="2.6" fill="#1E2625"/>
+<text x="1065.3333333333335" y="316" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Unregistered agents onboarded</text>
+<circle cx="1054.3333333333335" cy="334.5" r="2.6" fill="#1E2625"/>
+<text x="1065.3333333333335" y="339" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">The register audited on a</text>
+<text x="1065.3333333333335" y="355" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">schedule</text>
+<polygon points="1291.6666666666667,116 1538.0,116 1556.0,148 1538.0,180 1291.6666666666667,180 1309.6666666666667,148" fill="#121918"/>
+<text x="1325.6666666666667" y="143" font-size="9.9" font-weight="700" fill="#E5E5E5" text-anchor="start" letter-spacing="1.2">PHASE 5</text>
+<text x="1325.6666666666667" y="166" font-size="14.4" font-weight="700" fill="#FFFFFF" text-anchor="start">Full lifecycle</text>
+<text x="1299.6666666666667" y="212" font-size="9.9" font-weight="700" fill="#121918" text-anchor="start" letter-spacing="1.2">WHAT HAPPENS</text>
+<circle cx="1304.6666666666667" cy="233.5" r="2.6" fill="#121918"/>
+<text x="1315.6666666666667" y="238" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Deployment gate, planned change</text>
+<text x="1315.6666666666667" y="254" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">and detection, triage, periodic</text>
+<text x="1315.6666666666667" y="270" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">review</text>
+<circle cx="1304.6666666666667" cy="288.5" r="2.6" fill="#121918"/>
+<text x="1315.6666666666667" y="293" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Parallel registers retired</text>
+<circle cx="1304.6666666666667" cy="311.5" r="2.6" fill="#121918"/>
+<text x="1315.6666666666667" y="316" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Reporting generated from the</text>
+<text x="1315.6666666666667" y="332" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">record</text>
+<line x1="48.0" y1="470" x2="276.33333333333337" y2="470" stroke="#D5DEDC"/>
+<polygon points="58.0,484 66.0,492 58.0,500 50.0,492" fill="#36403E"/>
+<text x="72.0" y="497" font-size="9.9" font-weight="700" fill="#36403E" text-anchor="start" letter-spacing="1.2">DONE WHEN</text>
+<text x="50.0" y="520" font-size="11.25" font-weight="700" fill="#121918" text-anchor="start">The framework agreed; the</text>
+<text x="50.0" y="536" font-size="11.25" font-weight="700" fill="#121918" text-anchor="start">Council in place</text>
+<line x1="298.33333333333337" y1="470" x2="526.6666666666667" y2="470" stroke="#D5DEDC"/>
+<polygon points="308.33333333333337,484 316.33333333333337,492 308.33333333333337,500 300.33333333333337,492" fill="#0077AA"/>
+<text x="322.33333333333337" y="497" font-size="9.9" font-weight="700" fill="#0077AA" text-anchor="start" letter-spacing="1.2">DONE WHEN</text>
+<text x="300.33333333333337" y="520" font-size="11.25" font-weight="700" fill="#121918" text-anchor="start">A governance solution chosen and</text>
+<text x="300.33333333333337" y="536" font-size="11.25" font-weight="700" fill="#121918" text-anchor="start">reviewed</text>
+<line x1="548.6666666666667" y1="470" x2="777.0000000000001" y2="470" stroke="#D5DEDC"/>
+<polygon points="558.6666666666667,484 566.6666666666667,492 558.6666666666667,500 550.6666666666667,492" fill="#0E8572"/>
+<text x="572.6666666666667" y="497" font-size="9.9" font-weight="700" fill="#0E8572" text-anchor="start" letter-spacing="1.2">DONE WHEN</text>
+<text x="550.6666666666667" y="520" font-size="11.25" font-weight="700" fill="#121918" text-anchor="start">Every asset from the old</text>
+<text x="550.6666666666667" y="536" font-size="11.25" font-weight="700" fill="#121918" text-anchor="start">registers is in, with an owner;</text>
+<text x="550.6666666666667" y="552" font-size="11.25" font-weight="700" fill="#121918" text-anchor="start">the platforms are assessed</text>
+<line x1="799.0" y1="470" x2="1027.3333333333333" y2="470" stroke="#D5DEDC"/>
+<polygon points="809.0,484 817.0,492 809.0,500 801.0,492" fill="#A86400"/>
+<text x="823.0" y="497" font-size="9.9" font-weight="700" fill="#A86400" text-anchor="start" letter-spacing="1.2">DONE WHEN</text>
+<text x="801.0" y="520" font-size="11.25" font-weight="700" fill="#121918" text-anchor="start">[N] assets through initial</text>
+<text x="801.0" y="536" font-size="11.25" font-weight="700" fill="#121918" text-anchor="start">approval; faster and clearer</text>
+<text x="801.0" y="552" font-size="11.25" font-weight="700" fill="#121918" text-anchor="start">than today</text>
+<line x1="1049.3333333333335" y1="470" x2="1277.6666666666667" y2="470" stroke="#D5DEDC"/>
+<polygon points="1059.3333333333335,484 1067.3333333333335,492 1059.3333333333335,500 1051.3333333333335,492" fill="#1E2625"/>
+<text x="1073.3333333333335" y="497" font-size="9.9" font-weight="700" fill="#1E2625" text-anchor="start" letter-spacing="1.2">DONE WHEN</text>
+<text x="1051.3333333333335" y="520" font-size="11.25" font-weight="700" fill="#121918" text-anchor="start">The gap between registered and</text>
+<text x="1051.3333333333335" y="536" font-size="11.25" font-weight="700" fill="#121918" text-anchor="start">discovered is known, and</text>
+<text x="1051.3333333333335" y="552" font-size="11.25" font-weight="700" fill="#121918" text-anchor="start">shrinking</text>
+<line x1="1299.6666666666667" y1="470" x2="1528.0" y2="470" stroke="#D5DEDC"/>
+<polygon points="1309.6666666666667,484 1317.6666666666667,492 1309.6666666666667,500 1301.6666666666667,492" fill="#121918"/>
+<text x="1323.6666666666667" y="497" font-size="9.9" font-weight="700" fill="#121918" text-anchor="start" letter-spacing="1.2">DONE WHEN</text>
+<text x="1301.6666666666667" y="520" font-size="11.25" font-weight="700" fill="#121918" text-anchor="start">The governance solution is the</text>
+<text x="1301.6666666666667" y="536" font-size="11.25" font-weight="700" fill="#121918" text-anchor="start">system of record for AI</text>
+<text x="40" y="610" font-size="11.7" font-weight="700" fill="#4E5957" text-anchor="start" letter-spacing="1.2">MEASURES OF SUCCESS</text>
+<rect x="40.0" y="624" width="294.4" height="80" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="56.0" y="650" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Coverage</text>
+<text x="56.0" y="670" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">discovered AI assets registered, with an</text>
+<text x="56.0" y="684" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">accountable owner</text>
+<text x="320.4" y="650" font-size="10.8" font-weight="700" fill="#0B5E51" text-anchor="end">towards 100%</text>
+<rect x="346.4" y="624" width="294.4" height="80" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="362.4" y="650" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Detection latency</text>
+<text x="362.4" y="670" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">from appearing on a platform to registration</text>
+<text x="626.8" y="650" font-size="10.8" font-weight="700" fill="#1E2625" text-anchor="end">▼ down</text>
+<rect x="652.8" y="624" width="294.4" height="80" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="668.8" y="650" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Time to decision</text>
+<text x="668.8" y="670" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">from registration to initial approval</text>
+<text x="933.1999999999999" y="650" font-size="10.8" font-weight="700" fill="#1E2625" text-anchor="end">▼ down</text>
+<rect x="959.1999999999999" y="624" width="294.4" height="80" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="975.1999999999999" y="650" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Overdue work</text>
+<text x="975.1999999999999" y="670" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">reviews, conditions and tasks past their date</text>
+<text x="1239.6" y="650" font-size="10.8" font-weight="700" fill="#1E2625" text-anchor="end">▼ down</text>
+<rect x="1265.6" y="624" width="294.4" height="80" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="1281.6" y="650" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Change declared or detected</text>
+<text x="1281.6" y="670" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">rather than reported afterwards</text>
+<text x="1546.0" y="650" font-size="10.8" font-weight="700" fill="#1E2625" text-anchor="end">▲ up</text>
+<rect x="40.0" y="716" width="294.4" height="80" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="56.0" y="742" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Facts typed once</text>
+<text x="56.0" y="762" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">no double entry across register,</text>
+<text x="56.0" y="776" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">questionnaire, risk template and GRC</text>
+<text x="320.4" y="742" font-size="10.8" font-weight="700" fill="#0B5E51" text-anchor="end">achieved</text>
+<rect x="346.4" y="716" width="294.4" height="80" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="362.4" y="742" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Settled without a person</text>
+<text x="362.4" y="762" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">access requests and changes resolved by rule,</text>
+<text x="362.4" y="776" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">and recorded</text>
+<text x="626.8" y="742" font-size="10.8" font-weight="700" fill="#1E2625" text-anchor="end">▲ up</text>
+<rect x="652.8" y="716" width="294.4" height="80" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="668.8" y="742" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Reuse</text>
+<text x="668.8" y="762" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">agents built on components already assessed</text>
+<text x="933.1999999999999" y="742" font-size="10.8" font-weight="700" fill="#1E2625" text-anchor="end">▲ up</text>
+<rect x="959.1999999999999" y="716" width="294.4" height="80" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="975.1999999999999" y="742" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Time waiting on people</text>
+<text x="975.1999999999999" y="762" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">per step and per path, against the targets of</text>
+<text x="975.1999999999999" y="776" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">11.4</text>
+<text x="1239.6" y="742" font-size="10.8" font-weight="700" fill="#1E2625" text-anchor="end">▼ down</text>
+<rect x="1265.6" y="716" width="294.4" height="80" rx="16" fill="#FFFFFF" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="1281.6" y="742" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Audit test</text>
+<text x="1281.6" y="762" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">what was approved on a past date, by whom, on</text>
+<text x="1281.6" y="776" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">what evidence</text>
+<text x="1546.0" y="742" font-size="10.8" font-weight="700" fill="#0B5E51" text-anchor="end">in minutes</text>
+</svg>

@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100" font-family="Montserrat, 'Segoe UI', Arial, sans-serif" role="img">
+<title>Testing: what is tested, by whom, and how deep</title><desc>The platform is assessed once and its result inherited; each agent is tested on what its builder controls. Seven kinds of testing cover four kinds of harm; the path sets the depth; findings and a signed test report decide whether it passes.</desc><style>@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&amp;display=swap');</style>
+<defs><linearGradient id="pq-title" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#139782"/><stop offset="1" stop-color="#0090CE"/></linearGradient><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4E5957"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#A86400"/></marker><marker id="arrr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#BF3A2B"/></marker><marker id="arrp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1E2625"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0E8572"/></marker></defs>
+<rect width="1600" height="1100" fill="#FFFFFF"/>
+<text x="40" y="52" font-size="25.2" font-weight="600" fill="url(#pq-title)" text-anchor="start">TESTING: WHAT IS TESTED, BY WHOM, AND HOW DEEP</text>
+<text x="40" y="80" font-size="13.5" font-weight="400" fill="#4E5957" text-anchor="start">Four kinds of harm. The platform is assessed once and inherited; each agent is tested on what its builder controls; its path sets the depth.</text>
+<text x="40" y="128" font-size="11.7" font-weight="700" fill="#4E5957" text-anchor="start" letter-spacing="1.2">ASSESSED ONCE, INHERITED</text>
+<rect x="96" y="142" width="450" height="130" rx="16" fill="#121918" />
+<text x="114" y="170" font-size="13.5" font-weight="700" fill="#FFFFFF" text-anchor="start">Agent</text>
+<text x="114" y="190" font-size="10.8" font-weight="400" fill="#D5DEDC" text-anchor="start" font-style="italic">Before go-live, and on a substantial modification</text>
+<text x="114" y="214" font-size="11.25" font-weight="400" fill="#FFFFFF" text-anchor="start">What its builder controls: instructions, tools and their tiers,</text>
+<text x="114" y="231" font-size="11.25" font-weight="400" fill="#FFFFFF" text-anchor="start">knowledge sources, identity and permissions, autonomy and</text>
+<text x="114" y="248" font-size="11.25" font-weight="400" fill="#FFFFFF" text-anchor="start">authority statement</text>
+<rect x="96" y="282" width="450" height="130" rx="16" fill="#E5E5E5" />
+<text x="114" y="310" font-size="13.5" font-weight="700" fill="#121918" text-anchor="start">Components</text>
+<text x="114" y="330" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">When approved for reuse, and when they change</text>
+<text x="114" y="354" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Tools by tier: 1 a check, 2 a review, 3 or built in-house security</text>
+<text x="114" y="371" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">tests. Skills scanned and reviewed for hidden instructions</text>
+<rect x="96" y="422" width="450" height="130" rx="16" fill="#C7EDE3" />
+<text x="114" y="450" font-size="13.5" font-weight="700" fill="#114B42" text-anchor="start">Platform or AI-enabled system</text>
+<text x="114" y="470" font-size="10.8" font-weight="400" fill="#0E8572" text-anchor="start" font-style="italic">When onboarded, and on major change</text>
+<text x="114" y="494" font-size="11.25" font-weight="400" fill="#114B42" text-anchor="start">Its built-in controls: content filtering and guardrails, identity</text>
+<text x="114" y="511" font-size="11.25" font-weight="400" fill="#114B42" text-anchor="start">and permissions, logging, data handling, connector and MCP</text>
+<text x="114" y="528" font-size="11.25" font-weight="400" fill="#114B42" text-anchor="start">controls</text>
+<line x1="64" y1="542" x2="64" y2="150" stroke="#0E8572" stroke-width="2.2" marker-end="url(#arr)"/>
+<text x="56" y="352.0" font-size="10.8" font-weight="700" fill="#0E8572" text-anchor="middle" transform="rotate(-90 56 352.0)" letter-spacing="1.2">WHAT IS BELOW IS INHERITED</text>
+<text x="40" y="578" font-size="11.25" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">Tested again: after an incident, against what failed; Enhanced and autonomous</text>
+<text x="40" y="595" font-size="11.25" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">assets on a schedule [every six months].</text>
+<text x="590" y="128" font-size="11.7" font-weight="700" fill="#4E5957" text-anchor="start" letter-spacing="1.2">WHAT IS TESTED, AGAINST WHICH HARM, AND BY WHOM</text>
+<rect x="590" y="142" width="970" height="396" rx="19.2" fill="#F3FCFA" stroke="#D5DEDC" stroke-width="1.2" />
+<text x="844.0" y="170" font-size="11.7" font-weight="700" fill="#005A87" text-anchor="middle">Technical</text>
+<text x="844.0" y="187" font-size="9.9" font-weight="400" fill="#4E5957" text-anchor="middle">security,</text>
+<text x="844.0" y="201" font-size="9.9" font-weight="400" fill="#4E5957" text-anchor="middle">integrity</text>
+<text x="940.0" y="170" font-size="11.7" font-weight="700" fill="#A86400" text-anchor="middle">Operational</text>
+<text x="940.0" y="187" font-size="9.9" font-weight="400" fill="#4E5957" text-anchor="middle">wrong or</text>
+<text x="940.0" y="201" font-size="9.9" font-weight="400" fill="#4E5957" text-anchor="middle">unreliable</text>
+<text x="1036.0" y="170" font-size="11.7" font-weight="700" fill="#3A4745" text-anchor="middle">Societal</text>
+<text x="1036.0" y="187" font-size="9.9" font-weight="400" fill="#4E5957" text-anchor="middle">bias, unfair</text>
+<text x="1036.0" y="201" font-size="9.9" font-weight="400" fill="#4E5957" text-anchor="middle">treatment</text>
+<text x="1132.0" y="170" font-size="11.7" font-weight="700" fill="#BF3A2B" text-anchor="middle">Systemic</text>
+<text x="1132.0" y="187" font-size="9.9" font-weight="400" fill="#4E5957" text-anchor="middle">failures that</text>
+<text x="1132.0" y="201" font-size="9.9" font-weight="400" fill="#4E5957" text-anchor="middle">spread</text>
+<text x="1196" y="170" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">Who tests</text>
+<rect x="598" y="220" width="954" height="40" rx="9.6" fill="#FFFFFF" />
+<text x="610" y="245" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Quality and reliability</text>
+<circle cx="940.0" cy="240" r="8" fill="#A86400"/>
+<circle cx="1200" cy="240" r="4.5" fill="#0077AA"/>
+<text x="1212" y="245" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">The builder; reviewed at the gate</text>
+<text x="610" y="289" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Safety and conduct</text>
+<circle cx="940.0" cy="284" r="8" fill="#A86400"/>
+<circle cx="1036.0" cy="284" r="8" fill="#3A4745"/>
+<circle cx="1200" cy="284" r="4.5" fill="#0077AA"/>
+<text x="1212" y="289" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">The builder; the red team on Enhanced</text>
+<rect x="598" y="308" width="954" height="40" rx="9.6" fill="#FFFFFF" />
+<text x="610" y="333" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Fairness and bias</text>
+<circle cx="1036.0" cy="328" r="8" fill="#3A4745"/>
+<circle cx="1200" cy="328" r="4.5" fill="#0077AA"/>
+<text x="1212" y="333" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">The builder; reviewed by [model validation]</text>
+<text x="610" y="377" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Security</text>
+<circle cx="844.0" cy="372" r="8" fill="#005A87"/>
+<circle cx="1200" cy="372" r="4.5" fill="#0E8572"/>
+<text x="1212" y="377" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">The AI security team, never the builder</text>
+<rect x="598" y="396" width="954" height="40" rx="9.6" fill="#FFFFFF" />
+<text x="610" y="421" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Personal data</text>
+<circle cx="844.0" cy="416" r="8" fill="#005A87"/>
+<circle cx="1036.0" cy="416" r="8" fill="#3A4745"/>
+<circle cx="1200" cy="416" r="4.5" fill="#0E8572"/>
+<text x="1212" y="421" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">AI security team: disclosure; builder: accuracy</text>
+<text x="610" y="465" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Controls of its autonomy</text>
+<circle cx="844.0" cy="460" r="8" fill="#005A87"/>
+<circle cx="1132.0" cy="460" r="8" fill="#BF3A2B"/>
+<circle cx="1200" cy="460" r="4.5" fill="#0E8572"/>
+<text x="1212" y="465" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">The AI security team</text>
+<rect x="598" y="484" width="954" height="40" rx="9.6" fill="#FFFFFF" />
+<text x="610" y="509" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Operational readiness</text>
+<circle cx="940.0" cy="504" r="8" fill="#A86400"/>
+<circle cx="1200" cy="504" r="4.5" fill="#0077AA"/>
+<text x="1212" y="509" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">The technical owner; confirmed by the AI security team</text>
+<text x="1196" y="560" font-size="10.35" font-weight="400" fill="#0077AA" text-anchor="start">the builder</text>
+<circle cx="1188" cy="556" r="4.5" fill="#0077AA"/>
+<text x="1290" y="560" font-size="10.35" font-weight="400" fill="#0E8572" text-anchor="start">the AI security team</text>
+<circle cx="1282" cy="556" r="4.5" fill="#0E8572"/>
+<text x="590" y="560" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">Catalogues: OWASP Top 10 for LLM Applications · OWASP Top 10 for Agentic Applications · MITRE ATLAS</text>
+<text x="40" y="642" font-size="11.7" font-weight="700" fill="#4E5957" text-anchor="start" letter-spacing="1.2">DEPTH BY PATH</text>
+<rect x="264.0" y="656" width="425.3333333333333" height="34" rx="8" fill="#0E8572" />
+<text x="280.0" y="679" font-size="12.6" font-weight="700" fill="#FFFFFF" text-anchor="start">Light</text>
+<rect x="697.3333333333333" y="656" width="425.3333333333333" height="34" rx="8" fill="#A86400" />
+<text x="713.3333333333333" y="679" font-size="12.6" font-weight="700" fill="#FFFFFF" text-anchor="start">Standard</text>
+<rect x="1130.6666666666665" y="656" width="425.3333333333333" height="34" rx="8" fill="#BF3A2B" />
+<text x="1146.6666666666665" y="679" font-size="12.6" font-weight="700" fill="#FFFFFF" text-anchor="start">Enhanced</text>
+<text x="40" y="722" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Quality and reliability</text>
+<rect x="264.0" y="700" width="425.3333333333333" height="54" rx="12.8" fill="#E2F5EF" />
+<text x="278.0" y="722" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">A documented evaluation on a sample: hallucination, errors,</text>
+<text x="278.0" y="739" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">limits</text>
+<rect x="697.3333333333333" y="700" width="425.3333333333333" height="54" rx="12.8" fill="#FFF4D9" />
+<text x="711.3333333333333" y="722" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">+ an evaluation set agreed with the owner; thresholds set at</text>
+<text x="711.3333333333333" y="739" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Gate 1</text>
+<rect x="1130.6666666666665" y="700" width="425.3333333333333" height="54" rx="12.8" fill="#FCE8E5" />
+<text x="1144.6666666666665" y="722" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">+ regression on every change; independent review of a high-risk</text>
+<text x="1144.6666666666665" y="739" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">model</text>
+<text x="40" y="782" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Safety and conduct</text>
+<rect x="264.0" y="760" width="425.3333333333333" height="37" rx="8" fill="#E2F5EF" />
+<text x="278.0" y="782" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Checks of what it must refuse, and when it must hand over</text>
+<rect x="697.3333333333333" y="760" width="425.3333333333333" height="37" rx="8" fill="#FFF4D9" />
+<text x="711.3333333333333" y="782" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">+ a structured set of harmful and misleading prompts</text>
+<rect x="1130.6666666666665" y="760" width="425.3333333333333" height="37" rx="8" fill="#FCE8E5" />
+<text x="1144.6666666666665" y="782" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">+ covered by red teaming</text>
+<text x="40" y="825" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Fairness and bias</text>
+<rect x="264.0" y="803" width="425.3333333333333" height="37" rx="8" fill="#E2F5EF" />
+<text x="278.0" y="825" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">Where people are affected: a check across relevant groups</text>
+<rect x="697.3333333333333" y="803" width="425.3333333333333" height="37" rx="8" fill="#FFF4D9" />
+<text x="711.3333333333333" y="825" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">+ representative data and agreed metrics</text>
+<rect x="1130.6666666666665" y="803" width="425.3333333333333" height="37" rx="8" fill="#FCE8E5" />
+<text x="1144.6666666666665" y="825" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">+ a full evaluation, repeated after any change of model or data</text>
+<text x="40" y="868" font-size="12.15" font-weight="700" fill="#121918" text-anchor="start">Security</text>
+<rect x="264.0" y="846" width="425.3333333333333" height="54" rx="12.8" fill="#E2F5EF" />
+<text x="278.0" y="868" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">A self-check against the platform&#x27;s checklist, sampled by the</text>
+<text x="278.0" y="885" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">AI security team</text>
+<rect x="697.3333333333333" y="846" width="425.3333333333333" height="54" rx="12.8" fill="#FFF4D9" />
+<text x="711.3333333333333" y="868" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">+ targeted tests by the AI security team</text>
+<rect x="1130.6666666666665" y="846" width="425.3333333333333" height="54" rx="12.8" fill="#FCE8E5" />
+<text x="1144.6666666666665" y="868" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">+ red teaming with MITRE ATLAS scenarios; re-tests on a</text>
+<text x="1144.6666666666665" y="885" font-size="11.25" font-weight="400" fill="#121918" text-anchor="start">schedule</text>
+<text x="40" y="924" font-size="10.8" font-weight="400" fill="#4E5957" text-anchor="start" font-style="italic">Controls of its autonomy are tested by level of autonomy, whatever the path: conditional agents stay inside their authority statement and can be stopped; autonomous agents also have limits on runaway actions and logs that replay what they did.</text>
+<text x="40" y="962" font-size="11.7" font-weight="700" fill="#4E5957" text-anchor="start" letter-spacing="1.2">HOW A TEST IS PASSED</text>
+<polygon points="40.0,976 223.75,976 239.75,1020 223.75,1064 40.0,1064" fill="#EDF6FB"/>
+<text x="54.0" y="1006" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">Criteria first</text>
+<text x="54.0" y="1026" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">metrics and thresholds</text>
+<text x="54.0" y="1041" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">set at Gate 1</text>
+<polygon points="227.75,976 411.5,976 427.5,1020 411.5,1064 227.75,1064 243.75,1020" fill="#DCEEF8"/>
+<text x="257.75" y="1006" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">Tested</text>
+<text x="257.75" y="1026" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">on the candidate</text>
+<text x="257.75" y="1041" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">configuration, away from</text>
+<text x="257.75" y="1056" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">production</text>
+<polygon points="415.5,976 599.25,976 615.25,1020 599.25,1064 415.5,1064 431.5,1020" fill="#EDF6FB"/>
+<text x="445.5" y="1006" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">Findings rated</text>
+<text x="445.5" y="1026" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">[critical · high ·</text>
+<text x="445.5" y="1041" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">medium · low]</text>
+<polygon points="603.25,976 787.0,976 803.0,1020 787.0,1064 603.25,1064 619.25,1020" fill="#FCE8E5"/>
+<text x="633.25" y="1006" font-size="11.7" font-weight="700" fill="#8E2A1F" text-anchor="start">Critical, high</text>
+<text x="633.25" y="1026" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">block go-live until</text>
+<text x="633.25" y="1041" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">fixed and re-tested</text>
+<polygon points="791.0,976 974.75,976 990.75,1020 974.75,1064 791.0,1064 807.0,1020" fill="#EDF6FB"/>
+<text x="821.0" y="1006" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">Medium, low</text>
+<text x="821.0" y="1026" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">conditions with an owner</text>
+<text x="821.0" y="1041" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">and date, or accepted</text>
+<text x="821.0" y="1056" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">risks</text>
+<polygon points="978.75,976 1162.5,976 1178.5,1020 1162.5,1064 978.75,1064 994.75,1020" fill="#DCEEF8"/>
+<text x="1008.75" y="1006" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">One test report</text>
+<text x="1008.75" y="1026" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">per configuration,</text>
+<text x="1008.75" y="1041" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">signed by who tested</text>
+<polygon points="1166.5,976 1350.25,976 1366.25,1020 1350.25,1064 1166.5,1064 1182.5,1020" fill="#EDF6FB"/>
+<text x="1196.5" y="1006" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">The CISO</text>
+<text x="1196.5" y="1026" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">samples reports and</text>
+<text x="1196.5" y="1041" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">challenges them</text>
+<polygon points="1354.25,976 1538.0,976 1554.0,1020 1538.0,1064 1354.25,1064 1370.25,1020" fill="#DCEEF8"/>
+<text x="1384.25" y="1006" font-size="11.7" font-weight="700" fill="#121918" text-anchor="start">Users are told</text>
+<text x="1384.25" y="1026" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">known limitations go</text>
+<text x="1384.25" y="1041" font-size="10.35" font-weight="400" fill="#4E5957" text-anchor="start">into their instructions</text>
+</svg>
