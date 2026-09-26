@@ -123,11 +123,13 @@ footer a{color:var(--muted)}
 display:grid;place-items:center;text-decoration:none;font-size:18px;box-shadow:0 4px 14px rgba(0,0,0,.2);opacity:0;
 pointer-events:none;transition:opacity .2s;z-index:40}
 .to-top.on{opacity:.9;pointer-events:auto}
-.show-side{display:none;position:fixed;left:18px;top:18px;z-index:45;background:var(--dark);color:#fff;border:0;
-border-radius:24px;padding:10px 16px;font:500 13px/1 var(--head);cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.2)}
+/* contents hidden for reading: the Contents button stands in the header before the title, as on phones, and the
+   header stays at the top, so the button is always in reach and covers nothing */
 body.reading .layout{grid-template-columns:0 minmax(0,1fr)}
 body.reading .side{visibility:hidden}
-body.reading .show-side{display:block}
+body.reading .masthead{position:sticky;top:0;z-index:50}
+body.reading .menu{display:inline-flex}
+html.reading{scroll-padding-top:104px}
 .scrim{display:none}
 /* the enlarged figure */
 .lb{position:fixed;inset:0;background:rgba(18,25,24,.92);z-index:100;display:none;overflow:auto;padding:64px 24px 24px}
@@ -172,7 +174,7 @@ figcaption{flex-direction:column;gap:8px}
 html{scroll-padding-top:70px}
 }
 @media print{
-.side,.progress,.to-top,.lb,.menu,.enlarge,.mh-links,.scrim,.show-side{display:none!important}
+.side,.progress,.to-top,.lb,.menu,.enlarge,.mh-links,.scrim{display:none!important}
 .layout{display:block}main{padding:0}body{font-size:10.5pt;line-height:1.5}
 .masthead{background:#fff;color:var(--ink)}.masthead::after{display:none}.brand{color:var(--ink)}
 .brand small{color:var(--muted)}
@@ -3744,7 +3746,6 @@ a{color:inherit;text-decoration:none}
 </div></main>
 </div>
 <div class="scrim" aria-hidden="true"></div>
-<button class="show-side" type="button">☰ Contents</button>
 <a class="to-top" href="#about" aria-label="Back to the top">↑</a>
 <div class="lb" role="dialog" aria-modal="true" aria-label="Enlarged figure"><button class="lb-close" type="button">Close ✕</button>
 <div class="lb-inner"></div></div>
@@ -3778,15 +3779,19 @@ var narrow=window.matchMedia('(max-width:1000px)'),menu=d.querySelector('.menu')
 function setDrawer(open){body.classList.toggle('nav-open',open);h.classList.toggle('nav-open',open);
   menu.setAttribute('aria-expanded',open?'true':'false');
   if(open){var on=side.querySelector('a.on');if(on){reveal(on);on.focus({preventScroll:true});}}}
-menu.addEventListener('click',function(){setDrawer(!body.classList.contains('nav-open'));});
+menu.addEventListener('click',function(){if(narrow.matches){setDrawer(!body.classList.contains('nav-open'));}
+  else{setReading(false);}});
 d.querySelector('.scrim').addEventListener('click',function(){setDrawer(false);});
 d.querySelector('.side-close').addEventListener('click',function(){setDrawer(false);menu.focus({preventScroll:true});});
-narrow.addEventListener('change',function(e){if(!e.matches){setDrawer(false);}});
+narrow.addEventListener('change',function(e){if(e.matches){setReading(false);}else{setDrawer(false);}});
 links.forEach(function(a){a.addEventListener('click',function(){if(narrow.matches){setDrawer(false);}});});
 side.querySelectorAll('.grp a').forEach(function(a){a.addEventListener('click',function(){if(narrow.matches){setDrawer(false);}});});
-function setReading(on){body.classList.toggle('reading',on);}
-d.querySelector('.reading').addEventListener('click',function(){setReading(true);});
-d.querySelector('.show-side').addEventListener('click',function(){setReading(false);});
+var hide=d.querySelector('.reading');
+function setReading(on){body.classList.toggle('reading',on);h.classList.toggle('reading',on);
+  if(narrow.matches){return;}
+  menu.setAttribute('aria-expanded',on?'false':'true');
+  (on?menu:hide).focus({preventScroll:true});}
+hide.addEventListener('click',function(){setReading(true);});
 var lb=d.querySelector('.lb'),inner=lb.querySelector('.lb-inner'),last=null;
 function open(f){var svg=f.querySelector('svg');var c=svg.cloneNode(true);inner.innerHTML='';inner.appendChild(c);
   var w=parseInt(svg.getAttribute('data-w')||'1600',10);inner.style.maxWidth=Math.round(w*1.2)+'px';
